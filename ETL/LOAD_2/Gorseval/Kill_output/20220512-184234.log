@@ -1,0 +1,124 @@
+Elapsed 8008 ms
+Reading Binary
+Parsing fight data
+ArcDPS Build EVTC20220415
+ArcDPS Combat Item Revision 1
+Fight Instance 15429
+Parsing agent data
+Agent Count 266
+Parsing skill data
+Skill Count 476
+Parsing combat list
+Combat Event Count 139648
+Encountered supported extension Healing Stats on 2.2rc2
+Linking agents to combat list
+Linking minions to their masters
+Adjust extension events
+Creating players
+Preparing data for log generation
+Offset time
+Encounter specific processing
+Player count: 10
+Friendlies count: 0
+Targets count: 9
+Trash Mobs count: 12
+Data parsed
+Creating GW2EI Combat Events
+Creating EI Combat Data
+Combining SkillInfo with SkillData
+Creating Cast Events
+Creating Buff Events
+Creating Damage Events
+Attaching healing extension revision 2 combat events
+Attached 1797 heal events to CombatData
+Attached 913 barrier events to CombatData
+1 player has the extension running
+Attached healing extension combat events
+Creating Custom Buff Events
+Creating Custom Damage Events
+Creating Custom Cast Events
+Creating Custom Status Events
+Attaching Banners to Warriors
+Attaching Turrets to Engineers
+Attaching Ranger Gadgets to Rangers
+Attaching Racial Gadgets to Players
+Checking CM
+Setting Fight Name
+Checking Success
+Creating GW2EI Log Meta Data
+PoV Deadly Gasai Yuno
+GW2 Build 128878
+Language Spanish
+Log Start 2022-05-12 19:39:12 +02:00
+Log End 2022-05-12 19:42:33 +02:00
+Error As of arcdps 20210923, animated cast events' durations are broken, as such, any feature having a dependency on it are to be taken with a grain of salt. Impacted features are: <br>- Rotations <br>- Time spent in animation statistics <br>- Mechanics <br>- Phases <br>- Combat Replay Decorations
+Creating Buff Container
+Adjusting Buffs
+Deduced 22 unknown buff formulas
+Adjusted capacity for Fury from 9 to 99
+Adjusted capacity for Quickness from 5 to 99
+Adjusted capacity for Alacrity from 9 to 99
+Adjusted capacity for Protection from 5 to 99
+Adjusted capacity for Vigor from 5 to 99
+Adjusted capacity for Swiftness from 9 to 99
+Adjusted capacity for Resistance from 5 to 99
+Adjusted capacity for Resolution from 5 to 99
+Adjusted capacity for Chilled from 5 to 9
+Adjusted capacity for Crippled from 5 to 9
+Adjusted capacity for Immobile from 3 to 9
+Adjusted capacity for Weakness from 5 to 9
+Adjusted capacity for Taunt from 5 to 9
+Adjusted capacity for Hide in Shadows from 25 to 9
+Adjusted capacity for Zealot's Flame from 25 to 9
+Adjusted capacity for Unbroken Lines from 3 to 25
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 82:  +20Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 92:  +10Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 105:  +5Unknown
+Unknown Formula for Peppered Cured Meat Flatbread: Unknown 117:  +10Unknown
+Unknown Formula for Tin of Fruitcake: Unknown 92:  +10Unknown
+Unknown Formula for Tuning Icicle: Unknown 92:  +10Unknown
+Unknown Formula for Ghastly Prison: Unknown 56:  +0.04Unknown
+Unknown Formula for Vivid Echo: Unknown 26: (0.075 * Unknown + 10.4)Unknown
+Unknown Formula for Vivid Echo: Unknown 26: (0.05 * Unknown + 6.6)Unknown
+Unknown Formula for Overclock Signet: Unknown 102:  +80Unknown
+Unknown Formula for Overclock Signet: Unknown 102:  +80Unknown
+Unknown Formula for Overclock Signet: Unknown 102:  +80Unknown
+Unknown Formula for Overclock Signet: Unknown 102:  +80Unknown
+Unknown Formula for Overclock Signet: Unknown 102:  +80Unknown
+Unknown Formula for Overclock Signet: Unknown 102:  +80Unknown
+Unknown Formula for Overclock Signet: Unknown 102:  +80Unknown
+Unknown Formula for Overclock Signet (J-Drive): Unknown 102:  +76Unknown
+Unknown Formula for Overclock Signet (J-Drive): Unknown 102:  +76Unknown
+Unknown Formula for Overclock Signet (J-Drive): Unknown 102:  +76Unknown
+Unknown Formula for Overclock Signet (J-Drive): Unknown 102:  +76Unknown
+Unknown Formula for Overclock Signet (J-Drive): Unknown 102:  +76Unknown
+Unknown Formula for Overclock Signet (J-Drive): Unknown 102:  +76Unknown
+Unknown Formula for Overclock Signet (J-Drive): Unknown 102:  +76Unknown
+Creating Damage Modifier Container
+Creating Mechanic Data
+Creating General Statistics Container
+Multi threading
+Initializing Actor dictionary
+Creating File(s)
+Creating CSV
+CSV: Building Meta Data
+CSV: Building DPS Data
+CSV: Building Boss Damage Data
+CSV: Building Damage Data
+CSV: Building Defense Data
+CSV: Building Support Data
+CSV: Building Boon Data
+CSV: Building Offensive Buff Data
+CSV: Building Defensive Buff Data
+CSV: Building Mechanics Data
+CSV: Building Boss Condition Data
+CSV: Building Boss Boon Data
+CSV created
+Raw Format: Building Meta Data
+Raw Format: Building Mechanics
+Raw Format: Building Phases
+Raw Format: Building Targets
+Raw Format: Building Players
+Creating JSON
+JSON created
+Completed parsing for killed gors

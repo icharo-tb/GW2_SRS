@@ -1,0 +1,413 @@
+Elite Insights,2.44.1.0,
+ARC Version,EVTC20220415,
+Fight ID,15429,
+Recorded By,Vyneaw,
+Time Start,2022-04-17 22:54:44 +02:00,
+Time End,2022-04-17 22:58:09 +02:00,
+
+
+
+
+Boss,Gorseval el Múltiple,
+Success,True,
+Total Boss Health,21628200,
+Final Boss Health,0,
+Boss Health Burned %,100,
+Duration,03m 22s 387ms,
+Sub Group,Profession,Role,Name,Account,WepSet1_1,WepSet1_2,WepSet2_1,WepSet2_2,Boss DPS,Boss DMG,Boss Power DPS,Boss Power DMG,Boss Condi DPS,Boss Condi DMG,All DPS,All DMG,All Power DPS,All Power DMG,All Condi DPS,All Condi DMG,Times Downed,Time Died,Percent Alive,
+2,Mechanist, Concentration:10,Arceso,Arceso.8749,Mace,Pistol,Unknown,Unknown,7658,1549965,2546,515191,5113,1034774,11123,2251102,3481,704503,7642,1546599,0,0,,
+2,Scourge, Condi:10,Alice Greenthorn,CrambzZ.4892,Scepter,Torch,Unknown,Unknown,17281,3497452,1564,316460,15717,3180992,25508,5162581,2555,517129,22953,4645452,0,0,,
+2,Harbinger, Condi:10,Edëlyn,Eliasmon.4537,Scepter,Dagger,Pistol,Dagger,12410,2511667,2041,413109,10369,2098558,16166,3271766,2981,603370,13185,2668396,0,0,,
+2,Firebrand, Condi:10,Daddynar Kholin,Garri.9526,Scepter,Torch,Axe,Torch,14422,2918835,1652,334294,12770,2584541,23965,4850194,2852,577233,21113,4272961,0,0,,
+2,Virtuoso, Condi:10,Sofykan,Bente.9703,Unknown,Unknown,Unknown,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+3,Scourge, Condi:10,Nightmare Aliyosha,Reciprokator.1429,Scepter,Torch,Unknown,Unknown,18095,3662216,1485,300545,16610,3361671,26919,5448080,2541,514209,24378,4933871,0,0,,
+3,Mirage, Condi:10,Sirene Shyrma,Thorquios.1620,Staff,2Hand,Staff,2Hand,10453,2115479,992,200685,9461,1914794,12785,2587455,1478,299065,11307,2288390,0,0,,
+3,Scourge, Condi:10,Vyneaw,fernaxv.3249,Unknown,Unknown,Scepter,Torch,12064,2441565,1045,211562,11019,2230003,21381,4327307,1890,382507,19491,3944800,0,0,,
+3,Scourge, Healing:10,Ereshkigalr,pablogintoki.3261,Dagger,Warhorn,Dagger,Torch,2987,604436,2010,406802,977,197634,6558,1327201,3125,632501,3433,694700,0,0,,
+3,Harbinger, Condi:10,Darkvieefe,VieeFee.3540,Scepter,Dagger,Pistol,Dagger,11136,2253726,2012,407240,9124,1846486,15050,3045962,2926,592145,12124,2453817,0,0,,
+
+
+
+
+
+Sub Group,Profession,Name,Critical%,Critical hits,Critical DMG,Scholar%,Scholar hits,Scholar DMG,Scholar % increase,Moving%,Moving Hits,Moving DMG,Moving % increase,Flanking%,Flanking hits,Glancing%,Glancing Hits,Blind%,Blind Hits,Total Hits,Hits to Interupt,Hits Invulned,Time wasted,Time saved,Weapon Swaps,
+2,Mechanist,Arceso,83,191,219079,93,214,11160.81,4.718,7.8,18,1049.905,0.426,38.3,88,0,0,0,0,257,0,71,7.652,23.297,69,
+2,Scourge,Alice Greenthorn,87.1,283,284167,94.8,308,14277.905,4.725,22.2,72,3255,1.039,95.1,309,0,0,0,0,407,0,217,6.158,37.556,0,
+2,Harbinger,Edëlyn,78.2,254,351506,84.6,275,16594.857,4.185,23.4,76,3738.333,0.913,87.4,284,0,0,0,0,345,0,74,7.895,45.488,6,
+2,Firebrand,Daddynar Kholin,69.2,256,256290,91.7,344,14387.286,4.497,37.3,140,5522.524,1.68,93.9,352,0,0,0,0,395,0,74,0.315,12.249,27,
+2,Virtuoso,Sofykan,NaN,0,0,NaN,0,0,NaN,NaN,0,0,NaN,NaN,0,NaN,0,NaN,0,0,0,0,0,0,0,
+3,Scourge,Nightmare Aliyosha,83.5,259,265121,100,310,14311.667,5,24.8,77,3373.381,1.135,93.9,291,0,0,0,0,352,0,176,5.833,35.473,0,
+3,Mirage,Sirene Shyrma,44.8,126,88603,90.4,254,7318.143,4.507,21.4,60,1663.952,0.99,94,264,0,0,0,0,307,0,124,5.318,2.394,19,
+3,Scourge,Vyneaw,71.7,180,170016,62.5,157,6298.286,3.068,21.9,55,2075.667,0.991,95.2,239,4.4,11,0,0,278,0,153,7.143,32.265,3,
+3,Scourge,Ereshkigalr,45.8,174,173588,94.5,359,13995.143,4.662,13.9,53,1644.762,0.526,96.3,366,0,0,0,0,422,0,65,1.434,13.415,4,
+3,Harbinger,Darkvieefe,72,254,324440,83.9,296,16416.286,4.2,25.5,90,4169.333,1.034,94.9,335,0.3,1,0,0,366,0,81,5.982,26.976,10,
+
+
+
+
+
+Sub Group,Profession,Name,Critical%,Critical hits,Critical DMG,Scholar%,Scholar hits,Scholar DMG,Scholar % increase,Moving%,Moving Hits,Moving DMG,Moving % increase,Flanking%,Flanking hits,Glancing%,Glancing Hits,Blind%,Blind Hits,Total Hits,Hits to Interupt,Hits Invulned,Time wasted,Time saved,Weapon Swaps,
+2,Mechanist,Arceso,78.1,293,331131,93,214,11160.81,4.718,7.8,18,1049.905,0.426,48.8,183,6.1,23,0,0,402,1,71,7.652,23.297,69,
+2,Scourge,Alice Greenthorn,81.1,455,446476,94.8,308,14277.905,4.725,22.2,72,3255,1.039,71.7,402,2.7,15,0,0,643,0,217,6.158,37.556,0,
+2,Harbinger,Edëlyn,73.4,361,495821,84.6,275,16594.857,4.185,23.4,76,3738.333,0.913,85,418,3.9,19,0,0,512,1,74,7.895,45.488,6,
+2,Firebrand,Daddynar Kholin,69.3,468,448184,91.7,344,14387.286,4.497,37.3,140,5522.524,1.68,82.7,566,4.4,30,0,0,704,0,74,0.315,12.249,27,
+2,Virtuoso,Sofykan,NaN,0,0,NaN,0,0,NaN,NaN,0,0,NaN,NaN,0,NaN,0,NaN,0,0,0,0,0,0,0,
+3,Scourge,Nightmare Aliyosha,78.5,430,437909,100,310,14311.667,5,24.8,77,3373.381,1.135,82.3,451,3.6,20,0,0,590,0,176,5.833,35.473,0,
+3,Mirage,Sirene Shyrma,44.8,188,137937,90.4,254,7318.143,4.507,21.4,60,1663.952,0.99,88.6,372,3.3,14,0,0,446,3,124,5.318,2.394,19,
+3,Scourge,Vyneaw,64.9,312,292508,62.5,157,6298.286,3.068,21.9,55,2075.667,0.991,77.8,374,7.5,36,0,0,508,0,153,7.143,32.265,3,
+3,Scourge,Ereshkigalr,43.2,306,287496,94.5,359,13995.143,4.662,13.9,53,1644.762,0.526,79.7,564,3.7,26,0,0,750,1,65,1.434,13.415,4,
+3,Harbinger,Darkvieefe,66.7,349,450637,83.9,296,16416.286,4.2,25.5,90,4169.333,1.034,88,460,3.6,19,0,0,536,1,81,5.982,26.976,10,
+
+
+
+
+
+Sub Group,Profession,Name,DMG Taken,DMG Barrier,Blocked,Invulned,Evaded,Dodges,
+2,Mechanist,Arceso,146070,119707,6,0,1,2,
+2,Scourge,Alice Greenthorn,119796,110403,3,0,0,0,
+2,Harbinger,Edëlyn,153995,118915,4,0,0,3,
+2,Firebrand,Daddynar Kholin,116966,91517,4,4,0,6,
+2,Virtuoso,Sofykan,0,0,0,0,0,0,
+3,Scourge,Nightmare Aliyosha,131980,115643,2,0,0,4,
+3,Mirage,Sirene Shyrma,122138,102451,0,0,3,52,
+3,Scourge,Vyneaw,133298,103868,5,0,0,2,
+3,Scourge,Ereshkigalr,124635,114335,4,0,0,3,
+3,Harbinger,Darkvieefe,149218,115686,5,0,0,4,
+
+
+
+
+
+Sub Group,Profession,Name,Condi Cleanse,Condi Cleanse time,Condi Cleanse Self,Condi Cleanse time self,Boon Strips,Boon Strips time,Resurrects,Time Resurecting,
+2,Mechanist,Arceso,8,1715.422,2,449.176,0,0,0,0,
+2,Scourge,Alice Greenthorn,14,1866.844,37,1500.44,2,769.725,0,0,
+2,Harbinger,Edëlyn,3,607.161,18,1301.22,1,424.185,0,0,
+2,Firebrand,Daddynar Kholin,36,4092.807,6,413.65,0,0,0,0,
+2,Virtuoso,Sofykan,0,0,0,0,0,0,0,0,
+3,Scourge,Nightmare Aliyosha,5,1069.466,26,1308.75,5,1740.57,0,0,
+3,Mirage,Sirene Shyrma,0,0,3,635.089,0,0,0,0,
+3,Scourge,Vyneaw,0,0,21,1338.726,2,755.634,0,0,
+3,Scourge,Ereshkigalr,62,4632.793,14,1102.929,0,0,0,0,
+3,Harbinger,Darkvieefe,0,0,19,1069.549,1,394.979,0,0,
+
+
+
+
+
+Name,Avg Boons,Might,Fury,Quickness,Alacrity,Protection,Regeneration,Vigor,Aegis,Stability,Swiftness,Resolution,
+Arceso,7.027,22.636,98.784%,73.326%,77.508%,26.429%,93.564%,71.659%,8.066%,0.353,82.884%,36.766%,
+Alice Greenthorn,7.017,23.518,99.297%,76.798%,75.246%,25.885%,95.906%,72.336%,7.399%,0.761,93.54%,2.014%,
+Edëlyn,7.009,23.689,99.319%,86.337%,77.62%,24.043%,97.99%,75.878%,9.211%,0.513,87.484%,3.731%,
+Daddynar Kholin,7.39,23.501,99.297%,95.45%,79.882%,25.885%,89.724%,56.431%,30.247%,0.744,87.987%,24.088%,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,
+Nightmare Aliyosha,6.985,24.207,99.537%,99.042%,84.541%,11.322%,80.368%,35.293%,18.801%,0.316,99.932%,40.046%,
+Sirene Shyrma,7.591,24.195,98.228%,82.31%,87.426%,20.421%,46.035%,98.783%,39.097%,0.689,99.933%,38.963%,
+Vyneaw,6.174,24.181,95.821%,80.31%,79.67%,17.431%,44.535%,22.589%,27.163%,0.364,95.107%,28.271%,
+Ereshkigalr,6.39,24.229,96.538%,83.141%,85.53%,34.424%,42.849%,7.821%,27.917%,0.403,93.681%,37.105%,
+Darkvieefe,6.612,24.34,96.637%,87.096%,75.501%,1.842%,99.121%,20.036%,26.935%,0.307,99.978%,30.281%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resolution,Resolution Overstack,
+Arceso,12.643,12.643,22.126%,22.126%,0,0,76.036%,76.036%,26.429%,26.429%,60.578%,60.578%,71.659%,71.659%,5.429%,5.429%,0.311,0.311,33.818%,33.818%,20.837%,20.837%,
+Alice Greenthorn,5.937,5.937,28.369%,28.369%,0,0,0,0,0,0,0,0,14.654%,14.654%,0,0,0,0,2.841%,2.841%,0,0,
+Edëlyn,5.423,5.423,66.624%,66.624%,82.783%,82.783%,0,0,0,0,42.255%,42.255%,0,0,0,0,0,0,34.296%,34.296%,0,0,
+Daddynar Kholin,0.314,0.314,25.5%,25.5%,19.27%,19.27%,0,0,0,0,1.482%,1.482%,0,0,20.888%,20.888%,0,0,0,0,24.088%,24.088%,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Nightmare Aliyosha,4.555,4.555,26.832%,26.832%,0,0,0,0,1.705%,1.705%,0,0,0,0,0,0,0.123,0.123,20.456%,20.456%,0,0,
+Sirene Shyrma,11.74,11.74,52.447%,52.447%,0,0,66.589%,66.589%,13.987%,13.987%,16.282%,16.282%,97.299%,97.299%,36.693%,36.693%,0.251,0.251,41.826%,41.826%,38.963%,38.963%,
+Vyneaw,4.219,4.219,24.604%,24.604%,0,0,0,0,1.836%,1.836%,0,0,0,0,0,0,0,0,0,0,0,0,
+Ereshkigalr,0.334,0.334,0,0,0,0,0,0,27.911%,27.911%,6.11%,6.11%,0,0,0,0,0,0,24.879%,24.879%,0,0,
+Darkvieefe,3.01,3.01,80.832%,80.832%,78.366%,78.366%,0,0,0,0,71.042%,71.042%,0,0,0,0,0,0,41.456%,41.456%,0,0,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resolution,Resolution Overstack,
+Arceso,8.326,8.326,6.502%,6.502%,0,0,57.042%,57.042%,18.032%,18.032%,41.156%,41.156%,43.236%,43.236%,3.674%,3.674%,0.318,0.318,17.567%,17.567%,0,0,
+Alice Greenthorn,3.924,3.924,0,0,0,0,0,0,0,0,0.71%,0.71%,4.262%,4.262%,0,0,0,0,0,0,0,0,
+Edëlyn,3.559,3.559,35.767%,35.767%,56.028%,56.028%,0,0,0,0,22.335%,22.335%,0,0,0,0,0,0,23.383%,23.383%,0,0,
+Daddynar Kholin,0.171,0.171,13.981%,13.981%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Nightmare Aliyosha,3.541,3.541,0,0,0,0,0,0,0.814%,0.814%,0,0,1.354%,1.354%,0,0,0.288,0.288,24.568%,24.568%,0,0,
+Sirene Shyrma,10.18,10.18,6.353%,6.353%,0,0,63.82%,63.82%,0,0,0,0,0,0,23.984%,23.984%,0,0,25.409%,25.409%,33.926%,33.926%,
+Vyneaw,3.329,3.329,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Ereshkigalr,0.369,0.369,0,0,0,0,0,0,2.749%,2.749%,2.291%,2.291%,5.153%,5.153%,0,0,0,0,0,0,0,0,
+Darkvieefe,2.846,2.846,49.872%,49.872%,73.702%,73.702%,0,0,0,0,32.563%,32.563%,0,0,0,0,0,0,32.363%,32.363%,0,0,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resolution,Resolution Overstack,
+Arceso,2.142,2.142,5.779%,5.779%,0,0,18.16%,18.16%,4.809%,4.809%,12.021%,12.021%,11.102%,11.102%,1.456%,1.456%,0.111,0.111,1.978%,1.978%,0,0,
+Alice Greenthorn,0.601,0.601,0,0,0,0,0,0,0.341%,0.341%,0,0,1.136%,1.136%,0,0,0,0,0,0,0,0,
+Edëlyn,0.504,0.504,6.462%,6.462%,11.745%,11.745%,0,0,0,0,3.991%,3.991%,0,0,0,0,0,0,4.152%,4.152%,0,0,
+Daddynar Kholin,0,0,3.188%,3.188%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Nightmare Aliyosha,0.417,0.417,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157,0.157,19.268%,19.268%,0,0,
+Sirene Shyrma,0.342,0.342,3.993%,3.993%,0,0,1.211%,1.211%,0,0,0,0,0,0,2.781%,2.781%,0,0,2.975%,2.975%,4.335%,4.335%,
+Vyneaw,0.194,0.194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Ereshkigalr,0,0,0,0,0,0,0,0,0.737%,0.737%,0.611%,0.611%,0,0,0,0,0,0,0,0,0,0,
+Darkvieefe,0.069,0.069,1.822%,1.822%,1.149%,1.149%,0,0,0,0,2.602%,2.602%,0,0,0,0,0,0,1.184%,1.184%,0,0,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resolution,Resolution Overstack,
+Arceso,4.89,4.89,6.101%,6.101%,0,0,35.441%,35.441%,10.686%,10.686%,24.97%,24.97%,25.384%,25.384%,2.442%,2.442%,0.203,0.203,8.907%,8.907%,0,0,
+Alice Greenthorn,2.078,2.078,0,0,0,0,0,0,0.189%,0.189%,0.316%,0.316%,2.525%,2.525%,0,0,0,0,0,0,0,0,
+Edëlyn,1.862,1.862,19.486%,19.486%,31.426%,31.426%,0,0,0,0,12.144%,12.144%,0,0,0,0,0,0,12.7%,12.7%,0,0,
+Daddynar Kholin,0.076,0.076,7.985%,7.985%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Nightmare Aliyosha,1.805,1.805,0,0,0,0,0,0,0.362%,0.362%,0,0,0.602%,0.602%,0,0,0.215,0.215,21.624%,21.624%,0,0,
+Sirene Shyrma,4.714,4.714,5.042%,5.042%,0,0,29.037%,29.037%,0,0,0,0,0,0,12.205%,12.205%,0,0,12.946%,12.946%,17.486%,17.486%,
+Vyneaw,1.587,1.587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Ereshkigalr,0.164,0.164,0,0,0,0,0,0,1.631%,1.631%,1.358%,1.358%,2.29%,2.29%,0,0,0,0,0,0,0,0,
+Darkvieefe,1.304,1.304,23.177%,23.177%,33.395%,33.395%,0,0,0,0,15.918%,15.918%,0,0,0,0,0,0,15.041%,15.041%,0,0,
+
+
+
+
+
+Name,Avg Boons,Ashes of the Just,Pinpoint Distribution,
+Arceso,7.027,0.25,99.398%,
+Alice Greenthorn,7.017,0.246,96.435%,
+Edëlyn,7.009,0.314,93.454%,
+Daddynar Kholin,7.39,0.238,94.93%,
+Sofykan,0,0,0,
+Nightmare Aliyosha,6.985,0,55.401%,
+Sirene Shyrma,7.591,0.162,29.631%,
+Vyneaw,6.174,0.042,19.227%,
+Ereshkigalr,6.39,0.019,41.508%,
+Darkvieefe,6.612,0.024,50.96%,
+
+
+
+
+
+Name,Ashes of the Just,Ashes of the Just Overstack,Pinpoint Distribution,Pinpoint Distribution Overstack,
+Arceso,0,0,99.398%,99.398%,
+Alice Greenthorn,0,0,0,0,
+Edëlyn,0,0,0,0,
+Daddynar Kholin,0.238,0.238,0,0,
+Sofykan,0,0,0,0,
+Nightmare Aliyosha,0,0,0,0,
+Sirene Shyrma,0,0,0,0,
+Vyneaw,0,0,0,0,
+Ereshkigalr,0,0,0,0,
+Darkvieefe,0,0,0,0,
+
+
+
+
+
+Name,Ashes of the Just,Ashes of the Just Overstack,Pinpoint Distribution,Pinpoint Distribution Overstack,
+Arceso,0,0,71.205%,71.205%,
+Alice Greenthorn,0,0,0,0,
+Edëlyn,0,0,0,0,
+Daddynar Kholin,0.203,0.203,0,0,
+Sofykan,0,0,0,0,
+Nightmare Aliyosha,0,0,0,0,
+Sirene Shyrma,0,0,0,0,
+Vyneaw,0,0,0,0,
+Ereshkigalr,0,0,0,0,
+Darkvieefe,0,0,0,0,
+
+
+
+
+
+Name,Ashes of the Just,Ashes of the Just Overstack,Pinpoint Distribution,Pinpoint Distribution Overstack,
+Arceso,0,0,39.346%,39.346%,
+Alice Greenthorn,0,0,0,0,
+Edëlyn,0,0,0,0,
+Daddynar Kholin,0.049,0.049,0,0,
+Sofykan,0,0,0,0,
+Nightmare Aliyosha,0,0,0,0,
+Sirene Shyrma,0,0,0,0,
+Vyneaw,0,0,0,0,
+Ereshkigalr,0,0,0,0,
+Darkvieefe,0,0,0,0,
+
+
+
+
+
+Name,Ashes of the Just,Ashes of the Just Overstack,Pinpoint Distribution,Pinpoint Distribution Overstack,
+Arceso,0,0,53.505%,53.505%,
+Alice Greenthorn,0,0,0,0,
+Edëlyn,0,0,0,0,
+Daddynar Kholin,0.117,0.117,0,0,
+Sofykan,0,0,0,0,
+Nightmare Aliyosha,0,0,0,0,
+Sirene Shyrma,0,0,0,0,
+Vyneaw,0,0,0,0,
+Ereshkigalr,0,0,0,0,
+Darkvieefe,0,0,0,0,
+
+
+
+
+
+Name,Avg Boons,Eternal Oasis,Last Rites,
+Arceso,7.027,0,31.132%,
+Alice Greenthorn,7.017,0,27.778%,
+Edëlyn,7.009,0,31.13%,
+Daddynar Kholin,7.39,0,59.223%,
+Sofykan,0,0,0,
+Nightmare Aliyosha,6.985,0,95.959%,
+Sirene Shyrma,7.591,0,98.933%,
+Vyneaw,6.174,0,98.915%,
+Ereshkigalr,6.39,0,0,
+Darkvieefe,6.612,0,97.449%,
+
+
+
+
+
+Name,Eternal Oasis,Eternal Oasis Overstack,Last Rites,Last Rites Overstack,
+Arceso,0,0,0,0,
+Alice Greenthorn,0,0,0,0,
+Edëlyn,0,0,0,0,
+Daddynar Kholin,0,0,0,0,
+Sofykan,0,0,0,0,
+Nightmare Aliyosha,0,0,0,0,
+Sirene Shyrma,0,0,0,0,
+Vyneaw,0,0,0,0,
+Ereshkigalr,0,0,0,0,
+Darkvieefe,0,0,0,0,
+
+
+
+
+
+Name,Eternal Oasis,Eternal Oasis Overstack,Last Rites,Last Rites Overstack,
+Arceso,0,0,0,0,
+Alice Greenthorn,0,0,0,0,
+Edëlyn,0,0,0,0,
+Daddynar Kholin,0,0,0,0,
+Sofykan,0,0,0,0,
+Nightmare Aliyosha,0,0,0,0,
+Sirene Shyrma,0,0,0,0,
+Vyneaw,0,0,0,0,
+Ereshkigalr,0,0,97.814%,97.814%,
+Darkvieefe,0,0,0,0,
+
+
+
+
+
+Name,Eternal Oasis,Eternal Oasis Overstack,Last Rites,Last Rites Overstack,
+Arceso,0,0,0,0,
+Alice Greenthorn,0,0,0,0,
+Edëlyn,0,0,0,0,
+Daddynar Kholin,0,0,0,0,
+Sofykan,0,0,0,0,
+Nightmare Aliyosha,0,0,0,0,
+Sirene Shyrma,0,0,0,0,
+Vyneaw,0,0,0,0,
+Ereshkigalr,0,0,29.853%,29.853%,
+Darkvieefe,0,0,0,0,
+
+
+
+
+
+Name,Eternal Oasis,Eternal Oasis Overstack,Last Rites,Last Rites Overstack,
+Arceso,0,0,0,0,
+Alice Greenthorn,0,0,0,0,
+Edëlyn,0,0,0,0,
+Daddynar Kholin,0,0,0,0,
+Sofykan,0,0,0,0,
+Nightmare Aliyosha,0,0,0,0,
+Sirene Shyrma,0,0,0,0,
+Vyneaw,0,0,0,0,
+Ereshkigalr,0,0,60.058%,60.058%,
+Darkvieefe,0,0,0,0,
+
+
+
+
+
+Name,"Spectral Impact (KB Slam)","Ghastly Prison (Egged)","Kicked by small add","Hit by Black Goo",
+Arceso,2,1,1,50,
+Alice Greenthorn,0,0,0,50,
+Edëlyn,1,6,0,50,
+Daddynar Kholin,0,2,0,25,
+Sofykan,0,0,0,0,
+Nightmare Aliyosha,2,0,0,25,
+Sirene Shyrma,1,3,0,50,
+Vyneaw,3,2,0,50,
+Ereshkigalr,3,0,0,50,
+Darkvieefe,1,2,0,25,
+
+
+
+
+
+Time,4.988,4.988,14.004,24.512,42.977,42.977,42.977,80.59,95.508,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.762,104.763,104.763,104.763,104.763,104.763,104.763,104.763,104.763,104.763,104.763,104.763,104.763,104.763,104.763,104.763,104.763,104.763,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.764,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.765,104.766,104.766,104.766,104.766,104.766,104.766,104.766,104.767,104.767,104.767,104.767,104.767,104.767,104.767,104.767,104.768,104.768,104.768,104.768,104.768,104.768,104.768,104.768,104.768,104.768,104.769,104.769,104.769,104.769,104.769,104.769,104.769,104.769,104.769,104.769,104.769,104.769,104.769,104.769,104.769,104.769,104.769,104.77,104.77,104.77,104.77,104.77,104.77,104.77,104.77,104.77,104.77,104.77,104.77,104.77,104.77,104.77,104.77,104.771,104.771,104.771,104.771,104.771,104.771,104.771,104.771,104.771,104.771,104.771,104.771,104.771,104.771,104.771,104.771,104.771,107.981,117.875,158.886,158.887,158.887,158.887,162.615,162.617,162.618,162.619,162.622,162.623,162.625,162.627,171.513,176.732,176.732,176.732,176.732,176.732,176.732,176.732,176.732,176.732,176.732,176.732,176.732,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.733,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.734,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.735,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.736,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.737,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.738,176.739,176.739,176.739,176.739,176.739,176.739,176.739,176.739,176.739,176.739,176.739,176.739,176.739,176.739,176.739,176.739,176.741,176.741,176.741,176.741,176.741,176.741,176.742,176.742,176.742,176.742,176.742,176.743,176.743,176.743,176.743,176.743,176.743,176.744,176.744,176.744,176.744,176.744,176.744,176.744,176.744,176.745,176.745,176.745,176.745,176.745,176.745,176.745,176.745,176.745,176.745,176.745,176.745,176.745,176.745,176.745,176.745,176.745,176.745,176.746,176.746,176.746,176.746,176.746,176.746,176.746,181.107,186.433,186.433,186.434,190.201,190.202,190.204,190.205,190.206,190.232,190.245,190.246,
+Player,Vyneaw,Ereshkigalr,Gorseval el Múltiple,Gorseval el Múltiple,Arceso,Nightmare Aliyosha,Vyneaw,Sirene Shyrma,Gorseval el Múltiple,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Nightmare Aliyosha,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Sirene Shyrma,Arceso,Arceso,Arceso,Arceso,Arceso,Sirene Shyrma,Sirene Shyrma,Arceso,Arceso,Arceso,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Sirene Shyrma,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Edëlyn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Alice Greenthorn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Gorseval el Múltiple,Arceso,Ereshkigalr,Nightmare Aliyosha,Vyneaw,Darkvieefe,Daddynar Kholin,Arceso,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Daddynar Kholin,Gorseval el Múltiple,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Arceso,Arceso,Arceso,Arceso,Alice Greenthorn,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Arceso,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Ereshkigalr,Ereshkigalr,Alice Greenthorn,Alice Greenthorn,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Ereshkigalr,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Edëlyn,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Edëlyn,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Edëlyn,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Daddynar Kholin,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Daddynar Kholin,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Sirene Shyrma,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Vyneaw,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Gorseval el Múltiple,Arceso,Edëlyn,Ereshkigalr,Sirene Shyrma,Edëlyn,Sirene Shyrma,Sirene Shyrma,Darkvieefe,Vyneaw,Vyneaw,Darkvieefe,
+Mechanic,"Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Rampage (Breakbar)","Ghastly Rampage (Breakbar broken)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Ghastly Rampage (Breakbar broken)","Kicked by small add","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Ghastly Rampage (Breakbar broken)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)",
+
+
+
+
+
+
+
+
+
+
+
+
+Name,Avg,Bleeding,Burning,Confusion,Poison,Torment,Blind,Chilled,Crippled,Fear,Immobile,Weakness,Vulnerability,
+Gorseval el Múltiple,7.9,93.085,33.291,21.327,18.114,92.527,69.874%,51.266%,74.426%,9.375%,7.718%,70.473%,19.228,
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name,Bleeding,Bleeding Overstack,Burning,Burning Overstack,Confusion,Confusion Overstack,Poison,Poison Overstack,Torment,Torment Overstack,Blind,Blind Overstack,Chilled,Chilled Overstack,Crippled,Crippled Overstack,Fear,Fear Overstack,Immobile,Immobile Overstack,Weakness,Weakness Overstack,Vulnerability,Vulnerability Overstack,
+Arceso,1.192,1.192,6.568,6.568,5.67,5.67,0,0,0,0,0,0,0,0,1.254%,1.254%,0,0,1.032%,1.032%,7.528%,7.528%,0,0,
+Alice Greenthorn,20.446,20.446,3.059,3.059,0,0,3.694,3.694,16.749,16.749,9.455%,9.455%,7.017%,7.017%,1.127%,1.127%,0,0,0,0,1.443%,1.443%,5.535,5.535,
+Edëlyn,6.879,6.879,0.945,0.945,0.036,0.036,4.192,4.192,16.633,16.633,9.573%,9.573%,4.685%,4.685%,6.871%,6.871%,0,0,0,0,10.473%,10.473%,3.118,3.118,
+Daddynar Kholin,2.326,2.326,15.73,15.73,0,0,0,0,0,0,4.447%,4.447%,2.947%,2.947%,8.451%,8.451%,0,0,3.18%,3.18%,10.034%,10.034%,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Nightmare Aliyosha,23.217,23.217,3.446,3.446,0,0,3.245,3.245,16.046,16.046,4.91%,4.91%,9.744%,9.744%,14.638%,14.638%,3.917%,3.917%,0,0,3.222%,3.222%,4.708,4.708,
+Sirene Shyrma,10.031,10.031,0,0,15.519,15.519,0.58,0.58,11.083,11.083,19.922%,19.922%,12.866%,12.866%,4.228%,4.228%,0,0,0,0,19.368%,19.368%,0.196,0.196,
+Vyneaw,18.78,18.78,2.484,2.484,0,0,2.384,2.384,11.448,11.448,8.314%,8.314%,4.495%,4.495%,9.456%,9.456%,1.963%,1.963%,0,0,2.537%,2.537%,2.384,2.384,
+Ereshkigalr,0.093,0.093,0.093,0.093,0,0,0,0,4.654,4.654,0,0,6.483%,6.483%,22.089%,22.089%,3.495%,3.495%,3.506%,3.506%,0,0,0.919,0.919,
+Darkvieefe,10.121,10.121,0.965,0.965,0.101,0.101,4.019,4.019,15.914,15.914,13.252%,13.252%,3.029%,3.029%,6.312%,6.312%,0,0,0,0,15.869%,15.869%,2.368,2.368,
+
+
+
+
+
+Name,Avg,Might,Fury,Quickness,Alacrity,Protection,Regeneration,Vigor,Aegis,Stability,Swiftness,Resolution,
+Gorseval el Múltiple,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+
+
+
+
+
+
+
+
