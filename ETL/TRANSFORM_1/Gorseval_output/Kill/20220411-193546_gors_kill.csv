@@ -1,0 +1,413 @@
+Elite Insights,2.44.1.0,
+ARC Version,EVTC20220330,
+Fight ID,15429,
+Recorded By,Kvynxx,
+Time Start,2022-04-11 20:31:45 +02:00,
+Time End,2022-04-11 20:35:45 +02:00,
+
+
+
+
+Boss,Gorseval el Múltiple,
+Success,True,
+Total Boss Health,21628200,
+Final Boss Health,0,
+Boss Health Burned %,100,
+Duration,03m 58s 61ms,
+Sub Group,Profession,Role,Name,Account,WepSet1_1,WepSet1_2,WepSet2_1,WepSet2_2,Boss DPS,Boss DMG,Boss Power DPS,Boss Power DMG,Boss Condi DPS,Boss Condi DMG,All DPS,All DMG,All Power DPS,All Power DMG,All Condi DPS,All Condi DMG,Times Downed,Time Died,Percent Alive,
+1,Firebrand, Healing:10 Toughness:10,Klokrek,Ipu.5307,Staff,2Hand,Axe,Shield,2156,513329,1561,371614,595,141715,3890,925989,2763,657668,1127,268321,0,0,,
+1,Soulbeast,,Kvynxx,fernaxv.3249,Longbow,2Hand,Sword,Axe,13923,3314488,13876,3303368,47,11120,20667,4920069,20617,4908061,50,12008,0,0,,
+1,Mechanist, Concentration:10 Healing:10,Lexya Tekk,falchos.8345,Mace,Shield,Unknown,Unknown,4829,1149713,4301,1023971,528,125742,7440,1771243,6733,1602869,707,168374,0,0,,
+1,Renegade, Concentration:10,Mr Furious Plant,Czaro.7654,Sword,Sword,Unknown,Unknown,6042,1438256,6012,1431228,30,7028,8543,2033797,8504,2024437,39,9360,0,0,,
+1,Catalyst,,Fyer Hornless,oska.3295,Unknown,Unknown,Hammer,2Hand,11347,2701235,10479,2494625,868,206610,16405,3905390,15241,3628333,1164,277057,0,0,,
+2,Renegade, Concentration:10,Tentaro,Tobis.9628,Sword,Unknown,Sword,Sword,7203,1714871,7024,1672042,180,42829,10336,2460602,10064,2395820,272,64782,0,0,,
+2,Druid, Concentration:10 Healing:10,Emily Emberspark,MYC.1639,Staff,2Hand,Axe,Warhorn,2729,649675,1935,460584,794,189091,3709,883063,2678,637585,1031,245478,0,0,,
+2,Berserker,,Keegan Stonehorn,Koksmastarn.3082,Axe,Axe,Mace,Mace,14344,3414705,14172,3373839,172,40866,18972,4516468,18800,4475602,172,40866,0,0,,
+2,Virtuoso, Condi:10,Sofykan,Bente.9703,Dagger,Sword,Dagger,Focus,18187,4329574,5738,1366042,12449,2963532,23390,5568221,8149,1940028,15241,3628193,0,0,,
+2,Firebrand, Condi:10,Kogonol,lunogu.8051,Scepter,Torch,Axe,Torch,9501,2261792,2383,567408,7117,1694384,12916,3074885,3274,779446,9642,2295439,0,0,,
+
+
+
+
+
+Sub Group,Profession,Name,Critical%,Critical hits,Critical DMG,Scholar%,Scholar hits,Scholar DMG,Scholar % increase,Moving%,Moving Hits,Moving DMG,Moving % increase,Flanking%,Flanking hits,Glancing%,Glancing Hits,Blind%,Blind Hits,Total Hits,Hits to Interupt,Hits Invulned,Time wasted,Time saved,Weapon Swaps,
+1,Firebrand,Klokrek,36.8,132,179654,97.5,350,17184.429,4.848,25.6,92,4539.667,1.237,31.5,113,0,0,0,0,369,0,22,3.318,67.842,19,
+1,Soulbeast,Kvynxx,100,474,3302906,86.7,411,139961.095,4.425,21.5,102,33728.476,1.032,97.7,463,0,0,0,0,516,0,44,10.766,11.81,15,
+1,Mechanist,Lexya Tekk,33.6,51,160396,100,152,16428.762,5,32.2,49,5116.143,1.505,97.4,148,0,0,0,0,160,0,22,11.317,24.856,40,
+1,Renegade,Mr Furious Plant,95.4,413,1342631,89.1,386,57977.619,4.442,19.6,85,11417.619,0.845,97.7,423,0,0,0,0,474,0,76,2.437,15.486,11,
+1,Catalyst,Fyer Hornless,87.9,546,2386951,86.8,544,101164.429,4.227,18.5,116,21634.524,0.875,96.7,606,0,0,0,0,665,0,59,2.111,20.897,40,
+2,Renegade,Tentaro,93.9,480,1557603,85.5,437,66018.476,4.3,50.3,257,37680.19,2.41,98.2,502,0,0,0,0,519,0,16,5.556,22.886,15,
+2,Druid,Emily Emberspark,55.1,150,162365,91.2,248,10856,4.668,16.2,44,1662.143,0.688,97.8,266,0,0,0,0,306,0,50,4.568,4.367,15,
+2,Berserker,Keegan Stonehorn,99.1,330,3366023,89.8,299,144762.81,4.483,21.3,71,23311.333,0.696,100,333,0,0,0,0,338,0,7,1.884,25.306,7,
+2,Virtuoso,Sofykan,95.1,618,1137103,76,494,43405,3.873,23.4,152,11573.048,1.004,97.4,633,0,0,0,0,699,0,89,3.409,20.488,17,
+2,Firebrand,Kogonol,73.6,327,465233,87.4,388,22950.048,4.373,48.6,216,13351.524,2.499,99.5,442,0,0,0,0,467,0,54,0.685,25.783,18,
+
+
+
+
+
+Sub Group,Profession,Name,Critical%,Critical hits,Critical DMG,Scholar%,Scholar hits,Scholar DMG,Scholar % increase,Moving%,Moving Hits,Moving DMG,Moving % increase,Flanking%,Flanking hits,Glancing%,Glancing Hits,Blind%,Blind Hits,Total Hits,Hits to Interupt,Hits Invulned,Time wasted,Time saved,Weapon Swaps,
+1,Firebrand,Klokrek,31.9,222,294022,97.5,350,17184.429,4.848,25.6,92,4539.667,1.237,46.9,326,4.6,32,0,0,705,0,22,3.318,67.842,19,
+1,Soulbeast,Kvynxx,95.5,801,4871372,86.7,411,139961.095,4.425,21.5,102,33728.476,1.032,66.5,558,3.3,28,0,0,881,0,44,10.766,11.81,15,
+1,Mechanist,Lexya Tekk,33.3,81,249528,100,152,16428.762,5,32.2,49,5116.143,1.505,83.5,203,3.3,8,0,0,251,0,22,11.317,24.856,40,
+1,Renegade,Mr Furious Plant,92.1,595,1884818,89.1,386,57977.619,4.442,19.6,85,11417.619,0.845,89.2,576,3.3,21,0,0,687,11,76,2.437,15.486,11,
+1,Catalyst,Fyer Hornless,84.9,790,3413904,86.8,544,101164.429,4.227,18.5,116,21634.524,0.875,88.6,836,2.8,26,0,0,982,0,59,2.111,20.897,40,
+2,Renegade,Tentaro,91.7,718,2233120,85.5,437,66018.476,4.3,50.3,257,37680.19,2.41,83.3,652,2.7,21,0,0,791,0,16,5.556,22.886,15,
+2,Druid,Emily Emberspark,49.9,226,253215,91.2,248,10856,4.668,16.2,44,1662.143,0.688,80.6,365,2,9,0,0,487,0,50,4.568,4.367,15,
+2,Berserker,Keegan Stonehorn,94.8,513,4431913,89.8,299,144762.81,4.483,21.3,71,23311.333,0.696,93.7,507,3,16,0,0,546,0,7,1.884,25.306,7,
+2,Virtuoso,Sofykan,90.8,936,1588039,76,494,43405,3.873,23.4,152,11573.048,1.004,82.3,849,4.2,43,0,0,1080,0,89,3.409,20.488,17,
+2,Firebrand,Kogonol,71.2,473,625375,87.4,388,22950.048,4.373,48.6,216,13351.524,2.499,89.5,594,2,13,0,0,687,0,54,0.685,25.783,18,
+
+
+
+
+
+Sub Group,Profession,Name,DMG Taken,DMG Barrier,Blocked,Invulned,Evaded,Dodges,
+1,Firebrand,Klokrek,123728,83859,13,0,0,2,
+1,Soulbeast,Kvynxx,186914,82279,7,0,0,3,
+1,Mechanist,Lexya Tekk,96385,79863,7,0,2,9,
+1,Renegade,Mr Furious Plant,216246,92805,8,0,0,6,
+1,Catalyst,Fyer Hornless,207948,102876,8,0,0,9,
+2,Renegade,Tentaro,179631,7266,2,0,1,2,
+2,Druid,Emily Emberspark,140693,22220,1,0,0,4,
+2,Berserker,Keegan Stonehorn,152013,12225,0,0,0,0,
+2,Virtuoso,Sofykan,256746,2478,0,0,0,5,
+2,Firebrand,Kogonol,172107,4180,5,0,0,4,
+
+
+
+
+
+Sub Group,Profession,Name,Condi Cleanse,Condi Cleanse time,Condi Cleanse Self,Condi Cleanse time self,Boon Strips,Boon Strips time,Resurrects,Time Resurecting,
+1,Firebrand,Klokrek,0,0,0,0,0,0,0,0,
+1,Soulbeast,Kvynxx,28,2874.328,5,479.891,0,0,0,0,
+1,Mechanist,Lexya Tekk,23,4346.01,4,722.453,0,0,0,0,
+1,Renegade,Mr Furious Plant,11,2144.945,2,239.342,0,0,0,0,
+1,Catalyst,Fyer Hornless,0,0,1,238.061,0,0,0,0,
+2,Renegade,Tentaro,1,238.061,0,0,0,0,0,0,
+2,Druid,Emily Emberspark,8,1904.488,2,476.122,0,0,0,0,
+2,Berserker,Keegan Stonehorn,15,3581.085,3,481.669,0,0,0,0,
+2,Virtuoso,Sofykan,32,2904.238,7,242.359,0,0,0,0,
+2,Firebrand,Kogonol,14,2907.85,0,0,0,0,0,0,
+
+
+
+
+
+Name,Avg Boons,Might,Fury,Quickness,Alacrity,Protection,Regeneration,Vigor,Aegis,Stability,Swiftness,Resistance,Resolution,
+Klokrek,10.035,23.217,97.116%,97.712%,98.273%,96.846%,96.663%,97.46%,47.681%,1.909,96.89%,8.831%,95.558%,
+Kvynxx,9.841,22.202,98.461%,98.049%,97.854%,95.694%,96.663%,84.095%,47.731%,2.057,96.89%,8.831%,90.923%,
+Lexya Tekk,9.915,23.455,97.115%,98.049%,98.274%,97.765%,96.663%,84.097%,48.454%,2.27,96.891%,8.831%,96.451%,
+Mr Furious Plant,9.784,22.15,96.211%,95.144%,97.007%,95.613%,96.391%,96.614%,44.059%,1.768,96.663%,8.831%,84.882%,
+Fyer Hornless,9.585,22.602,97.696%,94.283%,97.007%,95.612%,96.663%,81.62%,42.348%,1.7,96.89%,8.831%,85.327%,
+Tentaro,8.555,20.61,98.432%,85.135%,95.904%,98.7%,95.86%,98.432%,8.168%,0.874,77.906%,0,69.662%,
+Emily Emberspark,7.818,22.078,98.432%,81.858%,92.01%,96.682%,95.86%,2.468%,8.505%,1.073,95.637%,0,69.643%,
+Keegan Stonehorn,7.925,20.69,98.432%,98.7%,98.048%,96.024%,95.86%,8.227%,2.468%,0.848,96.988%,0,73.468%,
+Sofykan,7.858,21.233,98.432%,79.941%,94.837%,94.256%,95.86%,46.147%,0,0.733,82.066%,0,69.687%,
+Kogonol,8.058,19.474,98.432%,98.7%,95.078%,98.7%,95.86%,0,29.594%,0.836,77.875%,0,83.284%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Klokrek,4.671,4.671,71.708%,71.708%,84.572%,84.572%,0,0,59.745%,59.745%,7.356%,7.356%,51.334%,51.334%,41.826%,41.826%,1.002,1.002,50.447%,50.447%,8.831%,8.831%,79.608%,79.608%,
+Kvynxx,0.067,0.067,29.539%,29.539%,9.477%,9.477%,0,0,14.509%,14.509%,12.498%,12.498%,0,0,0,0,0,0,39.71%,39.71%,0,0,12.837%,12.837%,
+Lexya Tekk,16.168,16.168,22.619%,22.619%,0,0,66.566%,66.566%,38.291%,38.291%,70.166%,70.166%,84.097%,84.097%,5.137%,5.137%,0.735,0.735,15.021%,15.021%,0,0,30.651%,30.651%,
+Mr Furious Plant,0.337,0.337,31.234%,31.234%,0,0,31.438%,31.438%,45.283%,45.283%,0,0,56.873%,56.873%,0,0,0.036,0.036,0,0,0,0,8.578%,8.578%,
+Fyer Hornless,3.136,3.136,32.169%,32.169%,17.222%,17.222%,0,0,15.15%,15.15%,0,0,0,0,0,0,0,0,8.569%,8.569%,0,0,17.528%,17.528%,
+Tentaro,0.254,0.254,54.879%,54.879%,0,0,89.324%,89.324%,54.547%,54.547%,0,0,95.964%,95.964%,0,0,0.541,0.541,0,0,0,0,18.37%,18.37%,
+Emily Emberspark,18.32,18.32,45.309%,45.309%,2.508%,2.508%,0,0,36.258%,36.258%,95.86%,95.86%,0,0,0,0,0.167,0.167,64.47%,64.47%,0,0,0,0,
+Keegan Stonehorn,1.274,1.274,21.449%,21.449%,16.451%,16.451%,0,0,16.231%,16.231%,0,0,0,0,0,0,0,0,12.602%,12.602%,0,0,0,0,
+Sofykan,3.659,3.659,50.313%,50.313%,0,0,0,0,17.723%,17.723%,0,0,46.147%,46.147%,0,0,0,0,0,0,0,0,8.401%,8.401%,
+Kogonol,1.765,1.765,54.972%,54.972%,89.19%,89.19%,0,0,46.869%,46.869%,0,0,0,0,29.594%,29.594%,0.361,0.361,0,0,0,0,58.206%,58.206%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Klokrek,3.941,3.941,55.961%,55.961%,73.953%,73.953%,0,0,34.605%,34.605%,2.759%,2.759%,0,0,41.575%,41.575%,1.02,1.02,51.032%,51.032%,8.831%,8.831%,53.973%,53.973%,
+Kvynxx,0,0,0,0,0,0,0,0,0,0,11.503%,11.503%,0,0,0,0,0,0,23.006%,23.006%,0,0,0,0,
+Lexya Tekk,15.019,15.019,12.509%,12.509%,0,0,67.708%,67.708%,17.036%,17.036%,66.198%,66.198%,62.896%,62.896%,4.253%,4.253%,0.667,0.667,11.209%,11.209%,0,0,0,0,
+Mr Furious Plant,0.327,0.327,0,0,0,0,25.812%,25.812%,19.279%,19.279%,0,0,0,0,0,0,0,0,0,0,0,0,5.727%,5.727%,
+Fyer Hornless,1.571,1.571,0,0,14.712%,14.712%,0,0,0,0,0,0,0,0,0,0,0,0,7.372%,7.372%,0,0,13.12%,13.12%,
+Tentaro,0.231,0.231,0,0,0,0,79.144%,79.144%,33.879%,33.879%,0,0,0,0,0,0,0.443,0.443,0,0,0,0,14.767%,14.767%,
+Emily Emberspark,15.708,15.708,14.953%,14.953%,0,0,0,0,9.659%,9.659%,93.803%,93.803%,0,0,0,0,0,0,63.476%,63.476%,0,0,0,0,
+Keegan Stonehorn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kogonol,1.32,1.32,33.856%,33.856%,68.338%,68.338%,0,0,21.842%,21.842%,0,0,0,0,0,0,0.333,0.333,0,0,0,0,40.807%,40.807%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Klokrek,0.462,0.462,11.367%,11.367%,9.05%,9.05%,0,0,8.36%,8.36%,0,0,0,0,2.846%,2.846%,0,0,16.575%,16.575%,0,0,7.561%,7.561%,
+Kvynxx,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Lexya Tekk,1.129,1.129,2.634%,2.634%,0,0,8.698%,8.698%,1.882%,1.882%,1.645%,1.645%,2.633%,2.633%,0.982%,0.982%,0.038,0.038,1.645%,1.645%,0,0,0,0,
+Mr Furious Plant,0.056,0.056,0,0,0,0,5.297%,5.297%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.287%,2.287%,
+Fyer Hornless,0.309,0.309,0,0,3.517%,3.517%,0,0,0,0,0,0,0,0,0,0,0,0,1.678%,1.678%,0,0,1.845%,1.845%,
+Tentaro,0,0,0,0,0,0,3.266%,3.266%,0.713%,0.713%,0.358%,0.358%,0,0,0,0,0.237,0.237,0,0,0,0,0,0,
+Emily Emberspark,0.951,0.951,0,0,0,0,0,0,3.188%,3.188%,13.879%,13.879%,0,0,0,0,0,0,0,0,0,0,0,0,
+Keegan Stonehorn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kogonol,0.212,0.212,5.09%,5.09%,3.462%,3.462%,0,0,1.073%,1.073%,0,0,0,0,0,0,0,0,0,0,0,0,2.533%,2.533%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Klokrek,2.008,2.008,31.187%,31.187%,37.896%,37.896%,0,0,20.025%,20.025%,1.226%,1.226%,0,0,20.059%,20.059%,0.453,0.453,31.889%,31.889%,3.925%,3.925%,28.189%,28.189%,
+Kvynxx,0,0,0,0,0,0,0,0,0,0,5.112%,5.112%,0,0,0,0,0,0,10.225%,10.225%,0,0,0,0,
+Lexya Tekk,7.302,7.302,7.023%,7.023%,0,0,34.925%,34.925%,8.617%,8.617%,30.335%,30.335%,29.416%,29.416%,2.436%,2.436%,0.317,0.317,5.896%,5.896%,0,0,0,0,
+Mr Furious Plant,0.177,0.177,0,0,0,0,14.415%,14.415%,8.568%,8.568%,0,0,0,0,0,0,0,0,0,0,0,0,3.816%,3.816%,
+Fyer Hornless,0.87,0.87,0,0,8.492%,8.492%,0,0,0,0,0,0,0,0,0,0,0,0,4.209%,4.209%,0,0,6.856%,6.856%,
+Tentaro,0.103,0.103,0,0,0,0,36.99%,36.99%,15.453%,15.453%,0.199%,0.199%,0,0,0,0,0.329,0.329,0,0,0,0,6.563%,6.563%,
+Emily Emberspark,7.509,7.509,6.646%,6.646%,0,0,0,0,6.064%,6.064%,49.401%,49.401%,0,0,0,0,0,0,28.212%,28.212%,0,0,0,0,
+Keegan Stonehorn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kogonol,0.705,0.705,17.875%,17.875%,32.295%,32.295%,0,0,10.304%,10.304%,0,0,0,0,0,0,0.148,0.148,0,0,0,0,19.544%,19.544%,
+
+
+
+
+
+Name,Avg Boons,Assassin's Presence,Razorclaw's Rage,Soulcleave's Summit,Banner of Strength,Banner of Discipline,Ashes of the Just,Frost Spirit,Spotter,One Wolf Pack,
+Klokrek,10.035,99.402%,0,5.273%,72.675%,70.85%,0,68.247%,98.877%,3.334%,
+Kvynxx,9.841,99.402%,0.032%,4.254%,75.197%,70.856%,0,78.344%,98.877%,15.122%,
+Lexya Tekk,9.915,99.402%,1.259%,7.919%,76.448%,74.641%,0,82.13%,98.877%,5.015%,
+Mr Furious Plant,9.784,99.402%,0,3.609%,78.968%,74.652%,0,79.586%,98.877%,5.015%,
+Fyer Hornless,9.585,99.402%,0,4.719%,76.448%,73.381%,0,79.586%,98.877%,3.334%,
+Tentaro,8.555,98.82%,2.439%,2.428%,75.197%,72.115%,0.083,78.337%,96.299%,0,
+Emily Emberspark,7.818,95.733%,2.562%,7.941%,76.449%,74.653%,0.105,78.349%,98.84%,0,
+Keegan Stonehorn,7.925,98.82%,2.821%,5.474%,73.929%,70.85%,0.141,74.556%,96.267%,1.68%,
+Sofykan,7.858,98.82%,1.97%,2.106%,72.662%,70.855%,0.108,70.785%,96.267%,1.68%,
+Kogonol,8.058,98.82%,2.416%,5.048%,76.449%,70.864%,0.116,79.586%,96.333%,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Razorclaw's Rage,Razorclaw's Rage Overstack,Soulcleave's Summit,Soulcleave's Summit Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Frost Spirit,Frost Spirit Overstack,Spotter,Spotter Overstack,One Wolf Pack,One Wolf Pack Overstack,
+Klokrek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98.877%,98.877%,15.122%,15.122%,
+Lexya Tekk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Mr Furious Plant,99.402%,99.402%,0,0,3.609%,3.609%,0,0,0,0,0,0,0,0,0,0,0,0,
+Fyer Hornless,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Tentaro,98.82%,98.82%,2.439%,2.439%,2.428%,2.428%,0,0,0,0,0,0,0,0,0,0,0,0,
+Emily Emberspark,0,0,0,0,0,0,0,0,0,0,0,0,78.349%,78.349%,98.84%,98.84%,0,0,
+Keegan Stonehorn,0,0,0,0,0,0,73.929%,73.929%,70.85%,70.85%,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kogonol,0,0,0,0,0,0,0,0,0,0,0.116,0.116,0,0,0,0,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Razorclaw's Rage,Razorclaw's Rage Overstack,Soulcleave's Summit,Soulcleave's Summit Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Frost Spirit,Frost Spirit Overstack,Spotter,Spotter Overstack,One Wolf Pack,One Wolf Pack Overstack,
+Klokrek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96.088%,96.088%,4.175%,4.175%,
+Lexya Tekk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Mr Furious Plant,95.913%,95.913%,0,0,5.162%,5.162%,0,0,0,0,0,0,0,0,0,0,0,0,
+Fyer Hornless,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Tentaro,96.047%,96.047%,2.442%,2.442%,4.712%,4.712%,0,0,0,0,0,0,0,0,0,0,0,0,
+Emily Emberspark,0,0,0,0,0,0,0,0,0,0,0,0,75.816%,75.816%,90.268%,90.268%,0,0,
+Keegan Stonehorn,0,0,0,0,0,0,75.189%,75.189%,72.122%,72.122%,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kogonol,0,0,0,0,0,0,0,0,0,0,0.109,0.109,0,0,0,0,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Razorclaw's Rage,Razorclaw's Rage Overstack,Soulcleave's Summit,Soulcleave's Summit Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Frost Spirit,Frost Spirit Overstack,Spotter,Spotter Overstack,One Wolf Pack,One Wolf Pack Overstack,
+Klokrek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.819%,4.819%,0.672%,0.672%,
+Lexya Tekk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Mr Furious Plant,1.601%,1.601%,0,0,0.344%,0.344%,0,0,0,0,0,0,0,0,0,0,0,0,
+Fyer Hornless,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Tentaro,2.791%,2.791%,0.258%,0.258%,0.303%,0.303%,0,0,0,0,0,0,0,0,0,0,0,0,
+Emily Emberspark,0,0,0,0,0,0,0,0,0,0,0,0,77.579%,77.579%,2.231%,2.231%,0,0,
+Keegan Stonehorn,0,0,0,0,0,0,75.948%,75.948%,72.876%,72.876%,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kogonol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Razorclaw's Rage,Razorclaw's Rage Overstack,Soulcleave's Summit,Soulcleave's Summit Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Frost Spirit,Frost Spirit Overstack,Spotter,Spotter Overstack,One Wolf Pack,One Wolf Pack Overstack,
+Klokrek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45.383%,45.383%,2.229%,2.229%,
+Lexya Tekk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Mr Furious Plant,43.517%,43.517%,0,0,2.485%,2.485%,0,0,0,0,0,0,0,0,0,0,0,0,
+Fyer Hornless,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Tentaro,44.238%,44.238%,1.229%,1.229%,2.263%,2.263%,0,0,0,0,0,0,0,0,0,0,0,0,
+Emily Emberspark,0,0,0,0,0,0,0,0,0,0,0,0,76.795%,76.795%,41.359%,41.359%,0,0,
+Keegan Stonehorn,0,0,0,0,0,0,75.611%,75.611%,72.541%,72.541%,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kogonol,0,0,0,0,0,0,0,0,0,0,0.049,0.049,0,0,0,0,0,0,
+
+
+
+
+
+Name,Avg Boons,Rite of the Great Dwarf,Breakrazor's Bastion,Virtue of Resolve (Battle Presence - Absolute Resolve),Eternal Oasis,Unbroken Lines,Stone Spirit,
+Klokrek,10.035,0,0,0,6.721%,0.063,68.847%,
+Kvynxx,9.841,0,0.827%,99.825%,6.721%,0.063,80.211%,
+Lexya Tekk,9.915,0,1.655%,96.055%,6.721%,0.063,80.204%,
+Mr Furious Plant,9.784,0,0,93.53%,6.721%,0.063,78.927%,
+Fyer Hornless,9.585,0,0,94.785%,6.721%,0.063,76.388%,
+Tentaro,8.555,2.07%,12.439%,34.605%,0,0,80.204%,
+Emily Emberspark,7.818,2.07%,12.439%,24.878%,0,0,76.413%,
+Keegan Stonehorn,7.925,2.07%,12.438%,20.163%,0,0,71.351%,
+Sofykan,7.858,2.07%,9.956%,10.062%,0,0,67.566%,
+Kogonol,8.058,2.07%,12.438%,25.143%,0,0,77.638%,
+
+
+
+
+
+Name,Rite of the Great Dwarf,Rite of the Great Dwarf Overstack,Breakrazor's Bastion,Breakrazor's Bastion Overstack,Virtue of Resolve (Battle Presence - Absolute Resolve),Virtue of Resolve (Battle Presence - Absolute Resolve) Overstack,Eternal Oasis,Eternal Oasis Overstack,Unbroken Lines,Unbroken Lines Overstack,Stone Spirit,Stone Spirit Overstack,
+Klokrek,0,0,0,0,0,0,6.721%,6.721%,0.063,0.063,0,0,
+Kvynxx,0,0,0,0,0,0,0,0,0,0,0,0,
+Lexya Tekk,0,0,0,0,0,0,0,0,0,0,0,0,
+Mr Furious Plant,0,0,0,0,0,0,0,0,0,0,0,0,
+Fyer Hornless,0,0,0,0,0,0,0,0,0,0,0,0,
+Tentaro,2.07%,2.07%,12.439%,12.439%,0,0,0,0,0,0,0,0,
+Emily Emberspark,0,0,0,0,0,0,0,0,0,0,76.413%,76.413%,
+Keegan Stonehorn,0,0,0,0,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,
+Kogonol,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Rite of the Great Dwarf,Rite of the Great Dwarf Overstack,Breakrazor's Bastion,Breakrazor's Bastion Overstack,Virtue of Resolve (Battle Presence - Absolute Resolve),Virtue of Resolve (Battle Presence - Absolute Resolve) Overstack,Eternal Oasis,Eternal Oasis Overstack,Unbroken Lines,Unbroken Lines Overstack,Stone Spirit,Stone Spirit Overstack,
+Klokrek,0,0,0,0,96.049%,96.049%,6.721%,6.721%,0.063,0.063,0,0,
+Kvynxx,0,0,0,0,0,0,0,0,0,0,0,0,
+Lexya Tekk,0,0,0,0,0,0,0,0,0,0,0,0,
+Mr Furious Plant,0,0,0,0,0,0,0,0,0,0,0,0,
+Fyer Hornless,0,0,0,0,0,0,0,0,0,0,0,0,
+Tentaro,2.07%,2.07%,11.818%,11.818%,0,0,0,0,0,0,0,0,
+Emily Emberspark,0,0,0,0,0,0,0,0,0,0,74.19%,74.19%,
+Keegan Stonehorn,0,0,0,0,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,
+Kogonol,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Rite of the Great Dwarf,Rite of the Great Dwarf Overstack,Breakrazor's Bastion,Breakrazor's Bastion Overstack,Virtue of Resolve (Battle Presence - Absolute Resolve),Virtue of Resolve (Battle Presence - Absolute Resolve) Overstack,Eternal Oasis,Eternal Oasis Overstack,Unbroken Lines,Unbroken Lines Overstack,Stone Spirit,Stone Spirit Overstack,
+Klokrek,0,0,0,0,22.97%,22.97%,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,0,0,0,0,0,0,
+Lexya Tekk,0,0,0,0,0,0,0,0,0,0,0,0,
+Mr Furious Plant,0,0,0,0,0,0,0,0,0,0,0,0,
+Fyer Hornless,0,0,0,0,0,0,0,0,0,0,0,0,
+Tentaro,0,0,0.496%,0.496%,0,0,0,0,0,0,0,0,
+Emily Emberspark,0,0,0,0,0,0,0,0,0,0,76.916%,76.916%,
+Keegan Stonehorn,0,0,0,0,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,
+Kogonol,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Rite of the Great Dwarf,Rite of the Great Dwarf Overstack,Breakrazor's Bastion,Breakrazor's Bastion Overstack,Virtue of Resolve (Battle Presence - Absolute Resolve),Virtue of Resolve (Battle Presence - Absolute Resolve) Overstack,Eternal Oasis,Eternal Oasis Overstack,Unbroken Lines,Unbroken Lines Overstack,Stone Spirit,Stone Spirit Overstack,
+Klokrek,0,0,0,0,55.449%,55.449%,2.987%,2.987%,0.028,0.028,0,0,
+Kvynxx,0,0,0,0,0,0,0,0,0,0,0,0,
+Lexya Tekk,0,0,0,0,0,0,0,0,0,0,0,0,
+Mr Furious Plant,0,0,0,0,0,0,0,0,0,0,0,0,
+Fyer Hornless,0,0,0,0,0,0,0,0,0,0,0,0,
+Tentaro,0.92%,0.92%,5.528%,5.528%,0,0,0,0,0,0,0,0,
+Emily Emberspark,0,0,0,0,0,0,0,0,0,0,75.704%,75.704%,
+Keegan Stonehorn,0,0,0,0,0,0,0,0,0,0,0,0,
+Sofykan,0,0,0,0,0,0,0,0,0,0,0,0,
+Kogonol,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,"Spectral Impact (KB Slam)","Ghastly Prison (Egged)","Spectral Darkness (Stood in Orb AoE)","Kicked by small add","Hit by Black Goo",
+Klokrek,0,0,0,0,125,
+Kvynxx,1,0,0,0,100,
+Lexya Tekk,0,0,0,0,100,
+Mr Furious Plant,1,1,20,0,100,
+Fyer Hornless,1,5,10,0,75,
+Tentaro,2,3,0,1,100,
+Emily Emberspark,5,2,0,1,125,
+Keegan Stonehorn,4,2,0,2,150,
+Sofykan,3,0,0,1,0,
+Kogonol,1,0,0,1,50,
+
+
+
+
+
+Time,3.663,3.663,3.663,3.663,14.832,24.085,24.085,24.085,24.085,24.085,24.085,24.085,24.086,24.086,24.086,24.086,24.086,24.086,24.086,24.086,24.086,24.086,24.086,24.086,24.086,24.086,24.087,24.087,24.087,24.087,28.075,28.075,28.075,28.075,28.075,28.075,28.075,28.075,28.075,28.075,28.075,28.075,28.075,28.075,28.075,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.076,28.077,28.077,28.077,28.077,28.077,28.077,28.077,28.077,28.077,28.077,28.077,28.077,28.077,28.077,28.077,28.078,28.078,28.078,28.078,28.078,28.078,28.078,28.078,28.078,28.078,28.078,28.078,28.078,28.078,28.078,28.078,28.079,28.079,28.079,28.079,28.079,28.079,28.079,28.079,28.079,28.079,28.079,28.079,28.079,28.079,28.079,28.08,28.08,28.08,28.08,28.08,28.08,28.08,28.08,28.08,28.08,28.08,28.08,28.08,28.08,28.08,28.08,28.08,28.08,28.08,32.641,42.78,42.78,42.781,42.781,51.301,51.301,51.301,51.301,109.594,118.827,118.827,118.827,118.827,118.827,118.827,118.827,118.827,118.827,118.827,118.827,118.827,118.827,118.827,118.827,118.827,118.828,118.828,118.828,118.828,118.828,118.828,118.828,118.828,118.828,118.828,118.828,118.828,118.828,118.828,118.828,118.828,118.828,118.829,118.829,118.829,118.829,118.829,118.829,118.829,118.829,118.829,118.829,118.829,118.829,118.829,118.829,118.83,118.83,118.83,118.83,118.831,118.831,118.831,118.831,118.832,118.832,118.832,118.832,118.832,118.832,118.833,118.833,118.833,118.833,118.833,118.833,118.833,118.834,118.834,118.834,118.834,118.834,118.835,118.835,118.835,118.835,118.835,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.836,118.837,118.837,118.837,118.837,118.837,118.837,118.837,118.837,118.837,118.837,118.837,118.837,118.837,118.837,118.837,118.837,118.838,118.838,118.838,118.838,118.838,118.838,118.838,118.838,118.838,118.838,118.838,118.839,118.839,118.839,118.839,118.839,118.839,118.839,118.839,118.839,118.839,118.839,118.839,118.839,118.839,118.84,118.84,118.84,118.84,118.84,118.84,118.84,118.84,118.84,118.84,118.84,122.862,122.862,122.862,122.862,122.862,122.862,122.862,122.862,122.862,122.862,122.862,122.862,122.862,122.862,122.862,122.862,122.862,122.863,122.863,122.863,122.863,122.863,122.863,122.863,122.863,122.863,122.863,122.863,122.863,122.863,122.863,122.864,122.864,122.864,122.864,122.864,122.864,122.864,122.864,122.864,122.864,122.864,122.864,122.864,122.864,122.865,122.865,122.865,122.865,122.865,122.866,122.866,122.866,122.866,122.866,122.867,122.867,122.867,122.867,122.868,122.868,122.868,122.869,122.869,122.869,122.869,122.87,122.87,122.87,122.87,122.871,122.871,122.871,122.871,122.871,126.833,126.833,126.833,126.833,126.833,126.834,126.834,126.834,126.834,126.834,126.834,126.834,126.834,126.834,126.834,126.834,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.835,126.836,126.836,126.836,126.836,126.836,126.836,126.836,126.836,126.836,126.836,126.836,126.836,126.836,126.836,126.836,126.837,126.837,126.837,126.837,126.837,126.837,126.837,126.837,126.837,126.837,126.838,126.838,126.838,126.838,126.838,126.838,126.838,126.838,126.838,126.84,126.84,126.841,126.841,126.841,126.841,126.841,126.841,126.842,126.842,126.842,126.842,126.842,126.842,126.843,126.843,126.843,126.843,126.843,126.843,126.844,126.844,126.844,126.844,126.844,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.845,126.846,126.846,126.846,126.846,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.849,126.85,126.85,126.85,126.85,126.85,126.85,126.85,126.85,126.85,126.851,126.851,126.851,126.851,126.851,126.851,126.851,126.851,126.851,126.851,126.851,126.851,126.851,126.851,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.852,126.853,126.853,126.853,126.853,126.853,126.853,126.853,126.853,126.853,126.853,126.853,126.853,129.479,134.898,134.899,134.899,140.111,140.112,188.683,188.684,188.684,188.684,188.684,192.414,192.416,192.418,192.42,200.474,200.474,200.474,200.474,200.474,200.474,200.474,200.474,200.474,200.475,200.543,200.543,200.543,200.543,200.543,200.543,200.543,200.543,200.543,200.543,201.626,206.823,206.823,206.823,206.823,206.823,206.823,206.823,206.824,206.824,206.824,206.824,206.824,206.824,206.824,206.824,206.824,206.824,206.824,206.825,206.825,206.825,206.825,206.825,206.825,206.825,206.825,206.825,206.825,206.825,206.825,206.825,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.826,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.913,206.914,206.914,206.914,206.914,206.914,206.914,206.914,206.915,206.915,206.915,206.915,206.915,206.915,206.915,206.915,206.915,206.916,206.916,206.916,206.916,206.916,206.916,206.916,206.916,206.916,206.916,206.917,206.917,206.917,206.917,206.917,206.917,206.917,206.917,206.917,206.917,206.917,206.917,206.918,206.918,206.918,206.918,206.918,206.918,206.918,206.918,206.918,206.918,206.918,206.918,206.919,206.919,206.919,206.919,206.919,206.919,206.919,206.919,206.919,206.919,206.919,206.92,206.92,206.92,206.92,206.92,206.92,206.92,206.92,206.92,206.92,206.92,206.92,206.92,206.921,206.921,206.921,206.921,206.921,206.921,206.921,210.868,210.868,210.868,210.868,210.868,210.868,210.869,210.869,210.869,210.869,210.869,210.869,210.869,210.869,210.869,210.869,210.87,210.87,210.87,210.87,210.87,210.87,210.87,210.87,210.87,210.871,210.871,210.871,210.871,210.871,210.871,210.871,210.871,210.871,210.871,210.871,210.871,210.872,210.872,210.872,210.872,210.872,210.872,210.872,210.872,210.872,210.872,210.872,210.872,210.872,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.873,210.874,210.874,210.874,210.874,210.874,210.874,210.875,210.875,210.875,210.875,210.875,210.876,210.876,210.876,210.876,210.876,210.876,210.877,210.877,210.877,210.877,210.877,210.877,210.877,210.878,210.878,210.878,210.878,210.878,210.879,210.882,210.882,210.882,210.882,210.882,210.882,210.882,210.882,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.883,210.884,210.884,210.884,210.884,210.884,210.884,210.884,210.884,210.885,210.885,210.885,210.885,210.886,210.886,210.886,210.886,210.886,210.886,210.886,210.886,210.887,210.887,210.887,210.887,210.887,210.887,210.887,210.887,210.887,210.887,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.888,210.889,210.889,210.889,210.889,210.889,210.889,210.889,210.889,210.889,210.889,210.889,210.889,210.889,210.889,210.889,210.89,212.241,212.241,212.241,212.241,212.241,212.241,212.241,212.241,212.242,212.242,214.837,214.838,214.838,214.838,214.838,214.838,214.838,214.839,214.839,214.839,214.839,214.839,214.839,214.839,214.839,214.839,214.839,214.84,214.84,214.84,214.84,214.84,214.84,214.84,214.84,223.97,227.987,227.988,227.99,227.992,227.994,227.995,227.996,227.998,227.999,230.465,230.465,
+Player,Kvynxx,Mr Furious Plant,Fyer Hornless,Emily Emberspark,Gorseval el Múltiple,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Fyer Hornless,Fyer Hornless,Fyer Hornless,Emily Emberspark,Fyer Hornless,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Gorseval el Múltiple,Tentaro,Kogonol,Keegan Stonehorn,Sofykan,Tentaro,Emily Emberspark,Sofykan,Keegan Stonehorn,Gorseval el Múltiple,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Kvynxx,Fyer Hornless,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Klokrek,Klokrek,Klokrek,Klokrek,Emily Emberspark,Klokrek,Klokrek,Klokrek,Emily Emberspark,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Keegan Stonehorn,Keegan Stonehorn,Lexya Tekk,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Tentaro,Klokrek,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Klokrek,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Gorseval el Múltiple,Emily Emberspark,Sofykan,Keegan Stonehorn,Keegan Stonehorn,Emily Emberspark,Kogonol,Keegan Stonehorn,Sofykan,Tentaro,Emily Emberspark,Mr Furious Plant,Fyer Hornless,Fyer Hornless,Fyer Hornless,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Gorseval el Múltiple,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Lexya Tekk,Keegan Stonehorn,Keegan Stonehorn,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Keegan Stonehorn,Lexya Tekk,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Fyer Hornless,Fyer Hornless,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Mr Furious Plant,Tentaro,Tentaro,Tentaro,Tentaro,Mr Furious Plant,Tentaro,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Tentaro,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Lexya Tekk,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Kvynxx,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Keegan Stonehorn,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Mr Furious Plant,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Tentaro,Mr Furious Plant,Tentaro,Tentaro,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Mr Furious Plant,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Kogonol,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Emily Emberspark,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Kogonol,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Fyer Hornless,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Klokrek,Gorseval el Múltiple,Keegan Stonehorn,Tentaro,Tentaro,Emily Emberspark,Tentaro,Keegan Stonehorn,Fyer Hornless,Fyer Hornless,Emily Emberspark,Keegan Stonehorn,Emily Emberspark,
+Mechanic,"Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Ghastly Rampage (Breakbar broken)","Kicked by small add","Kicked by small add","Kicked by small add","Kicked by small add","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Ghastly Rampage (Breakbar broken)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Kicked by small add","Kicked by small add","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Ghastly Rampage (Full duration)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)",
+
+
+
+
+
+
+
+
+
+
+
+
+Name,Avg,Bleeding,Burning,Confusion,Poison,Torment,Blind,Chilled,Crippled,Immobile,Slow,Weakness,Taunt,Vulnerability,
+Gorseval el Múltiple,6.4,43.847,13.321,11.541,0.217,6.127,26.863%,68.283%,68.832%,33.369%,11.115%,62.65%,1.68%,16.509,
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name,Bleeding,Bleeding Overstack,Burning,Burning Overstack,Confusion,Confusion Overstack,Poison,Poison Overstack,Torment,Torment Overstack,Blind,Blind Overstack,Chilled,Chilled Overstack,Crippled,Crippled Overstack,Immobile,Immobile Overstack,Slow,Slow Overstack,Weakness,Weakness Overstack,Taunt,Taunt Overstack,Vulnerability,Vulnerability Overstack,
+Klokrek,1.462,1.462,1.081,1.081,0,0,0,0,0,0,0,0,0,0,16.114%,16.114%,0,0,5.664%,5.664%,0,0,0,0,0,0,
+Kvynxx,0,0,0.13,0.13,0,0,0,0,0,0,0,0,14.248%,14.248%,14.467%,14.467%,0,0,0,0,0,0,0,0,4.312,4.312,
+Lexya Tekk,0.084,0.084,0.399,0.399,4.869,4.869,0.076,0.076,0,0,0,0,0.42%,0.42%,0,0,0,0,0,0,16.924%,16.924%,0,0,0.129,0.129,
+Mr Furious Plant,0,0,0.084,0.084,0,0,0,0,0,0,0,0,10.216%,10.216%,3.284%,3.284%,3.781%,3.781%,0,0,0,0,0,0,1.198,1.198,
+Fyer Hornless,1.757,1.757,2.172,2.172,0,0,0,0,0,0,0,0,13.121%,13.121%,0,0,3.781%,3.781%,0,0,11.14%,11.14%,0,0,2.335,2.335,
+Tentaro,0.756,0.756,0.248,0.248,0,0,0,0,0,0,0,0,18.315%,18.315%,5.192%,5.192%,5.447%,5.447%,1.68%,1.68%,1.228%,1.228%,1.68%,1.68%,1.541,1.541,
+Emily Emberspark,2.672,2.672,0.034,0.034,4.066,4.066,0,0,0.714,0.714,8.213%,8.213%,11.09%,11.09%,5.931%,5.931%,14.961%,14.961%,3.771%,3.771%,18.642%,18.642%,0,0,0.224,0.224,
+Keegan Stonehorn,0.807,0.807,0.13,0.13,0.403,0.403,0,0,0,0,9.627%,9.627%,0%,0%,8.948%,8.948%,0,0,0,0,2.386%,2.386%,0,0,1.203,1.203,
+Sofykan,34.611,34.611,0.165,0.165,2.202,2.202,0.141,0.141,5.413,5.413,0,0,0.874%,0.874%,0,0,0,0,0,0,0,0,0,0,5.376,5.376,
+Kogonol,1.698,1.698,8.877,8.877,0,0,0,0,0,0,9.023%,9.023%,0,0,14.895%,14.895%,5.399%,5.399%,0,0,12.33%,12.33%,0,0,0.19,0.19,
+
+
+
+
+
+Name,Avg,Might,Fury,Quickness,Alacrity,Protection,Regeneration,Vigor,Aegis,Stability,Swiftness,Resistance,Resolution,
+Gorseval el Múltiple,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+
+
+
+
+
+
+
+
