@@ -13,10 +13,6 @@
 
 **Project Contents**
 
-[TOCM]
-
-[TOC]
-
 ### Route
 ##### Extract of Data
 - Getting data from ARC Dps tool as .zevtc files (log files).
