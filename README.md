@@ -19,9 +19,11 @@
 - Parsing .zevtc files to csv/json using [Elite Insights](https://github.com/baaron4/GW2-Elite-Insights-Parser "Elite Insights") tool from GitHub user [baaron4](https://github.com/baaron4 "baaron4").
 
 ##### Transforming Data
-- Working with Microsoft Excel and [CSVed](https://csved.sjfrancke.nl/ "CSVed") to get usefull csv files for data analysis.
-- Use of Google Colab notebooks, Python and Pandas for data analysis.
+- Working with Microsoft Excel and [CSVed](https://csved.sjfrancke.nl/ "CSVed") to get usefull and clean .csv files for data management.
+- Use of Jupyter Notebooks, Python and Pandas for data analysis.
+- Use of python libraries to create KPIs: Matplotlib, Seaborn...
 
-### Tools used and links
+### Tools used
 
 [EditorMD](https://pandao.github.io/editor.md/en.html "EditorMD") from Pandao
+VS Code
