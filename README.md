@@ -30,5 +30,5 @@
 
 ### Tools used
 
-[EditorMD](https://pandao.github.io/editor.md/en.html "EditorMD") from Pandao
-VS Code
+- [EditorMD](https://pandao.github.io/editor.md/en.html "EditorMD") from [Pandao](https://github.com/pandao)
+- VS Code
