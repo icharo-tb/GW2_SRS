@@ -1,6 +1,3 @@
-<div allign="center">
-  <h1>GW2-SRS</h1>
-</div>
 # GW2-SRS
 ### Guild Wars 2 - System for Raid Study (with applied big data techniques)
 -----------------------------------------------------------------------------------
