@@ -1,3 +1,5 @@
+<div align="center">
+  <h1>GW2</h1>
 # GW2-SRS
 ### Guild Wars 2 - System for Raid Study (with applied big data techniques)
 -----------------------------------------------------------------------------------
@@ -37,3 +39,4 @@
   - BeautifulSoup, Selenium, requests
   - Pandas, Jupyter Notebooks
 - VS Code
+</div>
