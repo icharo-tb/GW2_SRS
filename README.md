@@ -1,4 +1,8 @@
-# GW2-SRS
+<div align="center">
+  <h1>GW2-SRS</h1>
+</div>
+
+
 ### Guild Wars 2 - System for Raid Study (with applied big data techniques)
 -----------------------------------------------------------------------------------
 [![gw2](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b6cc678-b1b3-4c10-9c25-e278bd301dd5/d8u83ma-186a112b-4859-4613-91b6-dffed9d8ca7a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNiNmNjNjc4LWIxYjMtNGMxMC05YzI1LWUyNzhiZDMwMWRkNVwvZDh1ODNtYS0xODZhMTEyYi00ODU5LTQ2MTMtOTFiNi1kZmZlZDlkOGNhN2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uL8HBogU4dH7WKAibcZ7QuMN-r4-X1LVeIzpe99jJ2M "gw2")](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b6cc678-b1b3-4c10-9c25-e278bd301dd5/d8u83ma-186a112b-4859-4613-91b6-dffed9d8ca7a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNiNmNjNjc4LWIxYjMtNGMxMC05YzI1LWUyNzhiZDMwMWRkNVwvZDh1ODNtYS0xODZhMTEyYi00ODU5LTQ2MTMtOTFiNi1kZmZlZDlkOGNhN2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uL8HBogU4dH7WKAibcZ7QuMN-r4-X1LVeIzpe99jJ2M "gw2")
