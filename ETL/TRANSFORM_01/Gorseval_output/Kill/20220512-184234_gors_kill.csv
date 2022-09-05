@@ -1,0 +1,413 @@
+Elite Insights,2.44.1.0,
+ARC Version,EVTC20220415,
+Fight ID,15429,
+Recorded By,Deadly Gasai Yuno,
+Time Start,2022-05-12 19:39:12 +02:00,
+Time End,2022-05-12 19:42:33 +02:00,
+
+
+
+
+Boss,Gorseval el Múltiple,
+Success,True,
+Total Boss Health,21628200,
+Final Boss Health,0,
+Boss Health Burned %,100,
+Duration,03m 15s 123ms,
+Sub Group,Profession,Role,Name,Account,WepSet1_1,WepSet1_2,WepSet2_1,WepSet2_2,Boss DPS,Boss DMG,Boss Power DPS,Boss Power DMG,Boss Condi DPS,Boss Condi DMG,All DPS,All DMG,All Power DPS,All Power DMG,All Condi DPS,All Condi DMG,Times Downed,Time Died,Percent Alive,
+2,Firebrand, Condi:10,Ky Zalys,Kylar.5098,Axe,Torch,Scepter,Torch,14238,2778195,2191,427567,12047,2350628,21250,4146358,3567,695980,17683,3450378,0,0,,
+2,Daredevil, Condi:10,Rapiffa,Zygfryd.8346,Dagger,Dagger,Shortbow,2Hand,13544,2642670,1764,344189,11780,2298481,18066,3525185,3069,598737,14998,2926448,0,0,,
+2,Firebrand, Concentration:10 Healing:10,Old Bald Man,NutsCed.7382,Axe,Shield,Staff,2Hand,1887,368133,1364,266098,523,102035,3819,745156,2739,534456,1080,210700,0,0,,
+2,Mechanist, Concentration:10,Yltris,Taubi.1790,Mace,Shield,Unknown,Unknown,8891,1734785,8018,1564496,873,170289,13371,2609075,12253,2390822,1119,218253,0,0,,
+2,Berserker, Condi:10,Hellkus Galactikus,Hellkus.9305,Sword,Torch,Longbow,2Hand,13631,2659760,1647,321338,11984,2338422,16441,3208100,2731,532856,13711,2675244,0,0,,
+3,Mechanist, Concentration:10 Healing:10 Toughness:10,Deadly Gasai Yuno,Fabio no.4796,Mace,Shield,Unknown,Unknown,2813,548921,2477,483370,336,65551,4826,941618,4328,844516,498,97102,0,0,,
+3,Scrapper,,Pétrole Lette,Minilette.7084,Hammer,2Hand,Unknown,Unknown,11479,2239724,11043,2154815,435,84909,17446,3404082,16855,3288840,591,115242,0,0,,
+3,Mirage, Condi:10,Gennosuke Saiki,Tommy shelby.2149,Axe,Pistol,Axe,Torch,10134,1977367,1463,285485,8671,1691882,12907,2518464,2263,441629,10644,2076835,0,0,,
+3,Mechanist, Condi:10,Fruity Engi,angryelf.9412,Mace,Pistol,Mace,Pistol,16405,3200964,6017,1174003,10388,2026961,24774,4833934,9639,1880762,15135,2953172,0,0,,
+3,Virtuoso,,Chiraa Miralis,chiraox.5769,Dagger,Sword,Dagger,Focus,16504,3220213,5110,997164,11393,2223049,23329,4552100,7778,1517696,15551,3034404,0,0,,
+
+
+
+
+
+Sub Group,Profession,Name,Critical%,Critical hits,Critical DMG,Scholar%,Scholar hits,Scholar DMG,Scholar % increase,Moving%,Moving Hits,Moving DMG,Moving % increase,Flanking%,Flanking hits,Glancing%,Glancing Hits,Blind%,Blind Hits,Total Hits,Hits to Interupt,Hits Invulned,Time wasted,Time saved,Weapon Swaps,
+2,Firebrand,Ky Zalys,79.8,280,366632,82.1,298,16852.762,4.103,20.1,73,4273.476,1.01,95.9,348,0,0,0,0,439,0,138,2.043,16.243,28,
+2,Daredevil,Rapiffa,56.1,184,196353,84.1,276,10591.286,3.799,76.8,252,8635.762,3.076,83.2,273,0,0,0,0,389,0,135,1.796,7.233,6,
+2,Firebrand,Old Bald Man,29.7,68,100449,95.6,219,12093.476,4.761,21.4,49,2786.619,1.058,96.9,222,0,0,0,0,299,0,78,4.527,53.223,40,
+2,Mechanist,Yltris,89.1,163,892646,78.4,167,40059.619,4.167,16.9,36,8375.81,0.843,92,196,0,0,0,0,232,0,54,6.535,14.98,44,
+2,Berserker,Hellkus Galactikus,57.7,165,218055,93.7,268,14418.19,4.698,10.5,30,1285.762,0.402,97.9,280,0,0,0,0,313,0,81,5.564,19.707,19,
+3,Mechanist,Deadly Gasai Yuno,35.7,45,66914,92.9,117,6119.429,4.603,15.9,20,884.19,0.64,45.2,57,0,0,0,0,142,0,24,5.261,23.593,27,
+3,Scrapper,Pétrole Lette,97.3,328,2135428,92,310,94584.381,4.591,25.2,85,26773.476,1.258,94.7,319,0,0,0,0,397,0,78,5.185,18.371,26,
+3,Mirage,Gennosuke Saiki,63,165,179256,84.4,221,9841.667,4.167,54.6,143,6171.333,2.573,84.4,221,0,0,0,0,315,0,119,5.168,28.584,4,
+3,Mechanist,Fruity Engi,71.4,132,477943,95.7,177,26963.714,4.761,8.1,15,1958.952,0.331,94.1,174,0,0,0,0,218,0,110,4.818,19.419,3,
+3,Virtuoso,Chiraa Miralis,99.4,498,800680,86.4,433,33208.81,4.316,17.6,88,6016.048,0.755,93.8,470,0,0,0,0,545,0,80,2.047,20.394,16,
+
+
+
+
+
+Sub Group,Profession,Name,Critical%,Critical hits,Critical DMG,Scholar%,Scholar hits,Scholar DMG,Scholar % increase,Moving%,Moving Hits,Moving DMG,Moving % increase,Flanking%,Flanking hits,Glancing%,Glancing Hits,Blind%,Blind Hits,Total Hits,Hits to Interupt,Hits Invulned,Time wasted,Time saved,Weapon Swaps,
+2,Firebrand,Ky Zalys,78.7,476,602308,82.1,298,16852.762,4.103,20.1,73,4273.476,1.01,88.8,553,3.9,24,0,0,699,0,138,2.043,16.243,28,
+2,Daredevil,Rapiffa,55.8,336,359881,84.1,276,10591.286,3.799,76.8,252,8635.762,3.076,77.2,465,3.5,21,0,0,663,0,135,1.796,7.233,6,
+2,Firebrand,Old Bald Man,26.9,134,193824,95.6,219,12093.476,4.761,21.4,49,2786.619,1.058,80.1,399,4.8,24,0,0,568,0,78,4.527,53.223,40,
+2,Mechanist,Yltris,85.6,274,1445473,78.4,167,40059.619,4.167,16.9,36,8375.81,0.843,89.9,331,3.5,13,0,0,387,0,54,6.535,14.98,44,
+2,Berserker,Hellkus Galactikus,56.5,266,361716,93.7,268,14418.19,4.698,10.5,30,1285.762,0.402,90,424,2.8,13,0,0,498,0,81,5.564,19.707,19,
+3,Mechanist,Deadly Gasai Yuno,33.3,86,127558,92.9,117,6119.429,4.603,15.9,20,884.19,0.64,65.1,168,7,18,0,0,274,0,24,5.261,23.593,27,
+3,Scrapper,Pétrole Lette,91.6,554,3200900,92,310,94584.381,4.591,25.2,85,26773.476,1.258,86.3,522,3.5,21,0,0,665,1,78,5.185,18.371,26,
+3,Mirage,Gennosuke Saiki,55.9,255,260245,84.4,221,9841.667,4.167,54.6,143,6171.333,2.573,82.5,376,6.6,30,0,0,509,1,119,5.168,28.584,4,
+3,Mechanist,Fruity Engi,63.8,215,715819,95.7,177,26963.714,4.761,8.1,15,1958.952,0.331,86.1,290,5,17,0,0,370,2,110,4.818,19.419,3,
+3,Virtuoso,Chiraa Miralis,93.9,772,1178163,86.4,433,33208.81,4.316,17.6,88,6016.048,0.755,84.9,698,4,33,0,0,866,1,80,2.047,20.394,16,
+
+
+
+
+
+Sub Group,Profession,Name,DMG Taken,DMG Barrier,Blocked,Invulned,Evaded,Dodges,
+2,Firebrand,Ky Zalys,121364,51512,6,0,0,6,
+2,Daredevil,Rapiffa,117319,51623,3,0,3,32,
+2,Firebrand,Old Bald Man,85244,50897,7,0,0,9,
+2,Mechanist,Yltris,186913,60406,2,0,0,5,
+2,Berserker,Hellkus Galactikus,132843,55433,3,0,0,1,
+3,Mechanist,Deadly Gasai Yuno,86191,66106,5,0,0,0,
+3,Scrapper,Pétrole Lette,147314,140593,4,0,1,3,
+3,Mirage,Gennosuke Saiki,154321,92891,1,0,1,34,
+3,Mechanist,Fruity Engi,102671,74014,6,0,0,5,
+3,Virtuoso,Chiraa Miralis,169588,98169,3,0,1,3,
+
+
+
+
+
+Sub Group,Profession,Name,Condi Cleanse,Condi Cleanse time,Condi Cleanse Self,Condi Cleanse time self,Boon Strips,Boon Strips time,Resurrects,Time Resurecting,
+2,Firebrand,Ky Zalys,32,2753.404,6,200.482,0,0,0,0,
+2,Daredevil,Rapiffa,16,3545.53,3,691.248,0,0,0,0,
+2,Firebrand,Old Bald Man,7,1424.395,2,404.453,0,0,0,0,
+2,Mechanist,Yltris,1,195.123,0,0,0,0,0,0,
+2,Berserker,Hellkus Galactikus,0,0,0,0,0,0,0,0,
+3,Mechanist,Deadly Gasai Yuno,5,1082.594,2,443.809,0,0,0,0,
+3,Scrapper,Pétrole Lette,7,978.305,2,196.468,0,0,0,0,
+3,Mirage,Gennosuke Saiki,0,0,3,589.233,0,0,0,0,
+3,Mechanist,Fruity Engi,1,195.123,0,0,0,0,0,0,
+3,Virtuoso,Chiraa Miralis,20,2432.473,4,432.747,0,0,0,0,
+
+
+
+
+
+Name,Avg Boons,Might,Fury,Quickness,Alacrity,Protection,Regeneration,Vigor,Aegis,Stability,Swiftness,Resistance,Resolution,
+Ky Zalys,9.861,24.355,99.207%,99.685%,98.209%,98.78%,98.779%,40.409%,62.748%,2.496,95.835%,7.749%,98.78%,
+Rapiffa,9.985,24.406,99.207%,99.207%,99.087%,98.78%,98.779%,63.265%,57.178%,2.395,99.71%,7.749%,89.331%,
+Old Bald Man,10.412,24.547,99.207%,99.208%,93.046%,98.78%,98.78%,97.372%,63.97%,2.336,99.71%,7.749%,98.78%,
+Yltris,9.815,24.587,99.207%,99.208%,97.304%,98.78%,98.278%,43.275%,57.701%,2.151,99.71%,7.749%,97.824%,
+Hellkus Galactikus,9.568,24.558,99.207%,99.208%,96.991%,98.373%,98.252%,43.275%,44.006%,1.994,99.949%,7.749%,93.732%,
+Deadly Gasai Yuno,7.552,20.82,97.978%,89.974%,99.597%,47.794%,80.762%,68.924%,19.263%,0.472,81.068%,0,27.139%,
+Pétrole Lette,7.773,22.33,98.617%,99.257%,99.087%,69.829%,91.397%,65.338%,34.419%,0.48,56.384%,0,19.977%,
+Gennosuke Saiki,6.844,19.955,97.275%,65.764%,94.702%,33.796%,64.359%,90.261%,18.633%,0.422,64.172%,0,22.887%,
+Fruity Engi,7.728,20.266,84.507%,87.629%,99.596%,61.944%,90.664%,77.347%,20.097%,0.563,57.573%,0,39.59%,
+Chiraa Miralis,8.062,21.954,97.755%,94.325%,99.597%,50.931%,89.18%,99.27%,23.484%,0.601,63.874%,0,32.658%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Ky Zalys,0.208,0.208,31.366%,31.366%,20.892%,20.892%,0,0,3.792%,3.792%,0,0,0,0,7.2%,7.2%,0,0,0,0,0,0,26.599%,26.599%,
+Rapiffa,0,0,0,0,0,0,0,0,0,0,0,0,15.375%,15.375%,0,0,0,0,0,0,0,0,0,0,
+Old Bald Man,12.815,12.815,67.445%,67.445%,82.982%,82.982%,0,0,86.153%,86.153%,98.78%,98.78%,66.692%,66.692%,56.494%,56.494%,1.566,1.566,85.032%,85.032%,7.749%,7.749%,94.014%,94.014%,
+Yltris,9.716,9.716,30.521%,30.521%,0,0,85.118%,85.118%,13.682%,13.682%,2.246%,2.246%,33.025%,33.025%,11.879%,11.879%,0.77,0.77,18.347%,18.347%,0,0,15.055%,15.055%,
+Hellkus Galactikus,0.595,0.595,1.353%,1.353%,4.612%,4.612%,0,0,0,0,0,0,0,0,0,0,0.123,0.123,32.185%,32.185%,0,0,2.05%,2.05%,
+Deadly Gasai Yuno,14.997,14.997,38.416%,38.416%,0,0,96.317%,96.317%,33.74%,33.74%,36.34%,36.34%,30.206%,30.206%,1.087%,1.087%,0.433,0.433,37.056%,37.056%,0,0,21.758%,21.758%,
+Pétrole Lette,6.204,6.204,34.923%,34.923%,90.054%,90.054%,0,0,4.376%,4.376%,2.041%,2.041%,0,0,0,0,0,0,7.294%,7.294%,0,0,0,0,
+Gennosuke Saiki,0.614,0.614,50.064%,50.064%,0,0,0,0,1.794%,1.794%,12.641%,12.641%,48.148%,48.148%,12.042%,12.042%,0,0,8.456%,8.456%,0,0,22.887%,22.887%,
+Fruity Engi,0.084,0.084,0,0,0,0,0,0,0,0,32.736%,32.736%,36.89%,36.89%,0,0,0,0,2.562%,2.562%,0,0,17.425%,17.425%,
+Chiraa Miralis,3.52,3.52,59.334%,59.334%,0,0,0,0,0,0,5.125%,5.125%,43.532%,43.532%,0,0,0,0,5.125%,5.125%,0,0,13.321%,13.321%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Ky Zalys,0.107,0.107,21.563%,21.563%,7.185%,7.185%,0,0,3.557%,3.557%,0,0,0,0,0,0,0,0,0,0,0,0,7.917%,7.917%,
+Rapiffa,0,0,0,0,0,0,0,0,0,0,0,0,8.969%,8.969%,0,0,0,0,0,0,0,0,0,0,
+Old Bald Man,12.887,12.887,56.422%,56.422%,76.308%,76.308%,0,0,77.59%,77.59%,94.358%,94.358%,0,0,41.985%,41.985%,1.459,1.459,72.998%,72.998%,7.749%,7.749%,75.92%,75.92%,
+Yltris,9.894,9.894,11.891%,11.891%,0,0,79.185%,79.185%,14.57%,14.57%,0.555%,0.555%,29.122%,29.122%,9.677%,9.677%,0.734,0.734,13.274%,13.274%,0,0,0,0,
+Hellkus Galactikus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Deadly Gasai Yuno,14.052,14.052,32.992%,32.992%,0,0,92.746%,92.746%,31.546%,31.546%,33.293%,33.293%,25.126%,25.126%,4.426%,4.426%,0.497,0.497,25.2%,25.2%,0,0,0,0,
+Pétrole Lette,3.695,3.695,0,0,81.638%,81.638%,0,0,2.917%,2.917%,8.377%,8.377%,0,0,0,0,0,0,5.471%,5.471%,0,0,0,0,
+Gennosuke Saiki,0.441,0.441,0,0,0,0,0,0,0,0,0,0,0,0,12.044%,12.044%,0,0,10.121%,10.121%,0,0,10.181%,10.181%,
+Fruity Engi,0,0,0,0,0,0,0,0,0,0,25.919%,25.919%,28.139%,28.139%,0,0,0,0,0,0,0,0,0,0,
+Chiraa Miralis,0,0,0,0,0,0,0,0,0,0,3.159%,3.159%,0,0,0,0,0,0,4.997%,4.997%,0,0,0,0,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Ky Zalys,0.077,0.077,9.861%,9.861%,0,0,0,0,1.23%,1.23%,0,0,0,0,0,0,0,0,0,0,0,0,1.537%,1.537%,
+Rapiffa,0,0,0,0,0,0,0,0,0,0,0.864%,0.864%,4.1%,4.1%,0,0,0,0,0,0,0,0,0,0,
+Old Bald Man,0.498,0.498,17.97%,17.97%,4.069%,4.069%,0,0,16.077%,16.077%,5.813%,5.813%,0,0,7.377%,7.377%,0.023,0.023,15.885%,15.885%,0,0,3.69%,3.69%,
+Yltris,0.855,0.855,4.455%,4.455%,0,0,5.056%,5.056%,0,0,2.222%,2.222%,1.761%,1.761%,0,0,0,0,0,0,0,0,0,0,
+Hellkus Galactikus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Deadly Gasai Yuno,0.991,0.991,1.17%,1.17%,0,0,16.556%,16.556%,0.247%,0.247%,2.438%,2.438%,1.876%,1.876%,0.01%,0.01%,0.028,0.028,0.391%,0.391%,0,0,0,0,
+Pétrole Lette,0.523,0.523,0,0,10.812%,10.812%,0,0,1.153%,1.153%,0,0,0,0,0,0,0,0,0.767%,0.767%,0,0,0,0,
+Gennosuke Saiki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.666%,0.666%,0,0,1.076%,1.076%,0,0,1.076%,1.076%,
+Fruity Engi,0,0,0,0,0,0,0,0,0,0,0,0,2.152%,2.152%,0,0,0,0,0,0,0,0,0,0,
+Chiraa Miralis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.619%,0.619%,0,0,0,0,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Ky Zalys,0.09,0.09,15.062%,15.062%,3.193%,3.193%,0,0,2.264%,2.264%,0,0,0,0,0,0,0,0,0,0,0,0,4.373%,4.373%,
+Rapiffa,0,0,0,0,0,0,0,0,0,0,0.48%,0.48%,6.264%,6.264%,0,0,0,0,0,0,0,0,0,0,
+Old Bald Man,6.004,6.004,35.059%,35.059%,36.175%,36.175%,0,0,43.416%,43.416%,45.166%,45.166%,0,0,22.758%,22.758%,0.661,0.661,41.268%,41.268%,3.444%,3.444%,35.792%,35.792%,
+Yltris,4.872,4.872,7.76%,7.76%,0,0,38.002%,38.002%,6.476%,6.476%,1.481%,1.481%,13.922%,13.922%,4.301%,4.301%,0.326,0.326,5.899%,5.899%,0,0,0,0,
+Hellkus Galactikus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Deadly Gasai Yuno,6.796,6.796,15.313%,15.313%,0,0,50.418%,50.418%,14.158%,14.158%,16.152%,16.152%,12.209%,12.209%,1.973%,1.973%,0.237,0.237,11.417%,11.417%,0,0,0,0,
+Pétrole Lette,1.933,1.933,0,0,42.29%,42.29%,0,0,1.937%,1.937%,3.723%,3.723%,0,0,0,0,0,0,2.857%,2.857%,0,0,0,0,
+Gennosuke Saiki,0.196,0.196,0,0,0,0,0,0,0,0,0,0,0,0,5.723%,5.723%,0,0,5.096%,5.096%,0,0,5.123%,5.123%,
+Fruity Engi,0,0,0,0,0,0,0,0,0,0,11.52%,11.52%,13.702%,13.702%,0,0,0,0,0,0,0,0,0,0,
+Chiraa Miralis,0,0,0,0,0,0,0,0,0,0,1.404%,1.404%,0,0,0,0,0,0,2.565%,2.565%,0,0,0,0,
+
+
+
+
+
+Name,Avg Boons,Banner of Strength,Banner of Discipline,Ashes of the Just,Skale Venom,Spider Venom,
+Ky Zalys,9.861,69.714%,67.651%,0.15,0.121,0.243,
+Rapiffa,9.985,68.184%,67.651%,0.173,0.131,0.269,
+Old Bald Man,10.412,74.338%,72.257%,0.157,0.247,0.504,
+Yltris,9.815,68.184%,67.651%,0.187,0.166,0.395,
+Hellkus Galactikus,9.568,69.714%,67.651%,0.161,0.17,0.362,
+Deadly Gasai Yuno,7.552,68.184%,66.118%,0,0.029,0.056,
+Pétrole Lette,7.773,68.184%,67.651%,0.006,0,0,
+Gennosuke Saiki,6.844,69.709%,67.653%,0,0,0,
+Fruity Engi,7.728,68.184%,67.651%,0,0,0,
+Chiraa Miralis,8.062,69.714%,67.652%,0.021,0.004,0.016,
+
+
+
+
+
+Name,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Skale Venom,Skale Venom Overstack,Spider Venom,Spider Venom Overstack,
+Ky Zalys,0,0,0,0,0.15,0.15,0,0,0,0,
+Rapiffa,0,0,0,0,0,0,0.131,0.131,0.269,0.269,
+Old Bald Man,0,0,0,0,0.012,0.012,0,0,0,0,
+Yltris,0,0,0,0,0,0,0,0,0,0,
+Hellkus Galactikus,69.714%,69.714%,67.651%,67.651%,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,0,0,0,0,
+Pétrole Lette,0,0,0,0,0,0,0,0,0,0,
+Gennosuke Saiki,0,0,0,0,0,0,0,0,0,0,
+Fruity Engi,0,0,0,0,0,0,0,0,0,0,
+Chiraa Miralis,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Skale Venom,Skale Venom Overstack,Spider Venom,Spider Venom Overstack,
+Ky Zalys,0,0,0,0,0.155,0.155,0,0,0,0,
+Rapiffa,0,0,0,0,0,0,0.176,0.176,0.376,0.376,
+Old Bald Man,0,0,0,0,0.012,0.012,0,0,0,0,
+Yltris,0,0,0,0,0,0,0,0,0,0,
+Hellkus Galactikus,70.105%,70.105%,68.803%,68.803%,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,0,0,0,0,
+Pétrole Lette,0,0,0,0,0,0,0,0,0,0,
+Gennosuke Saiki,0,0,0,0,0,0,0,0,0,0,
+Fruity Engi,0,0,0,0,0,0,0,0,0,0,
+Chiraa Miralis,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Skale Venom,Skale Venom Overstack,Spider Venom,Spider Venom Overstack,
+Ky Zalys,0,0,0,0,0,0,0,0,0,0,
+Rapiffa,0,0,0,0,0,0,0.007,0.007,0.014,0.014,
+Old Bald Man,0,0,0,0,0.005,0.005,0,0,0,0,
+Yltris,0,0,0,0,0,0,0,0,0,0,
+Hellkus Galactikus,68.795%,68.795%,67.345%,67.345%,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,0,0,0,0,
+Pétrole Lette,0,0,0,0,0,0,0,0,0,0,
+Gennosuke Saiki,0,0,0,0,0,0,0,0,0,0,
+Fruity Engi,0,0,0,0,0,0,0,0,0,0,
+Chiraa Miralis,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Skale Venom,Skale Venom Overstack,Spider Venom,Spider Venom Overstack,
+Ky Zalys,0,0,0,0,0.069,0.069,0,0,0,0,
+Rapiffa,0,0,0,0,0,0,0.082,0.082,0.175,0.175,
+Old Bald Man,0,0,0,0,0.008,0.008,0,0,0,0,
+Yltris,0,0,0,0,0,0,0,0,0,0,
+Hellkus Galactikus,69.377%,69.377%,67.993%,67.993%,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,0,0,0,0,
+Pétrole Lette,0,0,0,0,0,0,0,0,0,0,
+Gennosuke Saiki,0,0,0,0,0,0,0,0,0,0,
+Fruity Engi,0,0,0,0,0,0,0,0,0,0,
+Chiraa Miralis,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Avg Boons,Virtue of Resolve (Battle Presence - Absolute Resolve),Eternal Oasis,Unbroken Lines,
+Ky Zalys,9.861,93.673%,12.29%,0.051,
+Rapiffa,9.985,87.436%,12.29%,0.051,
+Old Bald Man,10.412,0,12.291%,0.051,
+Yltris,9.815,95.124%,12.29%,0.051,
+Hellkus Galactikus,9.568,93.566%,12.29%,0.051,
+Deadly Gasai Yuno,7.552,10.752%,0,0,
+Pétrole Lette,7.773,20.615%,0,0,
+Gennosuke Saiki,6.844,15.365%,0,0,
+Fruity Engi,7.728,25.319%,0,0,
+Chiraa Miralis,8.062,35.343%,0,0,
+
+
+
+
+
+Name,Virtue of Resolve (Battle Presence - Absolute Resolve),Virtue of Resolve (Battle Presence - Absolute Resolve) Overstack,Eternal Oasis,Eternal Oasis Overstack,Unbroken Lines,Unbroken Lines Overstack,
+Ky Zalys,0,0,0,0,0,0,
+Rapiffa,0,0,0,0,0,0,
+Old Bald Man,0,0,12.291%,12.291%,0.051,0.051,
+Yltris,0,0,0,0,0,0,
+Hellkus Galactikus,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,
+Pétrole Lette,0,0,0,0,0,0,
+Gennosuke Saiki,0,0,0,0,0,0,
+Fruity Engi,0,0,0,0,0,0,
+Chiraa Miralis,0,0,0,0,0,0,
+
+
+
+
+
+Name,Virtue of Resolve (Battle Presence - Absolute Resolve),Virtue of Resolve (Battle Presence - Absolute Resolve) Overstack,Eternal Oasis,Eternal Oasis Overstack,Unbroken Lines,Unbroken Lines Overstack,
+Ky Zalys,0,0,0,0,0,0,
+Rapiffa,0,0,0,0,0,0,
+Old Bald Man,92.45%,92.45%,12.29%,12.29%,0.051,0.051,
+Yltris,0,0,0,0,0,0,
+Hellkus Galactikus,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,
+Pétrole Lette,0,0,0,0,0,0,
+Gennosuke Saiki,0,0,0,0,0,0,
+Fruity Engi,0,0,0,0,0,0,
+Chiraa Miralis,0,0,0,0,0,0,
+
+
+
+
+
+Name,Virtue of Resolve (Battle Presence - Absolute Resolve),Virtue of Resolve (Battle Presence - Absolute Resolve) Overstack,Eternal Oasis,Eternal Oasis Overstack,Unbroken Lines,Unbroken Lines Overstack,
+Ky Zalys,0,0,0,0,0,0,
+Rapiffa,0,0,0,0,0,0,
+Old Bald Man,21.479%,21.479%,0,0,0,0,
+Yltris,0,0,0,0,0,0,
+Hellkus Galactikus,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,
+Pétrole Lette,0,0,0,0,0,0,
+Gennosuke Saiki,0,0,0,0,0,0,
+Fruity Engi,0,0,0,0,0,0,
+Chiraa Miralis,0,0,0,0,0,0,
+
+
+
+
+
+Name,Virtue of Resolve (Battle Presence - Absolute Resolve),Virtue of Resolve (Battle Presence - Absolute Resolve) Overstack,Eternal Oasis,Eternal Oasis Overstack,Unbroken Lines,Unbroken Lines Overstack,
+Ky Zalys,0,0,0,0,0,0,
+Rapiffa,0,0,0,0,0,0,
+Old Bald Man,53.021%,53.021%,5.462%,5.462%,0.023,0.023,
+Yltris,0,0,0,0,0,0,
+Hellkus Galactikus,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,
+Pétrole Lette,0,0,0,0,0,0,
+Gennosuke Saiki,0,0,0,0,0,0,
+Fruity Engi,0,0,0,0,0,0,
+Chiraa Miralis,0,0,0,0,0,0,
+
+
+
+
+
+Name,"Spectral Impact (KB Slam)","Ghastly Prison (Egged)","Spectral Darkness (Stood in Orb AoE)","Hit by Black Goo",
+Ky Zalys,0,2,0,75,
+Rapiffa,1,1,0,50,
+Old Bald Man,1,1,0,50,
+Yltris,2,4,10,75,
+Hellkus Galactikus,2,0,0,75,
+Deadly Gasai Yuno,1,1,0,75,
+Pétrole Lette,1,1,0,75,
+Gennosuke Saiki,3,2,0,25,
+Fruity Engi,0,1,0,75,
+Chiraa Miralis,1,2,0,75,
+
+
+
+
+
+Time,13.54,25.884,80.261,95.718,104.954,104.954,104.954,104.954,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.955,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.956,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.957,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.958,104.959,104.959,104.959,104.959,104.959,104.959,110.396,122.238,122.238,122.238,122.238,122.238,122.238,122.238,122.238,122.238,122.238,157.843,157.843,157.843,157.843,157.843,157.843,161.603,161.604,161.604,161.604,161.605,170.206,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.431,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.432,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.433,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.434,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,175.435,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.43,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.431,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.432,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.433,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.434,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,179.435,186.799,190.887,190.887,190.888,190.889,190.917,190.917,190.918,190.918,190.919,190.919,193.834,193.834,193.834,193.834,193.834,
+Player,Gorseval el Múltiple,Gorseval el Múltiple,Hellkus Galactikus,Gorseval el Múltiple,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Chiraa Miralis,Rapiffa,Rapiffa,Rapiffa,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Rapiffa,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Rapiffa,Chiraa Miralis,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Chiraa Miralis,Rapiffa,Rapiffa,Rapiffa,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Pétrole Lette,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Hellkus Galactikus,Yltris,Yltris,Yltris,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Yltris,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Yltris,Hellkus Galactikus,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Chiraa Miralis,Fruity Engi,Fruity Engi,Hellkus Galactikus,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Chiraa Miralis,Fruity Engi,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Old Bald Man,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Old Bald Man,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Old Bald Man,Old Bald Man,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Ky Zalys,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Gorseval el Múltiple,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Rapiffa,Old Bald Man,Yltris,Hellkus Galactikus,Gennosuke Saiki,Gennosuke Saiki,Yltris,Yltris,Yltris,Pétrole Lette,Old Bald Man,Gorseval el Múltiple,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Fruity Engi,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Yltris,Fruity Engi,Yltris,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Deadly Gasai Yuno,Yltris,Yltris,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Yltris,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Yltris,Deadly Gasai Yuno,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Ky Zalys,Ky Zalys,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Ky Zalys,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Ky Zalys,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Ky Zalys,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Fruity Engi,Chiraa Miralis,Chiraa Miralis,Fruity Engi,Fruity Engi,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Fruity Engi,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Chiraa Miralis,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Hellkus Galactikus,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Yltris,Old Bald Man,Old Bald Man,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Yltris,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Pétrole Lette,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Rapiffa,Old Bald Man,Old Bald Man,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Old Bald Man,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Rapiffa,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Old Bald Man,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Gennosuke Saiki,Ky Zalys,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Ky Zalys,Gennosuke Saiki,Gennosuke Saiki,Gennosuke Saiki,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Ky Zalys,Gennosuke Saiki,Gennosuke Saiki,Gorseval el Múltiple,Ky Zalys,Gennosuke Saiki,Gennosuke Saiki,Fruity Engi,Rapiffa,Deadly Gasai Yuno,Chiraa Miralis,Chiraa Miralis,Ky Zalys,Yltris,Yltris,Deadly Gasai Yuno,Pétrole Lette,Gennosuke Saiki,Chiraa Miralis,
+Mechanic,"Ghastly Rampage (Breakbar)","Ghastly Rampage (Breakbar broken)","Spectral Impact (KB Slam)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Ghastly Rampage (Breakbar broken)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Ghastly Rampage (Breakbar broken)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)",
+
+
+
+
+
+
+
+
+
+
+
+
+Name,Avg,Bleeding,Burning,Confusion,Poison,Torment,Blind,Chilled,Crippled,Immobile,Slow,Weakness,Taunt,Vulnerability,
+Gorseval el Múltiple,7.5,100.321,33.5,32.362,16.613,26.484,40.222%,48.784%,68.178%,46.096%,39.457%,67.368%,1.537%,15.748,
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name,Bleeding,Bleeding Overstack,Burning,Burning Overstack,Confusion,Confusion Overstack,Poison,Poison Overstack,Torment,Torment Overstack,Blind,Blind Overstack,Chilled,Chilled Overstack,Crippled,Crippled Overstack,Immobile,Immobile Overstack,Slow,Slow Overstack,Weakness,Weakness Overstack,Taunt,Taunt Overstack,Vulnerability,Vulnerability Overstack,
+Ky Zalys,2.59,2.59,13.716,13.716,0,0,0,0,0.728,0.728,8.614%,8.614%,14.027%,14.027%,7.412%,7.412%,9.46%,9.46%,0,0,10.026%,10.026%,0,0,0.26,0.26,
+Rapiffa,21.513,21.513,0.234,0.234,0.032,0.032,11.657,11.657,4.671,4.671,7.399%,7.399%,0,0,23.133%,23.133%,18.666%,18.666%,3.228%,3.228%,42.166%,42.166%,0,0,4.645,4.645,
+Old Bald Man,1.378,1.378,0.923,0.923,0,0,0,0,0,0,0,0,0,0,14.829%,14.829%,0,0,6.15%,6.15%,0,0,1.537%,1.537%,0,0,
+Yltris,3.479,3.479,0.743,0.743,4.852,4.852,1.437,1.437,0,0,0,0,17.425%,17.425%,0%,0%,0,0,0,0,6.125%,6.125%,0,0,0.538,0.538,
+Hellkus Galactikus,14.314,14.314,9.144,9.144,0.043,0.043,1.697,1.697,0.977,0.977,1.107%,1.107%,0,0,5.285%,5.285%,12.823%,12.823%,0,0,0,0,0,0,0.034,0.034,
+Deadly Gasai Yuno,0.041,0.041,0.108,0.108,3.71,3.71,0.072,0.072,0,0,5.872%,5.872%,0,0,0,0,0,0,0,0,2.255%,2.255%,0,0,0.077,0.077,
+Pétrole Lette,3.38,3.38,0.031,0.031,0,0,1.476,1.476,0,0,0,0,12.3%,12.3%,0,0,0,0,0,0,0,0,0,0,2.18,2.18,
+Gennosuke Saiki,9.564,9.564,0.789,0.789,5.435,5.435,0.114,0.114,14.777,14.777,17.23%,17.23%,5.032%,5.032%,8.593%,8.593%,0,0,0,0,6.795%,6.795%,0,0,0.433,0.433,
+Fruity Engi,8.164,8.164,7.587,7.587,15.807,15.807,0,0,0,0,0,0,0,0,8.927%,8.927%,5.148%,5.148%,30.079%,30.079%,0,0,0,0,2.494,2.494,
+Chiraa Miralis,35.898,35.898,0.228,0.228,2.483,2.483,0.161,0.161,5.332,5.332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.087,5.087,
+
+
+
+
+
+Name,Avg,Might,Fury,Quickness,Alacrity,Protection,Regeneration,Vigor,Aegis,Stability,Swiftness,Resistance,Resolution,
+Gorseval el Múltiple,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,413 @@
+Elite Insights,2.44.1.0,
+ARC Version,EVTC20220316,
+Fight ID,15429,
+Recorded By,Kvynxx,
+Time Start,2022-03-28 20:01:27 +02:00,
+Time End,2022-03-28 20:05:40 +02:00,
+
+
+
+
+Boss,Gorseval el Múltiple,
+Success,False,
+Total Boss Health,21628200,
+Final Boss Health,136690224,
+Boss Health Burned %,93.68,
+Duration,04m 13s 252ms,
+Sub Group,Profession,Role,Name,Account,WepSet1_1,WepSet1_2,WepSet2_1,WepSet2_2,Boss DPS,Boss DMG,Boss Power DPS,Boss Power DMG,Boss Condi DPS,Boss Condi DMG,All DPS,All DMG,All Power DPS,All Power DMG,All Condi DPS,All Condi DMG,Times Downed,Time Died,Percent Alive,
+2,Renegade, Concentration:10,Kaypeae,CrambzZ.4892,Sword,Sword,Unknown,Unknown,6640,1681597,6427,1627720,213,53877,10383,2629588,10111,2560732,272,68856,1,1,2.002 seconds dead, 99.2% Alive,
+2,Druid, Concentration:10 Healing:10,Arceso Wild Caress,Arceso.8749,Axe,Warhorn,Staff,2Hand,1757,444928,1091,276177,666,168751,3053,773114,2036,515505,1017,257609,0,0,,
+2,Soulbeast,,Kuroki Leal,Lealmanques.6509,Longbow,2Hand,Dagger,Axe,5792,1466746,5600,1418232,192,48514,7636,1933779,7396,1872991,240,60788,1,1,138.001 seconds dead, 45.5% Alive,
+2,Berserker,,Karime Valle,Daxer.3217,Axe,Axe,Unknown,Unknown,10520,2664250,10390,2631280,130,32970,16089,4074663,15885,4022864,205,51799,0,1,0 seconds dead, 100% Alive,
+2,Harbinger, Condi:10,Vohn Tuzad,Patriarkus.3785,Pistol,Dagger,Scepter,Dagger,10116,2561788,1876,475028,8240,2086760,14181,3591431,2537,642397,11645,2949034,1,1,0 seconds dead, 100% Alive,
+3,Soulbeast,,Kvynxx,fernaxv.3249,Longbow,2Hand,Dagger,Axe,9976,2526464,9530,2413445,446,113019,15732,3984271,15166,3840699,567,143572,0,1,5.506 seconds dead, 97.8% Alive,
+3,Harbinger, Condi:10,Darkvieefe,VieeFee.3540,Scepter,Dagger,Pistol,Dagger,9274,2348716,2321,587756,6953,1760960,13631,3451959,3546,898004,10085,2553955,0,1,0 seconds dead, 100% Alive,
+3,Mechanist, Concentration:10 Healing:10,Amärá,pablogintoki.3261,Mace,Shield,Unknown,Unknown,3200,810477,2771,701784,429,108693,5856,1483160,5281,1337511,575,145649,0,1,4.302 seconds dead, 98.3% Alive,
+3,Specter, Condi:10,Shéyra,Starlom.1324,Unknown,Unknown,Scepter,Dagger,16020,4057179,2554,646737,13467,3410442,20653,5230540,3613,914882,17041,4315658,0,1,4.103 seconds dead, 98.4% Alive,
+3,Renegade, Condi:10,Cat Madness,Khrone.6203,Shortbow,2Hand,Mace,Axe,6723,1702565,1150,291146,5573,1411419,9102,2305021,1652,418385,7450,1886636,1,1,136.207 seconds dead, 46.2% Alive,
+
+
+
+
+
+Sub Group,Profession,Name,Critical%,Critical hits,Critical DMG,Scholar%,Scholar hits,Scholar DMG,Scholar % increase,Moving%,Moving Hits,Moving DMG,Moving % increase,Flanking%,Flanking hits,Glancing%,Glancing Hits,Blind%,Blind Hits,Total Hits,Hits to Interupt,Hits Invulned,Time wasted,Time saved,Weapon Swaps,
+2,Renegade,Kaypeae,95.4,453,1603421,60.2,286,51366.286,3.259,46.1,219,37534.095,2.36,80.4,382,0.4,2,0,0,534,0,59,10.255,27.437,11,
+2,Druid,Arceso Wild Caress,45,76,64279,87,147,4888.381,4.153,23.1,39,1287.238,1.061,69.8,118,0,0,0,0,191,0,26,2.273,2.116,21,
+2,Soulbeast,Kuroki Leal,97.7,258,1409744,60.6,160,46958.81,3.429,23.1,61,14631.286,1.044,83.3,220,0.4,1,0,0,283,0,26,4.183,12.009,6,
+2,Berserker,Karime Valle,95.1,292,2572702,77.9,239,95624.857,3.771,40.1,123,47962.238,1.857,91.9,282,0,0,0,0,328,0,25,1.486,27.811,0,
+2,Harbinger,Vohn Tuzad,85,318,429174,56.4,211,12842.667,2.779,24.1,90,5437.667,1.158,89.6,335,0,0,0,0,399,0,129,5.145,70.143,8,
+3,Soulbeast,Kvynxx,97.7,374,2398733,73.9,283,89480.619,3.85,15.1,58,16849.19,0.703,42.3,162,0,0,0,0,412,0,31,7.009,19.331,12,
+3,Harbinger,Darkvieefe,90.1,365,552531,85.9,348,23888.143,4.236,42,170,10248.333,1.775,74.1,300,0,0,0,0,424,0,73,6.968,40.713,8,
+3,Mechanist,Amärá,30.1,43,94515,82.5,118,10463.619,4.264,24.5,35,2596.381,1.025,61.5,88,0,0,0,0,168,0,36,9.324,24.356,23,
+3,Specter,Shéyra,69.5,169,510598,93.4,227,29388.333,4.76,13.6,33,3378.952,0.525,74.1,180,0,0,0,0,261,0,89,10.666,41.498,36,
+3,Renegade,Cat Madness,94.2,245,280717,78.5,204,11513.429,4.117,38.1,99,5622.762,1.969,72.7,189,0,0,0,0,287,0,87,0.721,14.763,18,
+
+
+
+
+
+Sub Group,Profession,Name,Critical%,Critical hits,Critical DMG,Scholar%,Scholar hits,Scholar DMG,Scholar % increase,Moving%,Moving Hits,Moving DMG,Moving % increase,Flanking%,Flanking hits,Glancing%,Glancing Hits,Blind%,Blind Hits,Total Hits,Hits to Interupt,Hits Invulned,Time wasted,Time saved,Weapon Swaps,
+2,Renegade,Kaypeae,88,782,2464531,60.2,286,51366.286,3.259,46.1,219,37534.095,2.36,72.4,644,7.6,68,0,0,948,11,59,10.255,27.437,11,
+2,Druid,Arceso Wild Caress,42.4,132,114571,87,147,4888.381,4.153,23.1,39,1287.238,1.061,61.7,192,1,3,0,0,333,4,26,2.273,2.116,21,
+2,Soulbeast,Kuroki Leal,93.9,352,1850931,60.6,160,46958.81,3.429,23.1,61,14631.286,1.044,81.1,304,4.8,18,0,0,394,0,26,4.183,12.009,6,
+2,Berserker,Karime Valle,87.4,471,3867340,77.9,239,95624.857,3.771,40.1,123,47962.238,1.857,83.5,450,8,43,0,0,560,0,25,1.486,27.811,0,
+2,Harbinger,Vohn Tuzad,79.4,466,561165,56.4,211,12842.667,2.779,24.1,90,5437.667,1.158,73.1,429,5.6,33,0,0,612,0,129,5.145,70.143,8,
+3,Soulbeast,Kvynxx,94,689,3794235,73.9,283,89480.619,3.85,15.1,58,16849.19,0.703,39.3,288,3.7,27,0,0,762,0,31,7.009,19.331,12,
+3,Harbinger,Darkvieefe,83.5,593,819870,85.9,348,23888.143,4.236,42,170,10248.333,1.775,71.7,509,5.1,36,0,0,729,1,73,6.968,40.713,8,
+3,Mechanist,Amärá,27.2,65,143996,82.5,118,10463.619,4.264,24.5,35,2596.381,1.025,69.5,166,7.5,18,0,0,264,0,36,9.324,24.356,23,
+3,Specter,Shéyra,64,247,706243,93.4,227,29388.333,4.76,13.6,33,3378.952,0.525,69.4,268,5.7,22,0,0,404,0,89,10.666,41.498,36,
+3,Renegade,Cat Madness,89,365,395847,78.5,204,11513.429,4.117,38.1,99,5622.762,1.969,71.5,293,5.6,23,0,0,437,0,87,0.721,14.763,18,
+
+
+
+
+
+Sub Group,Profession,Name,DMG Taken,DMG Barrier,Blocked,Invulned,Evaded,Dodges,
+2,Renegade,Kaypeae,174613,19878,0,7,0,1,
+2,Druid,Arceso Wild Caress,134337,25836,0,0,0,3,
+2,Soulbeast,Kuroki Leal,111692,4749,0,8,0,1,
+2,Berserker,Karime Valle,163616,22671,0,0,0,4,
+2,Harbinger,Vohn Tuzad,216652,16673,0,26,0,5,
+3,Soulbeast,Kvynxx,218895,97988,0,0,0,2,
+3,Harbinger,Darkvieefe,227427,124710,0,0,0,8,
+3,Mechanist,Amärá,227930,105931,0,0,0,6,
+3,Specter,Shéyra,154233,94720,0,0,1,5,
+3,Renegade,Cat Madness,110368,58235,0,4,0,0,
+
+
+
+
+
+Sub Group,Profession,Name,Condi Cleanse,Condi Cleanse time,Condi Cleanse Self,Condi Cleanse time self,Boon Strips,Boon Strips time,Resurrects,Time Resurecting,
+2,Renegade,Kaypeae,1,253.252,0,0,0,0,0,0,
+2,Druid,Arceso Wild Caress,13,2890.118,2,430.253,0,0,1,0.857,
+2,Soulbeast,Kuroki Leal,1,253.252,0,0,0,0,0,0,
+2,Berserker,Karime Valle,8,2026.016,2,506.504,0,0,2,2.051,
+2,Harbinger,Vohn Tuzad,2,506.504,12,1110.49,9,2714.346,1,2.217,
+3,Soulbeast,Kvynxx,2,506.504,0,0,0,0,2,3.625,
+3,Harbinger,Darkvieefe,0,0,20,1223.311,2,595.47,0,0,
+3,Mechanist,Amärá,20,4693.538,2,506.504,0,0,2,6.073,
+3,Specter,Shéyra,3,759.756,6,762.804,0,0,0,0,
+3,Renegade,Cat Madness,1,253.252,1,253.252,0,0,0,0,
+
+
+
+
+
+Name,Avg Boons,Might,Fury,Quickness,Alacrity,Protection,Regeneration,Vigor,Aegis,Stability,Swiftness,Resistance,Resolution,
+Kaypeae,8.244,22.742,97.636%,60.711%,98.335%,95.802%,97.198%,96.179%,0,1.926,97.551%,0.79%,17.688%,
+Arceso Wild Caress,7.299,21.387,95.629%,49.055%,87.269%,94.547%,98.988%,31.345%,2.369%,1.713,98.988%,0,11.32%,
+Kuroki Leal,3.286,10.012,43.14%,30.481%,43.961%,34.224%,42.447%,2.31%,0,0.606,44.5%,0.783%,17.562%,
+Karime Valle,7.402,23.787,97.822%,87.271%,98.506%,82.837%,97.46%,14.139%,0,1.228,98.763%,0,11.32%,
+Vohn Tuzad,7.359,22.709,95.497%,72%,98.433%,90.631%,95.629%,29.599%,0,1.056,96.789%,0,14.15%,
+Kvynxx,7.586,20.524,96.282%,90.126%,71.885%,77.083%,97.149%,61.607%,4.729%,1.002,96.087%,3.937%,19.743%,
+Darkvieefe,7.507,21.171,97.67%,92.586%,77.273%,65.848%,96.991%,61.422%,4.729%,1.334,98.263%,2.358%,4.738%,
+Amärá,8.049,20.723,96.735%,75.575%,83.744%,73.841%,97.603%,72.347%,4.729%,1.16,96.541%,3.938%,54.723%,
+Shéyra,7.785,21.559,96.795%,91.568%,81.996%,75.602%,97.815%,65.299%,4.729%,1.848,96.601%,3.938%,7.897%,
+Cat Madness,3.618,10.776,44.661%,40.878%,38.475%,26.791%,42.55%,42.55%,2.36%,0.593,44.467%,3.938%,6.318%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Kaypeae,1.897,1.897,56.55%,56.55%,0,0,88.859%,88.859%,84.016%,84.016%,0,0,83.634%,83.634%,0,0,1.926,1.926,0,0,0,0,17.688%,17.688%,
+Arceso Wild Caress,15.427,15.427,52.672%,52.672%,2.369%,2.369%,0,0,48.939%,48.939%,76.209%,76.209%,10.812%,10.812%,0,0,0.187,0.187,62.771%,62.771%,0,0,0,0,
+Kuroki Leal,0.285,0.285,18.255%,18.255%,6.713%,6.713%,2.369%,2.369%,10.266%,10.266%,9.106%,9.106%,0,0,0,0,0.012,0.012,20.279%,20.279%,0,0,7.493%,7.493%,
+Karime Valle,2.805,2.805,21.449%,21.449%,33.149%,33.149%,0,0,22.397%,22.397%,1.679%,1.679%,0,0,0,0,0,0,10.614%,10.614%,0,0,0,0,
+Vohn Tuzad,3.414,3.414,51.164%,51.164%,42.74%,42.74%,0,0,26.011%,26.011%,5.327%,5.327%,0,0,0,0,0,0,23.234%,23.234%,0,0,0,0,
+Kvynxx,0.626,0.626,22.802%,22.802%,11.051%,11.051%,1.185%,1.185%,24.624%,24.624%,15.522%,15.522%,2.369%,2.369%,0,0,0.012,0.012,41.869%,41.869%,0,0,13.425%,13.425%,
+Darkvieefe,5.159,5.159,72.894%,72.894%,87.244%,87.244%,0,0,28.533%,28.533%,7.609%,7.609%,0,0,0,0,0,0,25.655%,25.655%,0,0,0,0,
+Amärá,11.683,11.683,28.817%,28.817%,0,0,66.762%,66.762%,61.593%,61.593%,47.052%,47.052%,62.931%,62.931%,4.729%,4.729%,0.16,0.16,31.152%,31.152%,0,0,42.746%,42.746%,
+Shéyra,2.169,2.169,20.166%,20.166%,0,0,0,0,22.482%,22.482%,0.152%,0.152%,0,0,0,0,0.638,0.638,41.968%,41.968%,0,0,1.579%,1.579%,
+Cat Madness,1.669,1.669,16.668%,16.668%,0,0,0,0,9.463%,9.463%,0,0,23.692%,23.692%,0,0,0.008,0.008,0,0,3.938%,3.938%,6.318%,6.318%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Kaypeae,1.766,1.766,0,0,0,0,70.21%,70.21%,39.816%,39.816%,0,0,0,0,0,0,1.071,1.071,0,0,0,0,11.32%,11.32%,
+Arceso Wild Caress,12.107,12.107,8.732%,8.732%,0,0,0,0,9.417%,9.417%,61.443%,61.443%,8.246%,8.246%,0,0,0,0,31.063%,31.063%,0,0,0,0,
+Kuroki Leal,0,0,0,0,0,0,0,0,0,0,9.343%,9.343%,0,0,0,0,0,0,17.094%,17.094%,0,0,0,0,
+Karime Valle,0,0,0,0,0,0,0,0,0,0,0.447%,0.447%,0,0,0,0,0,0,0,0,0,0,0,0,
+Vohn Tuzad,2.215,2.215,29.424%,29.424%,34.002%,34.002%,0,0,0,0,1.409%,1.409%,0,0,0,0,0,0,11.285%,11.285%,0,0,0,0,
+Kvynxx,0.24,0.24,0,0,0,0,0,0,0,0,11.563%,11.563%,0,0,0,0,0,0,16.606%,16.606%,0,0,0,0,
+Darkvieefe,2.871,2.871,46.078%,46.078%,67.403%,67.403%,0,0,0,0,3.198%,3.198%,0,0,0,0,0,0,10.751%,10.751%,0,0,0,0,
+Amärá,7.953,7.953,11.088%,11.088%,0,0,54.704%,54.704%,23.3%,23.3%,39.907%,39.907%,44.165%,44.165%,4.137%,4.137%,0.139,0.139,13.157%,13.157%,0,0,0,0,
+Shéyra,1.399,1.399,8.828%,8.828%,0,0,0,0,0,0,0,0,0,0,0,0,0.047,0.047,29.993%,29.993%,0,0,0,0,
+Cat Madness,1.615,1.615,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.543%,3.543%,5.923%,5.923%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Kaypeae,0.342,0.342,0,0,0,0,13.322%,13.322%,7.49%,7.49%,0,0,0,0,0,0,0.875,0.875,0,0,0,0,1.132%,1.132%,
+Arceso Wild Caress,2.468,2.468,0.114%,0.114%,0,0,0,0,8.363%,8.363%,28.391%,28.391%,7.514%,7.514%,0,0,0,0,0.098%,0.098%,0,0,0,0,
+Kuroki Leal,0,0,0,0,0,0,0,0,0,0,0.229%,0.229%,0,0,0,0,0,0,0.79%,0.79%,0,0,0,0,
+Karime Valle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Vohn Tuzad,0.617,0.617,1.251%,1.251%,4.565%,4.565%,0,0,0,0,0,0,0,0,0,0,0,0,0.97%,0.97%,0,0,0,0,
+Kvynxx,0.258,0.258,0,0,0,0,0,0,0,0,0.763%,0.763%,0,0,0,0,0,0,2.552%,2.552%,0,0,0,0,
+Darkvieefe,1.237,1.237,12.53%,12.53%,15.708%,15.708%,0,0,0,0,0.878%,0.878%,0,0,0,0,0,0,5.611%,5.611%,0,0,0,0,
+Amärá,0.727,0.727,1.428%,1.428%,0,0,10.888%,10.888%,1.895%,1.895%,7.968%,7.968%,9.228%,9.228%,0.474%,0.474%,0.024,0.024,2.189%,2.189%,0,0,0,0,
+Shéyra,0.139,0.139,1.444%,1.444%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.033%,6.033%,0,0,0,0,
+Cat Madness,0.13,0.13,0,0,0,0,0,0,0,0,0.158%,0.158%,0,0,0,0,0,0,0,0,0.315%,0.315%,0.316%,0.316%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Kaypeae,0.975,0.975,0,0,0,0,38.606%,38.606%,21.857%,21.857%,0,0,0,0,0,0,0.962,0.962,0,0,0,0,5.66%,5.66%,
+Arceso Wild Caress,6.752,6.752,3.944%,3.944%,0,0,0,0,8.832%,8.832%,43.081%,43.081%,7.839%,7.839%,0,0,0,0,13.86%,13.86%,0,0,0,0,
+Kuroki Leal,0,0,0,0,0,0,0,0,0,0,4.28%,4.28%,0,0,0,0,0,0,8.036%,8.036%,0,0,0,0,
+Karime Valle,0,0,0,0,0,0,0,0,0,0,0.199%,0.199%,0,0,0,0,0,0,0,0,0,0,0,0,
+Vohn Tuzad,1.327,1.327,13.772%,13.772%,17.648%,17.648%,0,0,0,0,0.626%,0.626%,0,0,0,0,0,0,5.554%,5.554%,0,0,0,0,
+Kvynxx,0.25,0.25,0,0,0,0,0,0,0,0,5.563%,5.563%,0,0,0,0,0,0,8.798%,8.798%,0,0,0,0,
+Darkvieefe,1.963,1.963,27.44%,27.44%,38.683%,38.683%,0,0,0,0,1.909%,1.909%,0,0,0,0,0,0,7.896%,7.896%,0,0,0,0,
+Amärá,3.938,3.938,5.721%,5.721%,0,0,30.361%,30.361%,11.409%,11.409%,22.163%,22.163%,24.756%,24.756%,2.102%,2.102%,0.075,0.075,7.064%,7.064%,0,0,0,0,
+Shéyra,0.699,0.699,4.725%,4.725%,0,0,0,0,0,0,0,0,0,0,0,0,0.021,0.021,16.682%,16.682%,0,0,0,0,
+Cat Madness,0.79,0.79,0,0,0,0,0,0,0,0,0.088%,0.088%,0,0,0,0,0,0,0,0,1.749%,1.749%,2.808%,2.808%,
+
+
+
+
+
+Name,Avg Boons,Assassin's Presence,Razorclaw's Rage,Banner of Strength,Banner of Discipline,Frost Spirit,Sun Spirit,Spotter,One Wolf Pack,Skale Venom,Spider Venom,Rot Wallow Venom,
+Kaypeae,8.244,98.706%,1.892%,65.838%,51.94%,89.215%,79.067%,98.148%,3.15%,0.031,0.062,0.001,
+Arceso Wild Caress,7.299,92.408%,6.594%,74.938%,66.98%,96.255%,88.2%,98.968%,3.15%,0.018,0.03,0.069,
+Kuroki Leal,3.286,45.039%,0.779%,30.22%,16.57%,40.172%,30.147%,44.481%,7.376%,0.023,0.049,0,
+Karime Valle,7.402,99.525%,3.741%,69.002%,52.73%,91.655%,77.52%,95.696%,3.15%,0.053,0.019,0.001,
+Vohn Tuzad,7.359,99.525%,2.316%,69.002%,56.288%,89.853%,79.881%,96.896%,3.15%,0.083,0.214,0.006,
+Kvynxx,7.586,27.208%,2.383%,68.023%,56.504%,92.974%,83.621%,97.092%,12.626%,0.104,0.193,0.041,
+Darkvieefe,7.507,36.707%,2.714%,69.001%,57.468%,91.662%,82.245%,96.891%,0,0.079,0.17,0.047,
+Amärá,8.049,30.821%,4.648%,67.282%,52.206%,87.468%,75.8%,94.001%,0,0.208,0.502,0.134,
+Shéyra,7.785,34.964%,5.487%,67.367%,53.452%,91.112%,78.228%,96.414%,0,0.313,0.589,0,
+Cat Madness,3.618,0,1.63%,30.912%,17.752%,39.568%,32.033%,45.472%,0,0.066,0.112,0.006,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Razorclaw's Rage,Razorclaw's Rage Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Frost Spirit,Frost Spirit Overstack,Sun Spirit,Sun Spirit Overstack,Spotter,Spotter Overstack,One Wolf Pack,One Wolf Pack Overstack,Skale Venom,Skale Venom Overstack,Spider Venom,Spider Venom Overstack,Rot Wallow Venom,Rot Wallow Venom Overstack,
+Kaypeae,98.706%,98.706%,1.892%,1.892%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,0,0,0,0,0,0,16.086%,16.086%,88.2%,88.2%,63.99%,63.99%,0,0,0,0,0,0,0,0,
+Kuroki Leal,0,0,0,0,0,0,0,0,0,0,0,0,33.534%,33.534%,7.376%,7.376%,0,0,0,0,0,0,
+Karime Valle,0,0,0,0,69.002%,69.002%,52.73%,52.73%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Vohn Tuzad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,0,0,87.64%,87.64%,0,0,84.164%,84.164%,12.626%,12.626%,0,0,0,0,0,0,
+Darkvieefe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Amärá,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Shéyra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.313,0.313,0.589,0.589,0,0,
+Cat Madness,0,0,1.63%,1.63%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Razorclaw's Rage,Razorclaw's Rage Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Frost Spirit,Frost Spirit Overstack,Sun Spirit,Sun Spirit Overstack,Spotter,Spotter Overstack,One Wolf Pack,One Wolf Pack Overstack,Skale Venom,Skale Venom Overstack,Spider Venom,Spider Venom Overstack,Rot Wallow Venom,Rot Wallow Venom Overstack,
+Kaypeae,84.124%,84.124%,2.864%,2.864%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,0,0,0,0,0,0,7.405%,7.405%,66.654%,66.654%,45.213%,45.213%,0,0,0,0,0,0,0,0,
+Kuroki Leal,0,0,0,0,0,0,0,0,0,0,0,0,32.653%,32.653%,3.15%,3.15%,0,0,0,0,0,0,
+Karime Valle,0,0,0,0,60%,60%,47.945%,47.945%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Vohn Tuzad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,0,0,70.871%,70.871%,0,0,74.581%,74.581%,0,0,0,0,0,0,0,0,
+Darkvieefe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Amärá,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Shéyra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114,0.114,0.244,0.244,0.057,0.057,
+Cat Madness,0,0,3.133%,3.133%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Razorclaw's Rage,Razorclaw's Rage Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Frost Spirit,Frost Spirit Overstack,Sun Spirit,Sun Spirit Overstack,Spotter,Spotter Overstack,One Wolf Pack,One Wolf Pack Overstack,Skale Venom,Skale Venom Overstack,Spider Venom,Spider Venom Overstack,Rot Wallow Venom,Rot Wallow Venom Overstack,
+Kaypeae,25.94%,25.94%,0.54%,0.54%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,0,0,0,0,0,0,6.332%,6.332%,70.385%,70.385%,9.023%,9.023%,0,0,0,0,0,0,0,0,
+Kuroki Leal,0,0,0,0,0,0,0,0,0,0,0,0,0.454%,0.454%,0,0,0,0,0,0,0,0,
+Karime Valle,0,0,0,0,60.517%,60.517%,47.476%,47.476%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Vohn Tuzad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,0,0,72.289%,72.289%,0,0,5.04%,5.04%,0,0,0,0,0,0,0,0,
+Darkvieefe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Amärá,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Shéyra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.042,0.042,0.075,0.075,0.015,0.015,
+Cat Madness,0,0,0.394%,0.394%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Razorclaw's Rage,Razorclaw's Rage Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Frost Spirit,Frost Spirit Overstack,Sun Spirit,Sun Spirit Overstack,Spotter,Spotter Overstack,One Wolf Pack,One Wolf Pack Overstack,Skale Venom,Skale Venom Overstack,Spider Venom,Spider Venom Overstack,Rot Wallow Venom,Rot Wallow Venom Overstack,
+Kaypeae,51.8%,51.8%,1.573%,1.573%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,0,0,0,0,0,0,6.809%,6.809%,68.727%,68.727%,25.107%,25.107%,0,0,0,0,0,0,0,0,
+Kuroki Leal,0,0,0,0,0,0,0,0,0,0,0,0,14.765%,14.765%,1.4%,1.4%,0,0,0,0,0,0,
+Karime Valle,0,0,0,0,60.287%,60.287%,47.684%,47.684%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Vohn Tuzad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,0,0,71.659%,71.659%,0,0,35.947%,35.947%,0,0,0,0,0,0,0,0,
+Darkvieefe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Amärá,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Shéyra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074,0.074,0.15,0.15,0.034,0.034,
+Cat Madness,0,0,1.611%,1.611%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Avg Boons,Eternal Oasis,Water Spirit,Stone Spirit,
+Kaypeae,8.244,0,73.145%,77.55%,
+Arceso Wild Caress,7.299,0,83.274%,87.583%,
+Kuroki Leal,3.286,0,30.139%,29.043%,
+Karime Valle,7.402,0,73.803%,79.272%,
+Vohn Tuzad,7.359,0,74.233%,78.092%,
+Kvynxx,7.586,0,78.728%,83.03%,
+Darkvieefe,7.507,0,78.527%,82.839%,
+Amärá,8.049,0,72.069%,77.56%,
+Shéyra,7.785,0,75.693%,79.996%,
+Cat Madness,3.618,0,30.726%,29.61%,
+
+
+
+
+
+Name,Eternal Oasis,Eternal Oasis Overstack,Water Spirit,Water Spirit Overstack,Stone Spirit,Stone Spirit Overstack,
+Kaypeae,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,83.274%,83.274%,87.583%,87.583%,
+Kuroki Leal,0,0,0,0,0,0,
+Karime Valle,0,0,0,0,0,0,
+Vohn Tuzad,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,
+Darkvieefe,0,0,0,0,0,0,
+Amärá,0,0,0,0,0,0,
+Shéyra,0,0,0,0,0,0,
+Cat Madness,0,0,0,0,0,0,
+
+
+
+
+
+Name,Eternal Oasis,Eternal Oasis Overstack,Water Spirit,Water Spirit Overstack,Stone Spirit,Stone Spirit Overstack,
+Kaypeae,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,62.83%,62.83%,65.989%,65.989%,
+Kuroki Leal,0,0,0,0,0,0,
+Karime Valle,0,0,0,0,0,0,
+Vohn Tuzad,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,
+Darkvieefe,0,0,0,0,0,0,
+Amärá,0,0,0,0,0,0,
+Shéyra,0,0,0,0,0,0,
+Cat Madness,0,0,0,0,0,0,
+
+
+
+
+
+Name,Eternal Oasis,Eternal Oasis Overstack,Water Spirit,Water Spirit Overstack,Stone Spirit,Stone Spirit Overstack,
+Kaypeae,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,67.148%,67.148%,70.607%,70.607%,
+Kuroki Leal,0,0,0,0,0,0,
+Karime Valle,0,0,0,0,0,0,
+Vohn Tuzad,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,
+Darkvieefe,0,0,0,0,0,0,
+Amärá,0,0,0,0,0,0,
+Shéyra,0,0,0,0,0,0,
+Cat Madness,0,0,0,0,0,0,
+
+
+
+
+
+Name,Eternal Oasis,Eternal Oasis Overstack,Water Spirit,Water Spirit Overstack,Stone Spirit,Stone Spirit Overstack,
+Kaypeae,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,65.229%,65.229%,68.555%,68.555%,
+Kuroki Leal,0,0,0,0,0,0,
+Karime Valle,0,0,0,0,0,0,
+Vohn Tuzad,0,0,0,0,0,0,
+Kvynxx,0,0,0,0,0,0,
+Darkvieefe,0,0,0,0,0,0,
+Amärá,0,0,0,0,0,0,
+Shéyra,0,0,0,0,0,0,
+Cat Madness,0,0,0,0,0,0,
+
+
+
+
+
+Name,"Spectral Impact (KB Slam)","Ghastly Prison (Egged)","Spectral Darkness (Stood in Orb AoE)","Kicked by small add","Hit by Black Goo",
+Kaypeae,0,0,0,0,75,
+Arceso Wild Caress,1,0,0,1,75,
+Kuroki Leal,0,0,0,0,50,
+Karime Valle,0,0,0,0,75,
+Vohn Tuzad,0,1,0,1,50,
+Kvynxx,4,0,0,2,75,
+Darkvieefe,2,0,0,0,25,
+Amärá,2,5,10,0,75,
+Shéyra,2,3,0,1,75,
+Cat Madness,1,0,0,0,0,
+
+
+
+
+
+Time,4.921,4.921,4.921,4.922,13.739,26.976,26.976,26.976,26.976,26.976,26.976,26.976,26.976,26.976,26.976,26.976,26.976,26.976,26.977,26.977,26.977,26.977,26.977,26.977,26.977,26.977,26.977,26.977,26.977,26.977,26.977,26.977,26.977,26.977,26.977,26.977,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.978,26.979,26.979,26.979,26.98,26.98,26.98,26.98,26.98,26.98,26.98,26.98,26.98,26.981,26.981,26.981,26.981,26.981,26.981,26.981,26.981,26.982,26.982,26.982,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.983,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,26.984,30.083,88.029,88.029,88.029,88.03,103.707,107.145,108.279,109.203,109.203,109.452,110.267,110.445,111.047,111.474,112.945,112.945,112.945,112.945,112.945,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.946,112.947,112.947,112.947,112.947,112.947,112.947,112.947,112.947,112.947,112.947,112.948,112.948,112.948,112.948,112.948,112.948,112.948,112.948,112.948,112.948,112.948,112.948,112.948,112.948,112.948,115.251,116.911,116.911,116.911,116.911,116.911,116.911,116.911,116.911,116.911,116.911,116.912,116.912,116.912,116.912,116.912,116.912,116.912,116.912,116.912,116.912,116.912,116.912,116.912,116.912,116.912,116.913,116.913,116.913,116.913,116.913,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.914,116.915,116.915,116.915,116.915,116.915,116.915,116.915,116.915,116.915,116.915,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.916,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.917,116.918,116.918,116.918,116.918,116.918,116.918,116.918,117.045,121.379,163.937,163.937,163.937,163.937,163.937,163.937,163.937,163.937,163.937,163.937,179.088,179.088,179.088,179.088,195.844,195.845,195.845,195.845,199.541,208.222,213.458,213.458,213.458,213.458,213.458,213.458,213.458,213.458,213.458,213.458,213.458,213.458,213.458,213.458,213.458,213.458,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.459,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.46,213.461,213.461,213.461,213.461,213.461,213.461,213.461,213.461,213.461,213.461,213.461,213.461,213.461,213.461,213.461,213.461,213.461,213.462,213.462,213.462,213.462,213.462,213.462,213.462,213.462,213.462,213.462,213.462,213.462,213.463,213.463,213.463,213.463,213.463,213.463,213.463,213.464,213.464,213.464,217.439,217.439,217.439,217.439,217.439,217.439,217.439,217.439,217.439,217.44,217.44,217.44,217.44,217.44,217.44,217.44,217.441,217.441,217.441,217.441,217.441,217.441,217.441,217.441,217.442,217.442,217.442,217.442,217.442,217.443,217.443,217.443,217.443,217.443,217.443,217.443,217.443,217.443,217.443,217.443,217.443,217.443,217.443,217.444,217.444,217.444,217.444,217.444,217.444,217.444,217.444,217.444,217.444,217.444,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.445,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.446,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.447,217.448,217.448,217.448,217.448,217.448,217.448,217.448,217.448,217.448,217.448,217.448,217.448,217.448,217.448,217.448,217.449,217.449,217.449,217.449,217.449,217.449,217.449,217.449,217.449,217.449,217.449,217.449,217.451,217.451,217.451,217.451,217.451,217.451,217.451,217.451,217.452,217.452,217.452,217.452,217.452,217.452,217.452,217.452,217.452,217.452,217.452,217.452,217.452,217.452,217.452,217.452,217.453,217.549,219.748,220.44,221.158,222.052,228.537,232.681,232.682,232.682,232.684,232.687,232.689,232.69,232.692,240.838,247.746,248.95,249.149,251.25,253.2,253.252,253.252,253.252,
+Player,Kvynxx,Amärá,Shéyra,Cat Madness,Gorseval el Múltiple,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Kvynxx,Karime Valle,Kvynxx,Karime Valle,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Karime Valle,Kuroki Leal,Karime Valle,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Karime Valle,Gorseval el Múltiple,Kvynxx,Amärá,Shéyra,Darkvieefe,Gorseval el Múltiple,Kaypeae,Vohn Tuzad,Karime Valle,Kvynxx,Cat Madness,Arceso Wild Caress,Kaypeae,Kuroki Leal,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Kuroki Leal,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Shéyra,Arceso Wild Caress,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Arceso Wild Caress,Shéyra,Arceso Wild Caress,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Karime Valle,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Arceso Wild Caress,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Cat Madness,Gorseval el Múltiple,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Arceso Wild Caress,Vohn Tuzad,Kvynxx,Shéyra,Darkvieefe,Arceso Wild Caress,Kvynxx,Kvynxx,Amärá,Gorseval el Múltiple,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Vohn Tuzad,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Arceso Wild Caress,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Vohn Tuzad,Vohn Tuzad,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Vohn Tuzad,Amärá,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Amärá,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Vohn Tuzad,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Kvynxx,Kvynxx,Kvynxx,Amärá,Amärá,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Kvynxx,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Kvynxx,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Darkvieefe,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Darkvieefe,Kaypeae,Kaypeae,Kaypeae,Darkvieefe,Darkvieefe,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Kaypeae,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Karime Valle,Amärá,Amärá,Karime Valle,Karime Valle,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Amärá,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Shéyra,Vohn Tuzad,Amärá,Kvynxx,Karime Valle,Vohn Tuzad,Gorseval el Múltiple,Amärá,Shéyra,Shéyra,Amärá,Amärá,Amärá,Shéyra,Vohn Tuzad,Kvynxx,Kvynxx,Amärá,Shéyra,Kaypeae,Gorseval el Múltiple,Karime Valle,Vohn Tuzad,Darkvieefe,
+Mechanic,"Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Ghastly Rampage (Breakbar broken)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Rampage (Breakbar)","Downed","Res","Res","Res","Downed","Res","Got up","Downed","Res","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Dead","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Dead","Ghastly Rampage (Breakbar broken)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Kicked by small add","Kicked by small add","Kicked by small add","Kicked by small add","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Prison (Egged)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Downed","Res","Res","Res","Got up","Ghastly Rampage (Breakbar broken)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Kicked by small add","Dead","Dead","Dead","Dead","Spirited Fusion (Consumed a Spirit)","Dead","Dead","Dead",
+
+
+
+
+
+
+
+
+
+
+
+
+Name,Avg,Bleeding,Burning,Confusion,Poison,Torment,Blind,Chilled,Crippled,Fear,Immobile,Slow,Weakness,Taunt,Vulnerability,
+Gorseval el Múltiple,8,29.18,6.97,6.784,27.436,47.065,64.001%,71.898%,71.223%,0.599%,31.82%,40.152%,70.412%,3.216%,17.514,
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name,Bleeding,Bleeding Overstack,Burning,Burning Overstack,Confusion,Confusion Overstack,Poison,Poison Overstack,Torment,Torment Overstack,Blind,Blind Overstack,Chilled,Chilled Overstack,Crippled,Crippled Overstack,Fear,Fear Overstack,Immobile,Immobile Overstack,Slow,Slow Overstack,Weakness,Weakness Overstack,Taunt,Taunt Overstack,Vulnerability,Vulnerability Overstack,
+Kaypeae,0.675,0.675,0.334,0.334,0,0,0,0,0,0,0,0,15.082%,15.082%,9.245%,9.245%,0,0,2.01%,2.01%,3.216%,3.216%,13.358%,13.358%,3.216%,3.216%,0.652,0.652,
+Arceso Wild Caress,2.316,2.316,0.53,0.53,2.384,2.384,0,0,0.416,0.416,14.855%,14.855%,7.963%,7.963%,6.357%,6.357%,0,0,14.592%,14.592%,4.339%,4.339%,5.007%,5.007%,0,0,0.041,0.041,
+Kuroki Leal,0.778,0.778,0.162,0.162,0,0,0.466,0.466,0.016,0.016,0,0,8.261%,8.261%,0%,0%,0,0,0,0,0,0,0,0,0,0,0.738,0.738,
+Karime Valle,0,0,0.375,0.375,0,0,0,0,0,0,0,0,0%,0%,5.682%,5.682%,0,0,0,0,0,0,0,0,0,0,0.388,0.388,
+Vohn Tuzad,8.908,8.908,1.341,1.341,0,0,3.493,3.493,10.408,10.408,26.763%,26.763%,1.9%,1.9%,16.693%,16.693%,0,0,0,0,0,0,12.702%,12.702%,0,0,4.802,4.802,
+Kvynxx,1.555,1.555,0.376,0.376,0,0,0.772,0.772,0.017,0.017,0,0,6.201%,6.201%,8.023%,8.023%,0,0,0,0,0,0,0,0,0,0,2.088,2.088,
+Darkvieefe,7.965,7.965,1.287,1.287,0,0,4.137,4.137,9.981,9.981,16.839%,16.839%,1.358%,1.358%,3.317%,3.317%,0,0,0,0,0,0,18.207%,18.207%,0,0,6.589,6.589,
+Amärá,0,0,0.494,0.494,4.4,4.4,0,0,0.008,0.008,0.158%,0.158%,0%,0%,0,0,0,0,0,0,0,0,1.343%,1.343%,0,0,0.036,0.036,
+Shéyra,1.797,1.797,0.449,0.449,0,0,17.682,17.682,18.993,18.993,4.298%,4.298%,31.133%,31.133%,16.416%,16.416%,0.599%,0.599%,15.218%,15.218%,20.562%,20.562%,17.742%,17.742%,0,0,2.129,2.129,
+Cat Madness,5.187,5.187,1.623,1.623,0,0,0.887,0.887,7.226,7.226,1.087%,1.087%,0,0,5.489%,5.489%,0,0,0,0,12.036%,12.036%,2.053%,2.053%,0,0,0.05,0.05,
+
+
+
+
+
+Name,Avg,Might,Fury,Quickness,Alacrity,Protection,Regeneration,Vigor,Aegis,Stability,Swiftness,Resistance,Resolution,
+Gorseval el Múltiple,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+
+
+
+
+
+
+
+

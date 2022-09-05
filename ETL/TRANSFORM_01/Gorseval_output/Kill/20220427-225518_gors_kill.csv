@@ -1,0 +1,413 @@
+Elite Insights,2.44.1.0,
+ARC Version,EVTC20220415,
+Fight ID,15429,
+Recorded By,Deadly Gasai Yuno,
+Time Start,2022-04-27 23:51:29 +02:00,
+Time End,2022-04-27 23:55:15 +02:00,
+
+
+
+
+Boss,Gorseval el Múltiple,
+Success,True,
+Total Boss Health,21628200,
+Final Boss Health,0,
+Boss Health Burned %,100,
+Duration,03m 43s 644ms,
+Sub Group,Profession,Role,Name,Account,WepSet1_1,WepSet1_2,WepSet2_1,WepSet2_2,Boss DPS,Boss DMG,Boss Power DPS,Boss Power DMG,Boss Condi DPS,Boss Condi DMG,All DPS,All DMG,All Power DPS,All Power DMG,All Condi DPS,All Condi DMG,Times Downed,Time Died,Percent Alive,
+2,Soulbeast, Condi:10,Lvid,lvid.8574,Shortbow,2Hand,Axe,Torch,13448,3007567,2580,577109,10868,2430458,17100,3824335,3894,870887,13206,2953448,1,0,,
+2,Daredevil,,Jerso,pitius.8603,Staff,2Hand,Staff,2Hand,12885,2881611,12651,2829318,234,52293,19694,4404375,19395,4337498,299,66877,1,0,,
+2,Renegade, Concentration:10,Lady Eryel,Erniebg.1859,Sword,Sword,Unknown,Unknown,5669,1267800,5401,1207979,267,59821,6991,1563421,6638,1484441,353,78980,1,0,,
+2,Catalyst,,Medivh El Blanco,BlackBull.6249,Hammer,2Hand,Unknown,Unknown,11352,2538820,10314,2306588,1038,232232,17498,3913374,16156,3613121,1343,300253,1,0,,
+2,Firebrand, Concentration:10 Healing:10,Astrid Laudóttir,Lesha.9607,Axe,Shield,Staff,2Hand,1292,288972,1011,226001,282,62971,2763,617980,2126,475554,637,142426,0,0,,
+3,Mechanist,,Deadly Gasai Yuno,Fabio no.4796,Mace,Shield,Unknown,Unknown,9721,2174093,8971,2006382,750,167711,14304,3198970,13354,2986498,950,212472,0,0,,
+3,Druid, Concentration:10 Healing:10,Nádrea,Starlom.1324,Staff,2Hand,Axe,Warhorn,1226,274110,785,175634,440,98476,1662,371591,1081,241812,580,129779,0,0,,
+3,Scourge, Condi:10,Alice Greenthorn,CrambzZ.4892,Scepter,Torch,Scepter,Unknown,17226,3852466,1782,398450,15444,3454016,25128,5619628,3026,676662,22102,4942966,0,0,,
+3,Firebrand, Condi:10,Amournath,razer.8147,Axe,Torch,Scepter,Torch,13364,2988756,2208,493703,11156,2495053,20694,4628079,3689,825099,17005,3802980,0,0,,
+3,Berserker,,Alsrroum,Ten Mel.4812,Axe,Axe,Unknown,Unknown,10212,2283912,10008,2238246,204,45666,13992,3129288,13717,3067714,275,61574,0,0,,
+
+
+
+
+
+Sub Group,Profession,Name,Critical%,Critical hits,Critical DMG,Scholar%,Scholar hits,Scholar DMG,Scholar % increase,Moving%,Moving Hits,Moving DMG,Moving % increase,Flanking%,Flanking hits,Glancing%,Glancing Hits,Blind%,Blind Hits,Total Hits,Hits to Interupt,Hits Invulned,Time wasted,Time saved,Weapon Swaps,
+2,Soulbeast,Lvid,70.9,395,447071,77.7,433,20889.143,3.833,16.9,94,4704.667,0.838,99.6,555,0,0,0,0,601,0,133,5.947,6.611,16,
+2,Daredevil,Jerso,98.9,368,2740473,80.3,305,110303.429,4.08,30.5,116,37705.857,1.358,98.9,376,0,0,0,0,395,0,19,2.845,18.473,5,
+2,Renegade,Lady Eryel,85.9,385,1122311,51.1,229,30897.048,2.625,12.3,55,5733.095,0.477,99.6,446,0,0,0,0,537,0,90,2.383,11.722,17,
+2,Catalyst,Medivh El Blanco,91.1,655,2168340,68,492,72886.667,3.347,33.1,240,39770.857,1.799,99.6,721,0,0,0,0,771,0,61,4.064,9.505,38,
+2,Firebrand,Astrid Laudóttir,52.7,89,155618,81.7,138,9045.762,4.169,25.4,43,2427.381,1.086,99.4,168,0,0,0,0,193,0,31,0.959,28.409,12,
+3,Mechanist,Deadly Gasai Yuno,88.2,150,1277063,92.4,157,60219.476,4.714,17.1,29,10817.857,0.815,25.9,44,0,0,0,0,179,0,30,6.987,20.812,6,
+3,Druid,Nádrea,30.6,52,47332,85.3,145,4614.524,4.346,17.1,29,1039.81,0.947,96.5,164,0,0,0,0,218,0,57,1.568,4.734,24,
+3,Scourge,Alice Greenthorn,88.8,294,333889,91.8,304,15892.952,4.591,31.4,104,5673.286,1.592,98.2,325,0,0,0,0,383,0,182,7.607,36.262,3,
+3,Firebrand,Amournath,73.7,302,391731,84.7,354,20376.714,4.305,34.7,145,7987.333,1.644,98.8,413,0,0,0,0,468,0,81,3.036,28.811,33,
+3,Berserker,Alsrroum,90.3,233,2146949,94.2,243,99767.619,4.696,21.3,55,18630.857,0.845,97.3,251,0,0,0,0,298,0,43,2.446,7.687,0,
+
+
+
+
+
+Sub Group,Profession,Name,Critical%,Critical hits,Critical DMG,Scholar%,Scholar hits,Scholar DMG,Scholar % increase,Moving%,Moving Hits,Moving DMG,Moving % increase,Flanking%,Flanking hits,Glancing%,Glancing Hits,Blind%,Blind Hits,Total Hits,Hits to Interupt,Hits Invulned,Time wasted,Time saved,Weapon Swaps,
+2,Soulbeast,Lvid,65.4,583,640526,77.7,433,20889.143,3.833,16.9,94,4704.667,0.838,75.7,675,3.5,31,0,0,936,0,133,5.947,6.611,16,
+2,Daredevil,Jerso,92.2,571,4180811,80.3,305,110303.429,4.08,30.5,116,37705.857,1.358,88.8,557,5.4,34,0,0,642,0,19,2.845,18.473,5,
+2,Renegade,Lady Eryel,82.5,481,1365594,51.1,229,30897.048,2.625,12.3,55,5733.095,0.477,91.4,533,2.4,14,0,0,672,14,90,2.383,11.722,17,
+2,Catalyst,Medivh El Blanco,86.3,999,3350537,68,492,72886.667,3.347,33.1,240,39770.857,1.799,90.1,1052,3.5,41,0,0,1215,0,61,4.064,9.505,38,
+2,Firebrand,Astrid Laudóttir,44.7,177,295398,81.7,138,9045.762,4.169,25.4,43,2427.381,1.086,80.6,319,5.3,21,0,0,420,2,31,0.959,28.409,12,
+3,Mechanist,Deadly Gasai Yuno,82.5,226,1837757,92.4,157,60219.476,4.714,17.1,29,10817.857,0.815,40.9,112,4,11,0,0,283,0,30,6.987,20.812,6,
+3,Druid,Nádrea,31.9,68,54899,85.3,145,4614.524,4.346,17.1,29,1039.81,0.947,79.8,170,0,0,0,0,261,5,57,1.568,4.734,24,
+3,Scourge,Alice Greenthorn,80,493,544991,91.8,304,15892.952,4.591,31.4,104,5673.286,1.592,76.1,469,3.7,23,0,0,668,0,182,7.607,36.262,3,
+3,Firebrand,Amournath,69.9,515,652294,84.7,354,20376.714,4.305,34.7,145,7987.333,1.644,84.1,631,3.7,28,0,0,800,1,81,3.036,28.811,33,
+3,Berserker,Alsrroum,87.3,359,2913427,94.2,243,99767.619,4.696,21.3,55,18630.857,0.845,87.1,358,2.4,10,0,0,451,0,43,2.446,7.687,0,
+
+
+
+
+
+Sub Group,Profession,Name,DMG Taken,DMG Barrier,Blocked,Invulned,Evaded,Dodges,
+2,Soulbeast,Lvid,204158,41671,0,28,0,2,
+2,Daredevil,Jerso,146415,37465,1,25,2,0,
+2,Renegade,Lady Eryel,182730,26893,1,4,0,7,
+2,Catalyst,Medivh El Blanco,258939,18784,0,17,0,2,
+2,Firebrand,Astrid Laudóttir,107881,19167,4,0,2,8,
+3,Mechanist,Deadly Gasai Yuno,134091,78866,2,0,1,4,
+3,Druid,Nádrea,131412,78021,2,0,1,2,
+3,Scourge,Alice Greenthorn,165792,99151,0,0,0,3,
+3,Firebrand,Amournath,160908,90770,2,0,0,4,
+3,Berserker,Alsrroum,140520,76638,0,0,0,12,
+
+
+
+
+
+Sub Group,Profession,Name,Condi Cleanse,Condi Cleanse time,Condi Cleanse Self,Condi Cleanse time self,Boon Strips,Boon Strips time,Resurrects,Time Resurecting,
+2,Soulbeast,Lvid,6,1341.864,3,670.932,0,0,0,0,
+2,Daredevil,Jerso,6,1118.456,3,447.96,0,0,1,2.857,
+2,Renegade,Lady Eryel,13,1569.345,3,224.923,0,0,0,0,
+2,Catalyst,Medivh El Blanco,5,672.825,4,448.244,0,0,2,4.834,
+2,Firebrand,Astrid Laudóttir,1,223.644,1,223.644,0,0,4,14.606,
+3,Mechanist,Deadly Gasai Yuno,9,1580.673,3,238.808,0,0,2,5.955,
+3,Druid,Nádrea,7,1412.123,2,469.21,0,0,2,0.956,
+3,Scourge,Alice Greenthorn,21,4260.449,37,1694.963,8,3020.032,0,0,
+3,Firebrand,Amournath,32,5362.947,6,456.642,0,0,1,1.062,
+3,Berserker,Alsrroum,5,895.752,2,224.331,0,0,0,0,
+
+
+
+
+
+Name,Avg Boons,Might,Fury,Quickness,Alacrity,Protection,Regeneration,Vigor,Aegis,Stability,Swiftness,Resolution,
+Lvid,8.059,24.303,97.285%,97.285%,89.771%,98.359%,73.371%,13.414%,10.387%,1.748,95.815%,94.593%,
+Jerso,8.026,21.231,97.285%,97.285%,79.119%,98.268%,70.447%,16.097%,14.287%,1.845,98.828%,93.254%,
+Lady Eryel,8.915,21.801,97.285%,98.604%,93.25%,98.48%,71.668%,92.707%,7.358%,1.898,92.497%,98.48%,
+Medivh El Blanco,7.955,22.627,98.375%,97.285%,79.357%,98.359%,67.198%,17.563%,10.395%,1.896,94.923%,94.92%,
+Astrid Laudóttir,8.848,22.295,96.507%,98.63%,80.534%,98.48%,64.615%,90.443%,24.812%,1.845,94.923%,98.343%,
+Deadly Gasai Yuno,7.533,23.31,98.798%,80.978%,66.952%,99.093%,96.706%,19.028%,10.528%,1.049,76.633%,64.627%,
+Nádrea,7.717,22.933,95.496%,82.223%,62.669%,99.397%,96.528%,21.463%,8.426%,1.241,97.433%,59.529%,
+Alice Greenthorn,7.725,24.181,99.075%,80.581%,64.871%,98.162%,97.593%,27.623%,19.146%,1.044,85.364%,60.074%,
+Amournath,8.225,23.659,99.075%,98.63%,64.785%,98.48%,96.706%,20.246%,23.943%,1.193,76.922%,98.48%,
+Alsrroum,7.672,22.694,99.075%,98.63%,59.49%,98.63%,96.706%,14.88%,12.224%,1.171,86.872%,55.006%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resolution,Resolution Overstack,
+Lvid,2.374,2.374,33.928%,33.928%,7.476%,7.476%,1.341%,1.341%,19.019%,19.019%,5.806%,5.806%,0,0,0,0,0,0,33.402%,33.402%,2.236%,2.236%,
+Jerso,0.31,0.31,47.124%,47.124%,0,0,0,0,15.601%,15.601%,5.373%,5.373%,0,0,0,0,0,0,29.986%,29.986%,1.789%,1.789%,
+Lady Eryel,1.264,1.264,47.475%,47.475%,0,0,83.31%,83.31%,35.496%,35.496%,3.337%,3.337%,76.539%,76.539%,0,0,0.095,0.095,0,0,16.821%,16.821%,
+Medivh El Blanco,5.944,5.944,52.143%,52.143%,17.061%,17.061%,0,0,17.601%,17.601%,0.894%,0.894%,0,0,0,0,0,0,8.353%,8.353%,15.736%,15.736%,
+Astrid Laudóttir,14.782,14.782,79.461%,79.461%,73.198%,73.198%,0,0,75.959%,75.959%,0,0,75.563%,75.563%,24.812%,24.812%,1.845,1.845,83.065%,83.065%,61.337%,61.337%,
+Deadly Gasai Yuno,4.662,4.662,35.699%,35.699%,0,0,63.452%,63.452%,39.404%,39.404%,0.537%,0.537%,2.931%,2.931%,7.063%,7.063%,0.382,0.382,4.885%,4.885%,0,0,
+Nádrea,16.334,16.334,17.113%,17.113%,0,0,0,0,47.862%,47.862%,94.213%,94.213%,21.463%,21.463%,0,0,0.107,0.107,71.112%,71.112%,0,0,
+Alice Greenthorn,6.016,6.016,35.964%,35.964%,0,0,0,0,27.566%,27.566%,0,0,10.061%,10.061%,0,0,0,0,0,0,0,0,
+Amournath,0.586,0.586,64.057%,64.057%,83.839%,83.839%,0,0,51.544%,51.544%,0,0,0,0,8.261%,8.261%,0.753,0.753,3.935%,3.935%,78.665%,78.665%,
+Alsrroum,0.298,0.298,40.363%,40.363%,29.511%,29.511%,0,0,26.828%,26.828%,0,0,0,0,0,0,0,0,13.414%,13.414%,0,0,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resolution,Resolution Overstack,
+Lvid,0,0,0,0,0,0,0,0,0,0,4.29%,4.29%,0,0,0,0,0,0,0,0,0,0,
+Jerso,0,0,0,0,0,0,0,0,0,0,2.124%,2.124%,0,0,0,0,0,0,0,0,0,0,
+Lady Eryel,0.444,0.444,0,0,0,0,72.583%,72.583%,16.236%,16.236%,1.636%,1.636%,0,0,0,0,0,0,0,0,14.337%,14.337%,
+Medivh El Blanco,2.416,2.416,0,0,18.267%,18.267%,0,0,0,0,0.891%,0.891%,0,0,0,0,0,0,9.22%,9.22%,11.965%,11.965%,
+Astrid Laudóttir,12.595,12.595,43.32%,43.32%,68.945%,68.945%,0,0,51.819%,51.819%,0,0,0,0,10.607%,10.607%,1.823,1.823,68.707%,68.707%,62.19%,62.19%,
+Deadly Gasai Yuno,2.714,2.714,10.138%,10.138%,0,0,56.065%,56.065%,14.266%,14.266%,0.982%,0.982%,1.099%,1.099%,8.567%,8.567%,0.417,0.417,4.885%,4.885%,0,0,
+Nádrea,14.499,14.499,10.227%,10.227%,0,0,0,0,13.228%,13.228%,96.169%,96.169%,16.097%,16.097%,0,0,0,0,59.769%,59.769%,0,0,
+Alice Greenthorn,3.462,3.462,0,0,0,0,0,0,0.755%,0.755%,0,0,0,0,0,0,0,0,2.571%,2.571%,0,0,
+Amournath,0.469,0.469,39.067%,39.067%,65.925%,65.925%,0,0,24.348%,24.348%,0,0,0,0,0,0,0.696,0.696,4.427%,4.427%,49.381%,49.381%,
+Alsrroum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resolution,Resolution Overstack,
+Lvid,0,0,0,0,0,0,0,0,0,0,0.177%,0.177%,0,0,0,0,0,0,0,0,0,0,
+Jerso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Lady Eryel,0.156,0.156,0,0,0,0,6.211%,6.211%,6.574%,6.574%,0,0,0,0,0,0,0,0,0,0,3.215%,3.215%,
+Medivh El Blanco,0.354,0.354,0,0,4.643%,4.643%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.488%,3.488%,
+Astrid Laudóttir,0.35,0.35,12.12%,12.12%,8.155%,8.155%,0,0,11.46%,11.46%,0,0,0,0,4.935%,4.935%,0,0,8.654%,8.654%,5.603%,5.603%,
+Deadly Gasai Yuno,0.959,0.959,2.003%,2.003%,0,0,9.41%,9.41%,0,0,1.397%,1.397%,0.879%,0.879%,0,0,0,0,0,0,0,0,
+Nádrea,2.453,2.453,0.097%,0.097%,0,0,0,0,7.373%,7.373%,57.113%,57.113%,14.745%,14.745%,0,0,0,0,0.808%,0.808%,0,0,
+Alice Greenthorn,1.413,1.413,0,0,0,0,0,0,0.295%,0.295%,0,0,0,0,0,0,0,0,1.028%,1.028%,0,0,
+Amournath,0.328,0.328,8.566%,8.566%,8.501%,8.501%,0,0,3.542%,3.542%,0,0,0,0,0,0,0,0,0.258%,0.258%,5.54%,5.54%,
+Alsrroum,0,0,0,0,0,0,0,0,0,0,0.715%,0.715%,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resolution,Resolution Overstack,
+Lvid,0,0,0,0,0,0,0,0,0,0,2.005%,2.005%,0,0,0,0,0,0,0,0,0,0,
+Jerso,0,0,0,0,0,0,0,0,0,0,0.944%,0.944%,0,0,0,0,0,0,0,0,0,0,
+Lady Eryel,0.284,0.284,0,0,0,0,35.71%,35.71%,10.868%,10.868%,0.727%,0.727%,0,0,0,0,0,0,0,0,8.158%,8.158%,
+Medivh El Blanco,1.271,1.271,0,0,10.698%,10.698%,0,0,0,0,0.396%,0.396%,0,0,0,0,0,0,4.098%,4.098%,7.256%,7.256%,
+Astrid Laudóttir,5.792,5.792,25.986%,25.986%,35.173%,35.173%,0,0,29.398%,29.398%,0,0,0,0,7.456%,7.456%,0.81,0.81,35.344%,35.344%,30.753%,30.753%,
+Deadly Gasai Yuno,1.739,1.739,5.618%,5.618%,0,0,30.145%,30.145%,6.34%,6.34%,1.212%,1.212%,0.977%,0.977%,3.808%,3.808%,0.185,0.185,2.171%,2.171%,0,0,
+Nádrea,7.807,7.807,4.599%,4.599%,0,0,0,0,9.975%,9.975%,74.471%,74.471%,15.346%,15.346%,0,0,0,0,27.013%,27.013%,0,0,
+Alice Greenthorn,2.323,2.323,0,0,0,0,0,0,0.499%,0.499%,0,0,0,0,0,0,0,0,1.714%,1.714%,0,0,
+Amournath,0.391,0.391,22.122%,22.122%,34.023%,34.023%,0,0,12.789%,12.789%,0,0,0,0,0,0,0.309,0.309,2.11%,2.11%,25.025%,25.025%,
+Alsrroum,0,0,0,0,0,0,0,0,0,0,0.397%,0.397%,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Avg Boons,Assassin's Presence,Soulcleave's Summit,Banner of Strength,Banner of Discipline,Ashes of the Just,Frost Spirit,Sun Spirit,Vulture Stance,One Wolf Pack,
+Lvid,8.059,98.647%,0.795%,73.401%,72.976%,0,81.531%,91.943%,32.194%,16.097%,
+Jerso,8.026,97.308%,0.947%,73.401%,72.976%,0,77.204%,89.258%,9.39%,3.57%,
+Lady Eryel,8.915,98.647%,0.173%,72.059%,75.664%,0.077,76.607%,89.272%,9.39%,3.57%,
+Medivh El Blanco,7.955,98.647%,1.019%,70.72%,70.295%,0,73.173%,78.536%,10.731%,5.358%,
+Astrid Laudóttir,8.848,98.647%,1.341%,73.401%,71.629%,0,81.23%,89.258%,10.731%,5.358%,
+Deadly Gasai Yuno,7.533,4.024%,0,68.023%,68.951%,0.156,78.546%,87.909%,1.341%,1.789%,
+Nádrea,7.717,6.704%,0,80.112%,79.697%,0.252,86.583%,97.314%,0,0,
+Alice Greenthorn,7.725,8.049%,0,69.379%,66.271%,0.079,73.165%,83.895%,0,0,
+Amournath,8.225,10.732%,0,70.72%,70.292%,0.097,81.221%,90.596%,1.341%,1.789%,
+Alsrroum,7.672,9.39%,0,72.06%,74.321%,0.164,82.564%,90.609%,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Soulcleave's Summit,Soulcleave's Summit Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Frost Spirit,Frost Spirit Overstack,Sun Spirit,Sun Spirit Overstack,Vulture Stance,Vulture Stance Overstack,One Wolf Pack,One Wolf Pack Overstack,
+Lvid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32.194%,32.194%,16.097%,16.097%,
+Jerso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Lady Eryel,98.647%,98.647%,0.173%,0.173%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Medivh El Blanco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Astrid Laudóttir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Nádrea,0,0,0,0,0,0,0,0,0,0,86.583%,86.583%,97.314%,97.314%,0,0,0,0,
+Alice Greenthorn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Amournath,0,0,0,0,0,0,0,0,0.097,0.097,0,0,0,0,0,0,0,0,
+Alsrroum,0,0,0,0,72.06%,72.06%,74.321%,74.321%,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Soulcleave's Summit,Soulcleave's Summit Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Frost Spirit,Frost Spirit Overstack,Sun Spirit,Sun Spirit Overstack,Vulture Stance,Vulture Stance Overstack,One Wolf Pack,One Wolf Pack Overstack,
+Lvid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10.061%,10.061%,4.464%,4.464%,
+Jerso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Lady Eryel,98.312%,98.312%,1.026%,1.026%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Medivh El Blanco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Astrid Laudóttir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Nádrea,0,0,0,0,0,0,0,0,0,0,78.874%,78.874%,88.252%,88.252%,0,0,0,0,
+Alice Greenthorn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Amournath,0,0,0,0,0,0,0,0,0.163,0.163,0,0,0,0,0,0,0,0,
+Alsrroum,0,0,0,0,72.058%,72.058%,71.303%,71.303%,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Soulcleave's Summit,Soulcleave's Summit Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Frost Spirit,Frost Spirit Overstack,Sun Spirit,Sun Spirit Overstack,Vulture Stance,Vulture Stance Overstack,One Wolf Pack,One Wolf Pack Overstack,
+Lvid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.537%,0.537%,0.715%,0.715%,
+Jerso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Lady Eryel,7.78%,7.78%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Medivh El Blanco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Astrid Laudóttir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Nádrea,0,0,0,0,0,0,0,0,0,0,77.949%,77.949%,87.654%,87.654%,0,0,0,0,
+Alice Greenthorn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Amournath,0,0,0,0,0,0,0,0,0.015,0.015,0,0,0,0,0,0,0,0,
+Alsrroum,0,0,0,0,72.597%,72.597%,72.708%,72.708%,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Soulcleave's Summit,Soulcleave's Summit Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Frost Spirit,Frost Spirit Overstack,Sun Spirit,Sun Spirit Overstack,Vulture Stance,Vulture Stance Overstack,One Wolf Pack,One Wolf Pack Overstack,
+Lvid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.769%,4.769%,2.381%,2.381%,
+Jerso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Lady Eryel,48.016%,48.016%,0.456%,0.456%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Medivh El Blanco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Astrid Laudóttir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Nádrea,0,0,0,0,0,0,0,0,0,0,78.36%,78.36%,87.92%,87.92%,0,0,0,0,
+Alice Greenthorn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Amournath,0,0,0,0,0,0,0,0,0.081,0.081,0,0,0,0,0,0,0,0,
+Alsrroum,0,0,0,0,72.357%,72.357%,72.083%,72.083%,0,0,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Avg Boons,Eternal Oasis,Water Spirit,Stone Spirit,
+Lvid,8.059,7.145%,86.199%,91.009%,
+Jerso,8.026,7.145%,77.869%,84.043%,
+Lady Eryel,8.915,5.005%,82.633%,87.429%,
+Medivh El Blanco,7.955,7.145%,72.873%,81.716%,
+Astrid Laudóttir,8.848,7.145%,79.861%,87.927%,
+Deadly Gasai Yuno,7.533,10.731%,85.236%,86.58%,
+Nádrea,7.717,10.731%,95.967%,97.308%,
+Alice Greenthorn,7.725,10.731%,82.551%,82.556%,
+Amournath,8.225,10.731%,90.608%,90.603%,
+Alsrroum,7.672,10.731%,86.58%,93.289%,
+
+
+
+
+
+Name,Eternal Oasis,Eternal Oasis Overstack,Water Spirit,Water Spirit Overstack,Stone Spirit,Stone Spirit Overstack,
+Lvid,0,0,0,0,0,0,
+Jerso,0,0,0,0,0,0,
+Lady Eryel,0,0,0,0,0,0,
+Medivh El Blanco,0,0,0,0,0,0,
+Astrid Laudóttir,7.145%,7.145%,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,
+Nádrea,0,0,95.967%,95.967%,97.308%,97.308%,
+Alice Greenthorn,0,0,0,0,0,0,
+Amournath,10.731%,10.731%,0,0,0,0,
+Alsrroum,0,0,0,0,0,0,
+
+
+
+
+
+Name,Eternal Oasis,Eternal Oasis Overstack,Water Spirit,Water Spirit Overstack,Stone Spirit,Stone Spirit Overstack,
+Lvid,0,0,0,0,0,0,
+Jerso,0,0,0,0,0,0,
+Lady Eryel,0,0,0,0,0,0,
+Medivh El Blanco,0,0,0,0,0,0,
+Astrid Laudóttir,6.61%,6.61%,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,
+Nádrea,0,0,86.244%,86.244%,88.257%,88.257%,
+Alice Greenthorn,0,0,0,0,0,0,
+Amournath,10.731%,10.731%,0,0,0,0,
+Alsrroum,0,0,0,0,0,0,
+
+
+
+
+
+Name,Eternal Oasis,Eternal Oasis Overstack,Water Spirit,Water Spirit Overstack,Stone Spirit,Stone Spirit Overstack,
+Lvid,0,0,0,0,0,0,
+Jerso,0,0,0,0,0,0,
+Lady Eryel,0,0,0,0,0,0,
+Medivh El Blanco,0,0,0,0,0,0,
+Astrid Laudóttir,0,0,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,
+Nádrea,0,0,79.887%,79.887%,86.425%,86.425%,
+Alice Greenthorn,0,0,0,0,0,0,
+Amournath,0,0,0,0,0,0,
+Alsrroum,0,0,0,0,0,0,
+
+
+
+
+
+Name,Eternal Oasis,Eternal Oasis Overstack,Water Spirit,Water Spirit Overstack,Stone Spirit,Stone Spirit Overstack,
+Lvid,0,0,0,0,0,0,
+Jerso,0,0,0,0,0,0,
+Lady Eryel,0,0,0,0,0,0,
+Medivh El Blanco,0,0,0,0,0,0,
+Astrid Laudóttir,2.938%,2.938%,0,0,0,0,
+Deadly Gasai Yuno,0,0,0,0,0,0,
+Nádrea,0,0,82.712%,82.712%,87.239%,87.239%,
+Alice Greenthorn,0,0,0,0,0,0,
+Amournath,4.769%,4.769%,0,0,0,0,
+Alsrroum,0,0,0,0,0,0,
+
+
+
+
+
+Name,"Spectral Impact (KB Slam)","Ghastly Prison (Egged)","Spectral Darkness (Stood in Orb AoE)","Hit by Black Goo",
+Lvid,3,1,0,75,
+Jerso,2,5,0,125,
+Lady Eryel,1,1,0,75,
+Medivh El Blanco,2,1,30,25,
+Astrid Laudóttir,1,1,0,50,
+Deadly Gasai Yuno,0,1,0,75,
+Nádrea,0,2,0,100,
+Alice Greenthorn,0,1,0,50,
+Amournath,0,0,0,0,
+Alsrroum,0,0,0,50,
+
+
+
+
+
+Time,13.165,17.206,18.351,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.397,18.843,21.807,22.506,25.65,25.999,26.388,26.388,26.388,26.388,26.388,26.388,26.388,26.388,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.389,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.39,26.428,27.406,31.709,102.679,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.917,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.918,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,111.919,113.679,113.679,113.679,113.679,113.68,113.68,113.68,113.68,113.68,113.68,114.009,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.921,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,115.922,116.185,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.911,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,119.912,121.589,122.305,122.645,123.512,127.046,127.047,127.047,127.047,178.353,178.353,182.03,182.033,182.033,182.034,190.75,196,196,196,196,196,196,196,196,196,196,196,196,196,196,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.001,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.002,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,196.003,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.996,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.997,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.998,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,199.999,200,200,200.014,201.346,203.303,203.476,203.679,203.679,203.679,203.679,203.679,203.679,203.679,203.679,203.679,203.679,204.001,204.001,204.001,204.001,204.001,204.001,204.001,204.001,204.001,204.001,204.001,204.001,204.001,204.001,204.001,204.001,204.001,204.001,204.002,204.002,204.002,204.002,204.002,204.002,204.002,204.111,204.114,204.544,204.544,204.544,204.544,204.544,204.544,204.544,204.544,204.544,204.544,211.629,215.694,215.695,215.695,215.695,215.696,215.696,215.696,215.725,215.725,218.349,218.349,218.349,
+Player,Gorseval el Múltiple,Medivh El Blanco,Astrid Laudóttir,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Deadly Gasai Yuno,Medivh El Blanco,Jerso,Medivh El Blanco,Deadly Gasai Yuno,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Lady Eryel,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Alice Greenthorn,Alice Greenthorn,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Nádrea,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Astrid Laudóttir,Jerso,Gorseval el Múltiple,Gorseval el Múltiple,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Nádrea,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Deadly Gasai Yuno,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Deadly Gasai Yuno,Lvid,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Lvid,Jerso,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Lady Eryel,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Lvid,Lvid,Nádrea,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Nádrea,Lvid,Nádrea,Lvid,Nádrea,Lvid,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Jerso,Lvid,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Astrid Laudóttir,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Astrid Laudóttir,Lady Eryel,Astrid Laudóttir,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Gorseval el Múltiple,Medivh El Blanco,Astrid Laudóttir,Lady Eryel,Lvid,Jerso,Lady Eryel,Astrid Laudóttir,Lvid,Medivh El Blanco,Jerso,Deadly Gasai Yuno,Alice Greenthorn,Lady Eryel,Gorseval el Múltiple,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Lvid,Deadly Gasai Yuno,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Lvid,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Alsrroum,Astrid Laudóttir,Jerso,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Astrid Laudóttir,Jerso,Astrid Laudóttir,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Alsrroum,Alsrroum,Nádrea,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Nádrea,Alsrroum,Nádrea,Nádrea,Nádrea,Nádrea,Nádrea,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alsrroum,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alsrroum,Alsrroum,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Lady Eryel,Deadly Gasai Yuno,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Jerso,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Alice Greenthorn,Jerso,Alice Greenthorn,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Jerso,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Deadly Gasai Yuno,Lvid,Jerso,Amournath,Nádrea,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Nádrea,Lvid,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Medivh El Blanco,Gorseval el Múltiple,Jerso,Jerso,Jerso,Nádrea,Lvid,Medivh El Blanco,Nádrea,Jerso,Astrid Laudóttir,Lvid,Jerso,Medivh El Blanco,
+Mechanic,"Ghastly Rampage (Breakbar)","Downed","Res","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Res","Got up","Downed","Res","Res","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Res","Got up","Ghastly Rampage (Breakbar broken)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Downed","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Res","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Ghastly Rampage (Breakbar broken)","Res","Res","Got up","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Downed","Res","Res","Res","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Res","Got up","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Ghastly Rampage (Breakbar broken)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)",
+
+
+
+
+
+
+
+
+
+
+
+
+Name,Avg,Bleeding,Burning,Confusion,Poison,Torment,Blind,Chilled,Crippled,Immobile,Slow,Weakness,Vulnerability,
+Gorseval el Múltiple,7.7,52.73,25.847,7.41,13.023,15.501,61.238%,64.576%,69.402%,42.548%,7.825%,68.576%,16.658,
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name,Bleeding,Bleeding Overstack,Burning,Burning Overstack,Confusion,Confusion Overstack,Poison,Poison Overstack,Torment,Torment Overstack,Blind,Blind Overstack,Chilled,Chilled Overstack,Crippled,Crippled Overstack,Immobile,Immobile Overstack,Slow,Slow Overstack,Weakness,Weakness Overstack,Vulnerability,Vulnerability Overstack,
+Lvid,25.574,25.574,3.435,3.435,0,0,7.066,7.066,0.109,0.109,0,0,10.24%,10.24%,9.489%,9.489%,12.277%,12.277%,0,0,5.831%,5.831%,1.223,1.223,
+Jerso,0,0,0.452,0.452,0,0,0.992,0.992,0,0,8.567%,8.567%,0,0,0,0,6.948%,6.948%,0,0,23.64%,23.64%,1.27,1.27,
+Lady Eryel,0,0,0.548,0.548,0,0,0.376,0.376,0.107,0.107,0,0,8.759%,8.759%,9.283%,9.283%,3.577%,3.577%,0.447%,0.447%,0,0,0.582,0.582,
+Medivh El Blanco,1.815,1.815,2.576,2.576,0,0,0.626,0.626,0,0,0,0,19.604%,19.604%,0,0,4.013%,4.013%,0,0,23.989%,23.989%,2.717,2.717,
+Astrid Laudóttir,0.425,0.425,0.647,0.647,0,0,0.107,0.107,0,0,0,0,0,0,4.758%,4.758%,0,0,6.036%,6.036%,0,0,0,0,
+Deadly Gasai Yuno,1.124,1.124,0.429,0.429,6.123,6.123,0.376,0.376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.208,0.208,
+Nádrea,1.321,1.321,0.532,0.532,1.288,1.288,0,0,0.268,0.268,18.006%,18.006%,11.858%,11.858%,4.364%,4.364%,9.166%,9.166%,1.341%,1.341%,0.724%,0.724%,0.103,0.103,
+Alice Greenthorn,20.678,20.678,3.55,3.55,0,0,3.349,3.349,15.016,15.016,24.013%,24.013%,6.236%,6.236%,14.237%,14.237%,0,0,0,0,7.713%,7.713%,9.541,9.541,
+Amournath,1.793,1.793,13.133,13.133,0,0,0.131,0.131,0,0,10.653%,10.653%,7.879%,7.879%,21.96%,21.96%,6.567%,6.567%,0,0,6.678%,6.678%,0.114,0.114,
+Alsrroum,0,0,0.546,0.546,0,0,0,0,0,0,0,0,0,0,5.312%,5.312%,0,0,0,0,0,0,0.899,0.899,
+
+
+
+
+
+Name,Avg,Might,Fury,Quickness,Alacrity,Protection,Regeneration,Vigor,Aegis,Stability,Swiftness,Resolution,
+Gorseval el Múltiple,0,0,0,0,0,4.466%,0,0,0,0,0,
+
+
+
+
+
+
+
+
+
+
+
+
+

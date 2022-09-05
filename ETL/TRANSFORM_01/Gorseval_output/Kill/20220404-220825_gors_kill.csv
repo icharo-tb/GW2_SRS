@@ -1,0 +1,413 @@
+Elite Insights,2.44.1.0,
+ARC Version,EVTC20220330,
+Fight ID,15429,
+Recorded By,Vynkrea,
+Time Start,2022-04-04 23:03:58 +02:00,
+Time End,2022-04-04 23:08:25 +02:00,
+
+
+
+
+Boss,Gorseval el Múltiple,
+Success,True,
+Total Boss Health,21628200,
+Final Boss Health,0,
+Boss Health Burned %,100,
+Duration,04m 25s 973ms,
+Sub Group,Profession,Role,Name,Account,WepSet1_1,WepSet1_2,WepSet2_1,WepSet2_2,Boss DPS,Boss DMG,Boss Power DPS,Boss Power DMG,Boss Condi DPS,Boss Condi DMG,All DPS,All DMG,All Power DPS,All Power DMG,All Condi DPS,All Condi DMG,Times Downed,Time Died,Percent Alive,
+2,Daredevil,,Doña Sol,Girasol.8364,Staff,2Hand,Pistol,Pistol,8367,2225430,8174,2173965,193,51465,12234,3253850,12012,3194974,221,58876,3,0,,
+2,Druid, Concentration:10 Healing:10 Toughness:10,Arceso Wild Caress,Arceso.8749,Axe,Warhorn,Staff,2Hand,1328,353124,756,200999,572,152125,1912,508493,1134,301514,778,206979,0,0,,
+2,Renegade, Concentration:10,Ares Morgenstern,MissNothing.4720,Sword,Sword,Unknown,Unknown,4892,1301024,4661,1239623,231,61401,7240,1925704,6919,1840339,321,85365,1,0,,
+2,Weaver,,Hackernaut,Infrrod.4763,Sword,Dagger,Unknown,Unknown,7251,1928658,6259,1664800,992,263858,12371,3290280,10890,2896507,1480,393773,2,0,,
+2,Harbinger, Condi:10,Eyshaz,Zancos.6341,Pistol,Dagger,Scepter,Unknown,9660,2569413,1551,412470,8110,2156943,11639,3095774,2069,550275,9571,2545499,2,0,,
+3,Firebrand,,Adriana Scarlet,Zarky.4568,Axe,Torch,Unknown,Unknown,13089,3481395,2474,658087,10615,2823308,18863,5017087,3505,932304,15358,4084783,1,0,,
+3,Berserker,,Kal Tharin,Patriarkus.3785,Axe,Axe,Unknown,Unknown,10131,2694664,9908,2635278,223,59386,12888,3427901,12611,3354160,277,73741,1,0,,
+3,Mechanist, Concentration:10 Healing:10 Toughness:10,Takiyahaashime,RiukiraTB.6103,Unknown,Unknown,Mace,Shield,1957,520402,1786,475012,171,45390,3623,963631,3315,881776,308,81855,1,0,,
+3,Renegade, Condi:10,Kaer Stark,VieeFee.3540,Shortbow,2Hand,Mace,Axe,14168,3768305,2586,687680,11582,3080625,19170,5098767,3821,1016369,15349,4082398,1,0,,
+3,Firebrand, Condi:10,Vynkrea,fernaxv.3249,Scepter,Torch,Axe,Torch,10609,2821666,1726,459146,8883,2362520,16496,4387372,2625,698093,13871,3689279,2,0,,
+
+
+
+
+
+Sub Group,Profession,Name,Critical%,Critical hits,Critical DMG,Scholar%,Scholar hits,Scholar DMG,Scholar % increase,Moving%,Moving Hits,Moving DMG,Moving % increase,Flanking%,Flanking hits,Glancing%,Glancing Hits,Blind%,Blind Hits,Total Hits,Hits to Interupt,Hits Invulned,Time wasted,Time saved,Weapon Swaps,
+2,Daredevil,Doña Sol,97.9,277,1990011,77.9,225,79359.476,4.043,6.6,19,7219.952,0.355,70.6,204,0,0,0,0,319,0,31,3.981,23.979,7,
+2,Druid,Arceso Wild Caress,42.5,48,34292,83.2,94,2373.905,4.152,45.1,51,1075.524,1.839,82.3,93,0,0,0,0,130,0,18,2.954,7.628,23,
+2,Renegade,Ares Morgenstern,85.5,400,1066036,71.4,334,39751.857,3.596,25.6,120,11468.571,1.011,92.3,432,0.2,1,0,0,500,0,54,7.88,19.389,15,
+2,Weaver,Hackernaut,95.9,349,1608937,64.3,241,55671.952,3.498,14.7,55,9234.714,0.564,91.2,342,0,0,0,0,440,0,78,6.495,26.933,56,
+2,Harbinger,Eyshaz,91.6,239,391494,67,175,14027,3.52,13,34,2616.286,0.638,89.3,233,0,0,0,0,285,0,104,6.023,45.148,8,
+3,Firebrand,Adriana Scarlet,80.6,361,574252,81.3,369,25766.81,4.075,25.6,116,7511.333,1.155,95.2,432,0,0,0,0,513,0,90,4.594,45.833,24,
+3,Berserker,Kal Tharin,90.8,324,2540726,77.3,276,97647.571,3.848,14.6,52,12594.667,0.48,86,307,0,0,0,0,397,0,41,1.071,18.312,4,
+3,Mechanist,Takiyahaashime,24.6,16,17724,32.3,21,1013.905,2.147,13.8,9,456,0.954,50.8,33,0,0,0,0,79,0,27,9.869,30.962,29,
+3,Renegade,Kaer Stark,86.2,562,627868,72.9,475,23732.476,3.574,30.2,197,9354.905,1.379,97.5,636,0,0,0,0,675,0,135,8.055,34.465,30,
+3,Firebrand,Vynkrea,61.8,288,336831,68.2,318,15164.143,3.415,24,112,5142.952,1.133,85.2,397,0,0,0,0,514,0,74,1.964,21.569,25,
+
+
+
+
+
+Sub Group,Profession,Name,Critical%,Critical hits,Critical DMG,Scholar%,Scholar hits,Scholar DMG,Scholar % increase,Moving%,Moving Hits,Moving DMG,Moving % increase,Flanking%,Flanking hits,Glancing%,Glancing Hits,Blind%,Blind Hits,Total Hits,Hits to Interupt,Hits Invulned,Time wasted,Time saved,Weapon Swaps,
+2,Daredevil,Doña Sol,93.8,409,2966942,77.9,225,79359.476,4.043,6.6,19,7219.952,0.355,75.1,332,4.8,21,0,0,472,0,31,3.981,23.979,7,
+2,Druid,Arceso Wild Caress,38.3,102,63327,83.2,94,2373.905,4.152,45.1,51,1075.524,1.839,71.8,191,1.5,4,0,0,283,3,18,2.954,7.628,23,
+2,Renegade,Ares Morgenstern,86,621,1593222,71.4,334,39751.857,3.596,25.6,120,11468.571,1.011,79.8,576,3,22,0,0,754,2,54,7.88,19.389,15,
+2,Weaver,Hackernaut,88.9,617,2755777,64.3,241,55671.952,3.498,14.7,55,9234.714,0.564,77.6,555,4.8,34,0,0,780,0,78,6.495,26.933,56,
+2,Harbinger,Eyshaz,87.2,333,507163,67,175,14027,3.52,13,34,2616.286,0.638,82.5,315,0.3,1,0,0,406,0,104,6.023,45.148,8,
+3,Firebrand,Adriana Scarlet,79.6,583,811389,81.3,369,25766.81,4.075,25.6,116,7511.333,1.155,85.8,636,1.2,9,0,0,800,1,90,4.594,45.833,24,
+3,Berserker,Kal Tharin,87.3,507,3218105,77.3,276,97647.571,3.848,14.6,52,12594.667,0.48,68.5,398,4,23,0,0,621,0,41,1.071,18.312,4,
+3,Mechanist,Takiyahaashime,22.6,40,40363,32.3,21,1013.905,2.147,13.8,9,456,0.954,69.5,123,6.2,11,0,0,191,0,27,9.869,30.962,29,
+3,Renegade,Kaer Stark,85,851,920198,72.9,475,23732.476,3.574,30.2,197,9354.905,1.379,87.5,876,2.1,21,0,0,1024,2,135,8.055,34.465,30,
+3,Firebrand,Vynkrea,61.7,460,512254,68.2,318,15164.143,3.415,24,112,5142.952,1.133,71.7,535,2,15,0,0,794,0,74,1.964,21.569,25,
+
+
+
+
+
+Sub Group,Profession,Name,DMG Taken,DMG Barrier,Blocked,Invulned,Evaded,Dodges,
+2,Daredevil,Doña Sol,193930,17523,0,55,1,16,
+2,Druid,Arceso Wild Caress,123174,6052,1,0,3,7,
+2,Renegade,Ares Morgenstern,197635,12627,0,3,2,7,
+2,Weaver,Hackernaut,191642,24567,0,28,2,8,
+2,Harbinger,Eyshaz,216213,19334,0,53,0,3,
+3,Firebrand,Adriana Scarlet,195401,88555,7,26,0,10,
+3,Berserker,Kal Tharin,214366,81521,3,25,2,6,
+3,Mechanist,Takiyahaashime,185964,75292,4,26,0,14,
+3,Renegade,Kaer Stark,222816,85546,2,27,0,9,
+3,Firebrand,Vynkrea,188113,69944,6,55,1,5,
+
+
+
+
+
+Sub Group,Profession,Name,Condi Cleanse,Condi Cleanse time,Condi Cleanse Self,Condi Cleanse time self,Boon Strips,Boon Strips time,Resurrects,Time Resurecting,
+2,Daredevil,Doña Sol,10,2396.4,1,265.973,0,0,5,11.927,
+2,Druid,Arceso Wild Caress,7,1836.357,3,773.94,0,0,6,16.771,
+2,Renegade,Ares Morgenstern,1,265.973,2,531.946,0,0,2,5.73,
+2,Weaver,Hackernaut,1,265.973,0,0,0,0,4,14.067,
+2,Harbinger,Eyshaz,8,2127.784,14,2066.065,2,496.317,0,0,
+3,Firebrand,Adriana Scarlet,57,6617.807,10,789.199,0,0,2,9.09,
+3,Berserker,Kal Tharin,10,2130.267,1,265.973,0,0,1,4.758,
+3,Mechanist,Takiyahaashime,23,4525.629,5,710.429,0,0,1,1.234,
+3,Renegade,Kaer Stark,3,797.919,1,265.973,0,0,2,3.023,
+3,Firebrand,Vynkrea,41,7231.242,6,1040.159,0,0,4,7.185,
+
+
+
+
+
+Name,Avg Boons,Might,Fury,Quickness,Alacrity,Protection,Regeneration,Vigor,Aegis,Stability,Swiftness,Resistance,Resolution,
+Doña Sol,5.444,20.915,99.275%,18.951%,79.243%,85.422%,72.637%,6.533%,2.025%,0.101,27.919%,0,43.033%,
+Arceso Wild Caress,6.384,20.655,99.593%,10.214%,73.867%,94.809%,90.215%,22.046%,3.219%,0.325,99.275%,0.735%,21.193%,
+Ares Morgenstern,6.283,20.245,99.276%,14.479%,99.195%,94.342%,53.075%,89.974%,2.007%,0.034,32.615%,3.727%,36.978%,
+Hackernaut,5.58,21.036,98.233%,9.76%,86.736%,89.896%,54.413%,10.566%,0,0.019,62.676%,0,44.24%,
+Eyshaz,5.401,18.826,84.047%,21.826%,83.727%,86.194%,69.961%,11.258%,0,0,51.401%,1.496%,31.752%,
+Adriana Scarlet,8.807,23.601,99.593%,99.593%,98.39%,99.396%,85.084%,62.895%,45%,1.156,40.478%,3.736%,98.193%,
+Kal Tharin,8.296,21.719,99.183%,96.854%,98.856%,95.768%,79.863%,52.772%,13.148%,1.249,51.617%,4.472%,79.529%,
+Takiyahaashime,8.317,21.601,97.67%,78.381%,91.093%,99.541%,80.941%,66.955%,6.548%,1.016,72.665%,0,98.193%,
+Kaer Stark,8.144,22.401,99.593%,87.164%,98.39%,99.168%,67.658%,87.625%,13.584%,1.119,22.275%,4.472%,88.103%,
+Vynkrea,8.521,22.005,99.593%,99.594%,98.39%,99.011%,80.232%,61.517%,28.211%,1.151,33.728%,3.72%,98.193%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Doña Sol,0.547,0.547,61.993%,61.993%,0,0,0,0,16.537%,16.537%,4.054%,4.054%,0,0,0,0,0,0,0,0,0,0,7.524%,7.524%,
+Arceso Wild Caress,16.575,16.575,62.182%,62.182%,2.252%,2.252%,0,0,41.542%,41.542%,71.837%,71.837%,4.508%,4.508%,0,0,0.148,0.148,88.976%,88.976%,0,0,0,0,
+Ares Morgenstern,0.757,0.757,77.109%,77.109%,0,0,83.096%,83.096%,75.359%,75.359%,1.415%,1.415%,81.84%,81.84%,0,0,0.014,0.014,0,0,0,0,19.801%,19.801%,
+Hackernaut,1.451,1.451,44.5%,44.5%,0,0,0,0,16.603%,16.603%,1.88%,1.88%,0,0,0,0,0.019,0.019,36.781%,36.781%,0,0,6.713%,6.713%,
+Eyshaz,2.719,2.719,32.047%,32.047%,9.388%,9.388%,0,0,16.918%,16.918%,9.767%,9.767%,0,0,0,0,0,0,18.766%,18.766%,0,0,0,0,
+Adriana Scarlet,0.283,0.283,52.901%,52.901%,45.231%,45.231%,0,0,41.573%,41.573%,0,0,0,0,38.307%,38.307%,0.664,0.664,0,0,0,0,62.679%,62.679%,
+Kal Tharin,2.351,2.351,18.811%,18.811%,20.665%,20.665%,0,0,16.438%,16.438%,1.492%,1.492%,0,0,0,0,0,0,11.279%,11.279%,0,0,0,0,
+Takiyahaashime,16.038,16.038,41.358%,41.358%,0,0,74.076%,74.076%,46.468%,46.468%,65.253%,65.253%,62.447%,62.447%,6.548%,6.548%,0.354,0.354,72.665%,72.665%,0,0,26.839%,26.839%,
+Kaer Stark,3.282,3.282,43.474%,43.474%,0,0,13.362%,13.362%,15.671%,15.671%,1.498%,1.498%,57.242%,57.242%,0,0,0,0,0,0,4.472%,4.472%,8.786%,8.786%,
+Vynkrea,3.453,3.453,44.321%,44.321%,75.717%,75.717%,0,0,48.561%,48.561%,2.234%,2.234%,0,0,21.423%,21.423%,0,0,0,0,0,0,59.721%,59.721%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Doña Sol,0,0,0,0,0,0,0,0,0,0,0.188%,0.188%,0,0,0,0,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,13.216,13.216,14.125%,14.125%,0,0,0,0,6.301%,6.301%,47.191%,47.191%,3.944%,3.944%,0,0,0,0,25.888%,25.888%,0,0,0,0,
+Ares Morgenstern,0.48,0.48,0,0,0,0,63.788%,63.788%,48.712%,48.712%,0.354%,0.354%,0,0,0,0,0,0,0,0,0,0,16.273%,16.273%,
+Hackernaut,0.773,0.773,0,0,0,0,0,0,0,0,0.297%,0.297%,0,0,0,0,0,0,0,0,0,0,0,0,
+Eyshaz,1.424,1.424,0,0,0,0,0,0,0,0,0.182%,0.182%,0,0,0,0,0,0,0,0,0,0,0,0,
+Adriana Scarlet,0.305,0.305,37.175%,37.175%,25.624%,25.624%,0,0,19.051%,19.051%,0,0,0,0,0,0,0.659,0.659,0,0,0,0,40.465%,40.465%,
+Kal Tharin,0,0,0,0,0,0,0,0,0,0,0.786%,0.786%,0,0,0,0,0,0,0,0,0,0,0,0,
+Takiyahaashime,13.724,13.724,12.629%,12.629%,0,0,74.04%,74.04%,26.862%,26.862%,46.25%,46.25%,47.78%,47.78%,10.053%,10.053%,0.509,0.509,34.205%,34.205%,0,0,0,0,
+Kaer Stark,2.549,2.549,0,0,0,0,11.115%,11.115%,0,0,1.366%,1.366%,0,0,0,0,0,0,0,0,2.982%,2.982%,3.476%,3.476%,
+Vynkrea,2.371,2.371,23.888%,23.888%,54.369%,54.369%,0,0,23.728%,23.728%,0.166%,0.166%,0,0,0,0,0,0,0,0,0,0,31.398%,31.398%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Doña Sol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,1.53,1.53,0,0,0,0,0,0,4.482%,4.482%,25.195%,25.195%,4.191%,4.191%,0,0,0,0,0,0,0,0,0,0,
+Ares Morgenstern,0.207,0.207,0,0,0,0,11.412%,11.412%,4.64%,4.64%,0.312%,0.312%,0,0,0,0,0,0,0,0,0,0,0.566%,0.566%,
+Hackernaut,0,0,0,0,0,0,0,0,0,0,0.149%,0.149%,0,0,0,0,0,0,0,0,0,0,0,0,
+Eyshaz,0.287,0.287,0,0,0,0,0,0,0,0,0.15%,0.15%,0,0,0,0,0,0,0,0,0,0,0,0,
+Adriana Scarlet,0.011,0.011,12.725%,12.725%,2.744%,2.744%,0,0,5.885%,5.885%,0,0,0,0,0,0,0,0,0,0,0,0,7.706%,7.706%,
+Kal Tharin,0,0,0,0,0,0,0,0,0,0,0.629%,0.629%,0,0,0,0,0,0,0,0,0,0,0,0,
+Takiyahaashime,2.122,2.122,5.752%,5.752%,0,0,13.295%,13.295%,2.554%,2.554%,9.72%,9.72%,7.65%,7.65%,1.45%,1.45%,0.06,0.06,5.163%,5.163%,0,0,0,0,
+Kaer Stark,0.518,0.518,0,0,0,0,3.609%,3.609%,0,0,1.351%,1.351%,0,0,0,0,0,0,0,0,1.192%,1.192%,2.055%,2.055%,
+Vynkrea,0.559,0.559,10.742%,10.742%,9.974%,9.974%,0,0,4.29%,4.29%,0,0,0,0,0,0,0,0,0,0,0,0,5.853%,5.853%,
+
+
+
+
+
+Name,Might,Might Overstack,Fury,Fury Overstack,Quickness,Quickness Overstack,Alacrity,Alacrity Overstack,Protection,Protection Overstack,Regeneration,Regeneration Overstack,Vigor,Vigor Overstack,Aegis,Aegis Overstack,Stability,Stability Overstack,Swiftness,Swiftness Overstack,Resistance,Resistance Overstack,Resolution,Resolution Overstack,
+Doña Sol,0,0,0,0,0,0,0,0,0,0,0.084%,0.084%,0,0,0,0,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,6.724,6.724,6.278%,6.278%,0,0,0,0,5.29%,5.29%,34.971%,34.971%,4.081%,4.081%,0,0,0,0,11.506%,11.506%,0,0,0,0,
+Ares Morgenstern,0.329,0.329,0,0,0,0,34.69%,34.69%,24.228%,24.228%,0.33%,0.33%,0,0,0,0,0,0,0,0,0,0,7.547%,7.547%,
+Hackernaut,0.343,0.343,0,0,0,0,0,0,0,0,0.215%,0.215%,0,0,0,0,0,0,0,0,0,0,0,0,
+Eyshaz,0.793,0.793,0,0,0,0,0,0,0,0,0.165%,0.165%,0,0,0,0,0,0,0,0,0,0,0,0,
+Adriana Scarlet,0.142,0.142,23.591%,23.591%,12.913%,12.913%,0,0,11.737%,11.737%,0,0,0,0,0,0,0.293,0.293,0,0,0,0,22.265%,22.265%,
+Kal Tharin,0,0,0,0,0,0,0,0,0,0,0.699%,0.699%,0,0,0,0,0,0,0,0,0,0,0,0,
+Takiyahaashime,7.278,7.278,8.808%,8.808%,0,0,40.293%,40.293%,13.358%,13.358%,25.956%,25.956%,25.486%,25.486%,5.274%,5.274%,0.259,0.259,18.07%,18.07%,0,0,0,0,
+Kaer Stark,1.421,1.421,0,0,0,0,6.945%,6.945%,0,0,1.358%,1.358%,0,0,0,0,0,0,0,0,1.987%,1.987%,2.686%,2.686%,
+Vynkrea,1.364,1.364,16.584%,16.584%,29.705%,29.705%,0,0,12.929%,12.929%,0.074%,0.074%,0,0,0,0,0,0,0,0,0,0,17.206%,17.206%,
+
+
+
+
+
+Name,Avg Boons,Assassin's Presence,Razorclaw's Rage,Banner of Strength,Banner of Discipline,Ashes of the Just,Frost Spirit,Sun Spirit,Spotter,
+Doña Sol,5.444,98.281%,8.674%,56.792%,56.337%,0.011,69.724%,58.478%,92.409%,
+Arceso Wild Caress,6.384,92.658%,6.607%,54.524%,55.205%,0,77.432%,62.982%,99.215%,
+Ares Morgenstern,6.283,99.426%,4.412%,52.273%,56.336%,0.021,70.841%,58.465%,92.423%,
+Hackernaut,5.58,96.04%,3.178%,51.128%,49.561%,0.009,65.773%,52.837%,87.908%,
+Eyshaz,5.401,97.157%,6.599%,54.522%,56.336%,0,64.073%,58.469%,86.765%,
+Adriana Scarlet,8.807,14.661%,4.113%,55.669%,55.205%,0.299,72.913%,59.577%,11.267%,
+Kal Tharin,8.296,6.768%,3.367%,53.405%,57.462%,0.409,67.259%,57.349%,18.05%,
+Takiyahaashime,8.317,6.768%,8.691%,46.662%,51.823%,0.985,66.116%,53.963%,6.761%,
+Kaer Stark,8.144,23.651%,1.99%,48.883%,56.341%,0.244,68.405%,58.465%,14.651%,
+Vynkrea,8.521,22.53%,3.574%,56.808%,55.205%,0.275,71.993%,56.209%,10.157%,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Razorclaw's Rage,Razorclaw's Rage Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Frost Spirit,Frost Spirit Overstack,Sun Spirit,Sun Spirit Overstack,Spotter,Spotter Overstack,
+Doña Sol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,0,0,0,0,0,0,0,0,77.432%,77.432%,62.982%,62.982%,99.215%,99.215%,
+Ares Morgenstern,99.426%,99.426%,4.288%,4.288%,0,0,0,0,0,0,0,0,0,0,0,0,
+Hackernaut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Eyshaz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Adriana Scarlet,0,0,0,0,0,0,0,0,0.192,0.192,0,0,0,0,0,0,
+Kal Tharin,0,0,0,0,53.405%,53.405%,57.462%,57.462%,0,0,0,0,0,0,0,0,
+Takiyahaashime,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kaer Stark,0,0,1.784%,1.784%,0,0,0,0,0,0,0,0,0,0,0,0,
+Vynkrea,0,0,0,0,0,0,0,0,0.088,0.088,0,0,0,0,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Razorclaw's Rage,Razorclaw's Rage Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Frost Spirit,Frost Spirit Overstack,Sun Spirit,Sun Spirit Overstack,Spotter,Spotter Overstack,
+Doña Sol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,0,0,0,0,0,0,0,0,67.603%,67.603%,57.063%,57.063%,89.876%,89.876%,
+Ares Morgenstern,96.034%,96.034%,4.916%,4.916%,0,0,0,0,0,0,0,0,0,0,0,0,
+Hackernaut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Eyshaz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Adriana Scarlet,0,0,0,0,0,0,0,0,0.316,0.316,0,0,0,0,0,0,
+Kal Tharin,0,0,0,0,52.005%,52.005%,54.644%,54.644%,0,0,0,0,0,0,0,0,
+Takiyahaashime,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kaer Stark,0,0,4.533%,4.533%,0,0,0,0,0,0,0,0,0,0,0,0,
+Vynkrea,0,0,0,0,0,0,0,0,0.167,0.167,0,0,0,0,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Razorclaw's Rage,Razorclaw's Rage Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Frost Spirit,Frost Spirit Overstack,Sun Spirit,Sun Spirit Overstack,Spotter,Spotter Overstack,
+Doña Sol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,0,0,0,0,0,0,0,0,69.337%,69.337%,57.112%,57.112%,12.177%,12.177%,
+Ares Morgenstern,14.875%,14.875%,0.364%,0.364%,0,0,0,0,0,0,0,0,0,0,0,0,
+Hackernaut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Eyshaz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Adriana Scarlet,0,0,0,0,0,0,0,0,0.005,0.005,0,0,0,0,0,0,
+Kal Tharin,0,0,0,0,53.848%,53.848%,54.755%,54.755%,0,0,0,0,0,0,0,0,
+Takiyahaashime,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kaer Stark,0,0,1.104%,1.104%,0,0,0,0,0,0,0,0,0,0,0,0,
+Vynkrea,0,0,0,0,0,0,0,0,0.004,0.004,0,0,0,0,0,0,
+
+
+
+
+
+Name,Assassin's Presence,Assassin's Presence Overstack,Razorclaw's Rage,Razorclaw's Rage Overstack,Banner of Strength,Banner of Strength Overstack,Banner of Discipline,Banner of Discipline Overstack,Ashes of the Just,Ashes of the Just Overstack,Frost Spirit,Frost Spirit Overstack,Sun Spirit,Sun Spirit Overstack,Spotter,Spotter Overstack,
+Doña Sol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,0,0,0,0,0,0,0,0,68.566%,68.566%,57.09%,57.09%,46.71%,46.71%,
+Ares Morgenstern,50.946%,50.946%,2.387%,2.387%,0,0,0,0,0,0,0,0,0,0,0,0,
+Hackernaut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Eyshaz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Adriana Scarlet,0,0,0,0,0,0,0,0,0.143,0.143,0,0,0,0,0,0,
+Kal Tharin,0,0,0,0,53.029%,53.029%,54.706%,54.706%,0,0,0,0,0,0,0,0,
+Takiyahaashime,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Kaer Stark,0,0,2.628%,2.628%,0,0,0,0,0,0,0,0,0,0,0,0,
+Vynkrea,0,0,0,0,0,0,0,0,0.076,0.076,0,0,0,0,0,0,
+
+
+
+
+
+Name,Avg Boons,Breakrazor's Bastion,Eternal Oasis,Water Spirit,Stone Spirit,
+Doña Sol,5.444,10.822%,0,77.954%,65.295%,
+Arceso Wild Caress,6.384,11.203%,0,93.223%,77.447%,
+Ares Morgenstern,6.283,11.912%,0,79.667%,68.138%,
+Hackernaut,5.58,11.071%,0,77.72%,60.279%,
+Eyshaz,5.401,8.975%,0,77.163%,63.074%,
+Adriana Scarlet,8.807,11.074%,3.008%,82.838%,70.175%,
+Kal Tharin,8.296,11.074%,3.008%,83.973%,66.795%,
+Takiyahaashime,8.317,7.377%,3.008%,76.027%,64.542%,
+Kaer Stark,8.144,10.948%,3.008%,83.989%,66.792%,
+Vynkrea,8.521,7.761%,3.008%,77.122%,66.461%,
+
+
+
+
+
+Name,Breakrazor's Bastion,Breakrazor's Bastion Overstack,Eternal Oasis,Eternal Oasis Overstack,Water Spirit,Water Spirit Overstack,Stone Spirit,Stone Spirit Overstack,
+Doña Sol,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,0,0,93.223%,93.223%,77.447%,77.447%,
+Ares Morgenstern,10.423%,10.423%,0,0,0,0,0,0,
+Hackernaut,0,0,0,0,0,0,0,0,
+Eyshaz,0,0,0,0,0,0,0,0,
+Adriana Scarlet,0,0,0,0,0,0,0,0,
+Kal Tharin,0,0,0,0,0,0,0,0,
+Takiyahaashime,0,0,0,0,0,0,0,0,
+Kaer Stark,10.73%,10.73%,0,0,0,0,0,0,
+Vynkrea,0,0,3.008%,3.008%,0,0,0,0,
+
+
+
+
+
+Name,Breakrazor's Bastion,Breakrazor's Bastion Overstack,Eternal Oasis,Eternal Oasis Overstack,Water Spirit,Water Spirit Overstack,Stone Spirit,Stone Spirit Overstack,
+Doña Sol,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,0,0,78.126%,78.126%,64.197%,64.197%,
+Ares Morgenstern,9.712%,9.712%,0,0,0,0,0,0,
+Hackernaut,0,0,0,0,0,0,0,0,
+Eyshaz,0,0,0,0,0,0,0,0,
+Adriana Scarlet,0,0,0,0,0,0,0,0,
+Kal Tharin,0,0,0,0,0,0,0,0,
+Takiyahaashime,0,0,0,0,0,0,0,0,
+Kaer Stark,9.315%,9.315%,0,0,0,0,0,0,
+Vynkrea,0,0,3.008%,3.008%,0,0,0,0,
+
+
+
+
+
+Name,Breakrazor's Bastion,Breakrazor's Bastion Overstack,Eternal Oasis,Eternal Oasis Overstack,Water Spirit,Water Spirit Overstack,Stone Spirit,Stone Spirit Overstack,
+Doña Sol,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,0,0,80.79%,80.79%,66.953%,66.953%,
+Ares Morgenstern,0.049%,0.049%,0,0,0,0,0,0,
+Hackernaut,0,0,0,0,0,0,0,0,
+Eyshaz,0,0,0,0,0,0,0,0,
+Adriana Scarlet,0,0,0,0,0,0,0,0,
+Kal Tharin,0,0,0,0,0,0,0,0,
+Takiyahaashime,0,0,0,0,0,0,0,0,
+Kaer Stark,0.943%,0.943%,0,0,0,0,0,0,
+Vynkrea,0,0,0,0,0,0,0,0,
+
+
+
+
+
+Name,Breakrazor's Bastion,Breakrazor's Bastion Overstack,Eternal Oasis,Eternal Oasis Overstack,Water Spirit,Water Spirit Overstack,Stone Spirit,Stone Spirit Overstack,
+Doña Sol,0,0,0,0,0,0,0,0,
+Arceso Wild Caress,0,0,0,0,79.606%,79.606%,65.728%,65.728%,
+Ares Morgenstern,4.344%,4.344%,0,0,0,0,0,0,
+Hackernaut,0,0,0,0,0,0,0,0,
+Eyshaz,0,0,0,0,0,0,0,0,
+Adriana Scarlet,0,0,0,0,0,0,0,0,
+Kal Tharin,0,0,0,0,0,0,0,0,
+Takiyahaashime,0,0,0,0,0,0,0,0,
+Kaer Stark,4.664%,4.664%,0,0,0,0,0,0,
+Vynkrea,0,0,1.337%,1.337%,0,0,0,0,
+
+
+
+
+
+Name,"Spectral Impact (KB Slam)","Ghastly Prison (Egged)","Spectral Darkness (Stood in Orb AoE)","Kicked by small add","Hit by Black Goo",
+Doña Sol,5,6,0,2,125,
+Arceso Wild Caress,4,0,0,3,150,
+Ares Morgenstern,5,0,0,1,75,
+Hackernaut,4,1,0,2,175,
+Eyshaz,5,1,20,2,125,
+Adriana Scarlet,2,3,0,1,150,
+Kal Tharin,3,2,0,2,175,
+Takiyahaashime,4,2,10,2,100,
+Kaer Stark,3,3,0,0,0,
+Vynkrea,2,0,0,1,100,
+
+
+
+
+
+Time,3.161,3.161,3.161,3.161,13.964,27.211,27.211,27.211,27.212,27.212,27.212,27.212,27.212,27.212,27.212,27.212,27.212,27.212,27.212,27.212,27.213,27.213,27.213,27.213,27.213,27.213,27.213,27.213,27.213,27.213,27.213,27.213,27.213,27.213,27.213,27.213,27.214,27.214,27.214,27.214,27.214,27.214,27.214,27.214,27.214,27.214,27.214,27.214,27.215,27.215,27.215,27.215,27.215,27.215,27.215,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.216,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.217,27.218,27.218,27.218,27.218,27.218,27.218,27.218,27.218,27.218,27.218,27.219,27.219,27.219,27.219,27.219,27.219,27.219,27.219,27.219,27.219,27.219,27.219,27.219,27.219,27.219,27.219,27.219,27.22,27.22,27.22,27.22,27.221,27.221,27.221,27.221,27.221,27.221,27.221,27.221,27.221,27.221,27.221,27.221,27.221,27.221,27.221,27.222,27.222,27.222,27.222,27.222,27.222,27.222,27.222,27.222,27.222,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.23,31.231,31.231,31.231,31.231,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.232,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.233,31.234,31.234,31.234,31.234,31.234,31.234,31.234,31.235,31.235,31.235,31.235,31.236,31.236,31.237,31.237,31.237,31.238,31.238,31.238,31.239,31.239,31.239,31.239,31.239,31.239,31.24,31.24,31.24,31.24,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.241,31.242,31.242,31.242,31.242,31.242,31.242,31.242,31.242,31.242,31.242,31.242,31.242,31.242,31.242,31.242,31.242,31.243,31.243,31.243,31.243,31.243,31.243,31.243,31.243,31.243,31.243,31.243,31.244,31.244,31.244,31.244,31.244,31.244,31.244,31.244,31.244,31.244,31.244,31.244,31.245,31.245,31.245,31.245,31.245,31.245,31.245,31.245,31.245,31.245,31.245,31.245,31.245,31.247,31.247,31.247,31.247,31.247,31.247,31.247,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.248,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,31.249,33.825,39.21,39.21,39.211,39.211,44.976,45.039,45.301,45.302,45.302,47.316,48.805,49.8,50.576,51.244,52.782,52.782,52.782,52.783,52.784,96.904,96.904,96.904,96.904,96.904,96.904,96.904,96.905,96.905,112.029,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.296,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.297,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.298,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.299,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.3,121.301,121.301,121.301,121.301,121.301,121.301,121.301,121.301,121.302,121.302,121.302,121.302,121.302,121.302,121.302,121.302,121.302,121.302,121.302,121.303,121.303,121.303,121.303,121.303,121.303,121.303,121.303,121.303,121.303,121.303,121.303,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.253,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.254,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.255,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.256,125.257,125.257,125.257,125.257,125.257,125.257,125.257,125.257,125.258,125.258,125.258,125.258,125.258,125.258,125.259,125.259,125.259,125.259,125.259,125.259,125.259,125.259,125.26,125.26,125.26,125.26,125.261,125.261,125.261,125.261,125.261,125.262,125.262,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.263,125.264,129.302,129.302,129.302,129.302,129.302,129.302,129.302,129.302,129.302,129.303,129.303,129.303,129.303,129.303,129.303,129.303,129.303,129.303,129.303,129.303,129.303,129.303,129.303,129.303,129.303,129.304,129.304,129.304,129.304,129.304,129.304,129.304,129.304,129.304,129.304,129.305,129.305,129.305,129.305,129.306,129.306,129.306,129.307,129.307,129.308,129.308,129.308,129.308,129.308,129.308,129.31,129.31,129.31,129.31,129.31,129.31,129.31,129.31,129.31,129.31,129.311,129.311,129.311,129.311,129.311,129.311,129.311,129.311,129.311,129.311,129.312,129.312,129.312,129.312,129.312,129.312,129.312,129.312,129.312,129.312,129.312,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.313,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.314,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.315,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.316,129.317,129.317,129.317,129.317,129.317,129.317,129.317,129.317,129.317,129.317,129.317,129.317,129.317,129.318,129.318,129.318,129.318,129.318,129.318,129.318,129.318,129.318,129.318,129.318,129.318,129.318,129.318,129.319,129.319,129.319,129.319,129.319,129.319,129.319,129.319,129.319,129.319,129.319,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.32,129.321,129.321,129.321,129.339,129.943,130.682,132.309,132.309,132.309,132.309,132.309,132.309,132.309,132.309,132.309,132.309,132.309,132.309,132.309,132.309,132.309,132.309,132.309,132.31,132.31,132.31,132.31,132.31,132.31,132.31,132.31,132.31,132.31,132.31,132.31,132.31,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.311,132.35,132.35,132.35,132.35,132.35,132.35,132.35,133.476,136.193,138.539,139.154,140.099,140.813,141.683,141.683,141.683,141.683,141.683,141.683,141.684,141.684,141.684,142.94,143.447,143.447,143.727,143.74,143.939,144.739,144.789,145.001,145.416,145.44,145.838,146.235,147.26,148.892,149.237,149.291,149.682,150.794,151.369,151.643,154.442,173.287,178.839,178.839,178.839,178.839,178.84,178.84,178.84,178.84,178.84,178.84,181.966,204.847,204.847,204.847,204.847,204.848,204.848,208.85,208.85,208.85,208.85,208.85,208.85,208.85,208.85,208.85,208.85,209.833,209.833,209.833,209.833,209.833,209.833,209.833,209.833,209.833,209.833,212.036,212.038,212.039,212.042,212.045,212.047,212.05,212.052,220.494,225.757,225.757,225.757,225.757,225.757,225.757,225.757,225.757,225.758,225.758,225.758,225.758,225.758,225.758,225.758,225.758,225.758,225.758,225.758,225.758,225.758,225.758,225.758,225.758,225.758,225.841,225.841,225.841,226.625,229.444,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.749,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.75,229.751,229.751,229.751,229.751,229.751,229.751,229.752,229.752,229.752,229.752,229.752,229.752,229.752,229.752,229.752,229.752,229.752,229.752,229.753,229.753,229.753,229.753,229.753,229.753,229.753,229.753,229.753,229.753,229.753,229.753,229.753,229.753,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.754,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.755,229.756,229.756,229.756,229.756,229.756,229.756,229.756,229.756,229.756,229.756,229.756,229.756,229.756,229.756,229.756,229.758,229.759,229.759,229.759,229.759,229.759,229.759,229.759,229.759,229.759,229.76,229.76,229.76,229.76,229.76,229.76,229.76,229.76,229.76,229.76,229.76,229.76,229.761,229.761,229.761,230.01,230.182,231.277,232.13,233.75,233.75,233.75,233.75,233.75,233.75,233.75,233.75,233.75,233.75,233.75,233.751,233.751,233.751,233.751,233.751,233.751,233.751,233.751,233.751,233.751,233.751,233.751,233.751,233.751,233.945,234.657,235.085,236.24,242.576,246.681,246.682,246.684,246.686,246.687,246.688,246.689,246.69,246.692,246.694,249.208,249.208,249.208,249.208,249.209,249.209,251.838,252.349,253.62,266.855,266.855,266.855,266.855,266.855,266.855,266.855,266.855,266.855,266.855,
+Player,Takiyahaashime,Kal Tharin,Hackernaut,Arceso Wild Caress,Gorseval el Múltiple,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Doña Sol,Arceso Wild Caress,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Adriana Scarlet,Hackernaut,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Doña Sol,Kal Tharin,Vynkrea,Vynkrea,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Eyshaz,Eyshaz,Eyshaz,Arceso Wild Caress,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Arceso Wild Caress,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Hackernaut,Hackernaut,Hackernaut,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Gorseval el Múltiple,Eyshaz,Ares Morgenstern,Hackernaut,Doña Sol,Doña Sol,Doña Sol,Eyshaz,Arceso Wild Caress,Hackernaut,Hackernaut,Vynkrea,Vynkrea,Takiyahaashime,Doña Sol,Doña Sol,Hackernaut,Eyshaz,Ares Morgenstern,Arceso Wild Caress,Kal Tharin,Doña Sol,Adriana Scarlet,Arceso Wild Caress,Eyshaz,Vynkrea,Kaer Stark,Takiyahaashime,Ares Morgenstern,Gorseval el Múltiple,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Adriana Scarlet,Kal Tharin,Kal Tharin,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Eyshaz,Eyshaz,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Kal Tharin,Hackernaut,Kal Tharin,Kal Tharin,Kal Tharin,Hackernaut,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Hackernaut,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Hackernaut,Hackernaut,Doña Sol,Doña Sol,Hackernaut,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Kal Tharin,Adriana Scarlet,Kal Tharin,Kal Tharin,Adriana Scarlet,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Doña Sol,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Kaer Stark,Ares Morgenstern,Doña Sol,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Arceso Wild Caress,Ares Morgenstern,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Ares Morgenstern,Doña Sol,Hackernaut,Eyshaz,Adriana Scarlet,Kal Tharin,Takiyahaashime,Vynkrea,Arceso Wild Caress,Gorseval el Múltiple,Kaer Stark,Arceso Wild Caress,Arceso Wild Caress,Kaer Stark,Doña Sol,Eyshaz,Adriana Scarlet,Kaer Stark,Kal Tharin,Vynkrea,Takiyahaashime,Arceso Wild Caress,Ares Morgenstern,Doña Sol,Doña Sol,Kaer Stark,Arceso Wild Caress,Adriana Scarlet,Vynkrea,Eyshaz,Adriana Scarlet,Doña Sol,Vynkrea,Ares Morgenstern,Kal Tharin,Hackernaut,Vynkrea,Kal Tharin,Hackernaut,Arceso Wild Caress,Doña Sol,Ares Morgenstern,Vynkrea,Takiyahaashime,Hackernaut,Arceso Wild Caress,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Kal Tharin,Doña Sol,Ares Morgenstern,Hackernaut,Takiyahaashime,Arceso Wild Caress,Kal Tharin,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Adriana Scarlet,Kaer Stark,Hackernaut,Doña Sol,Adriana Scarlet,Adriana Scarlet,Takiyahaashime,Kal Tharin,Gorseval el Múltiple,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Doña Sol,Eyshaz,Vynkrea,Hackernaut,Doña Sol,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Takiyahaashime,Takiyahaashime,Takiyahaashime,Hackernaut,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Hackernaut,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Takiyahaashime,Hackernaut,Hackernaut,Takiyahaashime,Adriana Scarlet,Adriana Scarlet,Takiyahaashime,Adriana Scarlet,Takiyahaashime,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Eyshaz,Eyshaz,Eyshaz,Adriana Scarlet,Eyshaz,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Adriana Scarlet,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Eyshaz,Kal Tharin,Eyshaz,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Eyshaz,Arceso Wild Caress,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Kal Tharin,Arceso Wild Caress,Kal Tharin,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Arceso Wild Caress,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Vynkrea,Adriana Scarlet,Hackernaut,Arceso Wild Caress,Doña Sol,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Hackernaut,Vynkrea,Ares Morgenstern,Hackernaut,Eyshaz,Gorseval el Múltiple,Doña Sol,Takiyahaashime,Doña Sol,Kaer Stark,Kaer Stark,Eyshaz,Doña Sol,Doña Sol,Doña Sol,Kal Tharin,Doña Sol,Takiyahaashime,Hackernaut,Eyshaz,Ares Morgenstern,Kaer Stark,Eyshaz,Takiyahaashime,Adriana Scarlet,Doña Sol,Arceso Wild Caress,Ares Morgenstern,Hackernaut,Eyshaz,Adriana Scarlet,Kal Tharin,Takiyahaashime,Kaer Stark,Vynkrea,
+Mechanic,"Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Ghastly Rampage (Breakbar broken)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Kicked by small add","Downed","Kicked by small add","Kicked by small add","Kicked by small add","Res","Res","Res","Res","Got up","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Downed","Downed","Res","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Downed","Downed","Downed","Downed","Downed","Downed","Downed","Res","Ghastly Rampage (Full duration)","Got up","Res","Res","Res","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Got up","Res","Res","Res","Got up","Got up","Got up","Res","Res","Res","Got up","Got up","Got up","Kicked by small add","Res","Downed","Res","Res","Res","Res","Got up","Got up","Kicked by small add","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Kicked by small add","Kicked by small add","Kicked by small add","Kicked by small add","Kicked by small add","Kicked by small add","Kicked by small add","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Spectral Darkness (Stood in Orb AoE)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Rampage (Breakbar)","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Downed","Downed","Downed","Res","Got up","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Res","Res","Res","Res","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Hit by Black Goo","Got up","Res","Res","Got up","Ghastly Rampage (Full duration)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Ghastly Prison (Egged)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Spectral Impact (KB Slam)","Kicked by small add","Kicked by small add","Kicked by small add","Dead","Dead","Dead","Dead","Dead","Dead","Dead","Dead","Dead","Dead",
+
+
+
+
+
+
+
+
+
+
+
+
+Name,Avg,Bleeding,Burning,Confusion,Poison,Torment,Blind,Chilled,Crippled,Fear,Immobile,Slow,Weakness,Vulnerability,
+Gorseval el Múltiple,8,21.619,35.149,5.418,5.259,28.426,59.355%,57.823%,71.607%,2.66%,22.165%,55.195%,72.798%,15.114,
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name,Bleeding,Bleeding Overstack,Burning,Burning Overstack,Confusion,Confusion Overstack,Poison,Poison Overstack,Torment,Torment Overstack,Blind,Blind Overstack,Chilled,Chilled Overstack,Crippled,Crippled Overstack,Fear,Fear Overstack,Immobile,Immobile Overstack,Slow,Slow Overstack,Weakness,Weakness Overstack,Vulnerability,Vulnerability Overstack,
+Doña Sol,0.015,0.015,0.524,0.524,0,0,0.361,0.361,0,0,2.737%,2.737%,0,0,0%,0%,0,0,3.762%,3.762%,4.515%,4.515%,35.81%,35.81%,0.854,0.854,
+Arceso Wild Caress,0.57,0.57,0.222,0.222,3.919,3.919,0,0,0.604,0.604,5.685%,5.685%,6.039%,6.039%,6.753%,6.753%,0,0,12.366%,12.366%,3.101%,3.101%,0%,0%,0.144,0.144,
+Ares Morgenstern,0.751,0.751,0.429,0.429,0,0,0,0,0,0,0,0,25.82%,25.82%,15.833%,15.833%,0,0,3.346%,3.346%,0,0,0,0,3.248,3.248,
+Hackernaut,0.395,0.395,3.005,3.005,0,0,0,0,0.03,0.03,1.128%,1.128%,6.415%,6.415%,1.444%,1.444%,0,0,0,0,0,0,2.647%,2.647%,0.885,0.885,
+Eyshaz,7.093,7.093,1.187,1.187,0,0,3.56,3.56,11.853,11.853,22.077%,22.077%,7.913%,7.913%,7.318%,7.318%,2.66%,2.66%,0,0,0,0,18.854%,18.854%,7.722,7.722,
+Adriana Scarlet,1.941,1.941,13.712,13.712,0,0,0,0,1.595,1.595,7.768%,7.768%,4.27%,4.27%,17.227%,17.227%,0,0,0,0,0,0,0.436%,0.436%,0,0,
+Kal Tharin,0,0,0.601,0.601,0,0,0,0,0,0,0,0,0,0,2.647%,2.647%,0,0,0,0,0,0,0,0,1.202,1.202,
+Takiyahaashime,0.068,0.068,0.428,0.428,1.499,1.499,0,0,0.015,0.015,3.309%,3.309%,6.482%,6.482%,0,0,0,0,0,0,0,0,3.203%,3.203%,0.189,0.189,
+Kaer Stark,9.505,9.505,4.5,4.5,0,0,1.337,1.337,14.329,14.329,10.763%,10.763%,0.886%,0.886%,9.669%,9.669%,0,0,0,0,39.386%,39.386%,6.163%,6.163%,0.756,0.756,
+Vynkrea,1.281,1.281,10.542,10.542,0,0,0,0,0,0,5.887%,5.887%,0,0,10.718%,10.718%,0,0,2.69%,2.69%,8.193%,8.193%,5.685%,5.685%,0.113,0.113,
+
+
+
+
+
+Name,Avg,Might,Fury,Quickness,Alacrity,Protection,Regeneration,Vigor,Aegis,Stability,Swiftness,Resistance,Resolution,
+Gorseval el Múltiple,0,0,0,0,0,11.248%,0,0,0,0,0,0,
+
+
+
+
+
+
+
+
+
+
+
+
+
