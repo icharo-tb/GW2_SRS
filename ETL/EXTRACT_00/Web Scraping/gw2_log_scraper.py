@@ -54,8 +54,17 @@ with open(f'{bossName}.json', 'w') as f:
     print('Done!')
 #--------------------------------------------------------
 
+# Since we have 7 wings and therefore, a lot of bosses, we can speed up the path saving proccess
+    # We will set the path based on a condition or few conditions:
+        # We need to first split the bossName variable string and get the boss name (luckily, on both urls, the boss name is stored on the pos[1])
+        # After that, we read the name of the file and set a saving path for it
+
+tag = bossName.split('_')
+bossTag = tag[1]
+#--------------------------------------------------------
+
 # From here and under we can see different approaches that didn't work as expected
-# They were a great help to learn 
+# Nonetheless, they were a great way to learn
 
     # with open('vg_kill.json', 'w') as f:
     #     jsonFile = f.write(dataString)
