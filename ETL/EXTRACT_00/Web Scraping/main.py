@@ -83,4 +83,9 @@ def log_scrape(url):
 pass
 #--------------------------------------------------------
 
-print(log_scrape('https://gw2wingman.nevermindcreations.de/logContent/20220829-102116_prlqadim_kill'))
+# with open('gw2_urls.txt', 'r') as urls:
+#     for url in urls:
+#         log_scrape(url)
+#--------------------------------------------------------
+
+print(log_scrape('https://dps.report/U9vZ-20220903-212233_sh'))
