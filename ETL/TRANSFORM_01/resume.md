@@ -4,5 +4,7 @@
 
 
 **Workflow**
-- Transform and analysis as well as cleaning of non-necessary data from JSON files
-- Sorting of boss data
+- Cleaning of JSON files
+- Analysing data gathered from the logs transformations
+- Getting clean data into formats such as csv or clean JSONs
+- Sorting boss clean data
