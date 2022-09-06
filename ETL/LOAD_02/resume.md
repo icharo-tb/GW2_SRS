@@ -5,4 +5,5 @@
 
 **Workflow**
 - Load JSON data to MongoDB database using PyMongo connection and an Atlas Cluster
+- Load CSV files into MySQL database
 - Loading of data per boss on different collections
