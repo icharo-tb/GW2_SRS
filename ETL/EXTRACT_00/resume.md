@@ -5,5 +5,5 @@
 
 **Workflow**
 - Extraction of JSON data via Web Scraping on GW2 Wingman webpage
-- Sort of boss logs
-- Files on Gorseval folder are the original .zevtc files from Elite Insights API
+- Sorting boss logs
+- Extra: Files on Gorseval folder are the original .zevtc files from Elite Insights API
