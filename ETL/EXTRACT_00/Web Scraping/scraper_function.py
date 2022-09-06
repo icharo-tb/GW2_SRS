@@ -24,7 +24,7 @@ def log_scrape(url):
     except Exception as e:
         return f'Error: {str(e)}'
 
-    pathName = r'ETL\EXTRACT_00\Web Scraping\Boss_data'
+    pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data' 
 
     with open(f'{pathName}\{bossName}.json', 'w') as f:
         for line in logData:
@@ -33,4 +33,4 @@ def log_scrape(url):
 pass
 #--------------------------------------------------------
 
-print(log_scrape('https://gw2wingman.nevermindcreations.de/logContent/20220905-131322_matt_kill'))
+print(log_scrape('https://gw2wingman.nevermindcreations.de/logContent/20220823-232523_kc_kill'))
