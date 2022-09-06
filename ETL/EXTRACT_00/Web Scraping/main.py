@@ -71,7 +71,7 @@ def log_scrape(url):
             pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Cardinal_Adina'
         elif bossTag == 'sabir':
             pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Cardinal_Sabir'
-        elif bossTag == 'prlqadim':
+        elif bossTag == 'prlqadim' or bossTag == 'qpeer':
             pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Qadim_The_Peerless'
     except:
         pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data' 
@@ -88,4 +88,4 @@ pass
 #         log_scrape(url)
 #--------------------------------------------------------
 
-print(log_scrape('https://dps.report/U9vZ-20220903-212233_sh'))
+print(log_scrape('https://dps.report/NCGe-20220825-155811_qpeer'))
