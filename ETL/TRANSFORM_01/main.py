@@ -62,9 +62,15 @@ def store_data():
         }
     }
 
+    # JSON generator (MongoDB)
+    pathName = 'ETL\TRANSFORM_01\Players_info'
+
+    jsonString = json.dumps(stats_dict)
+    with open(f"{pathName}\player_stats.json", 'w') as f:
+        f.write(jsonString)
+    
     df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps'])
 
-    pathName = 'ETL\TRANSFORM_01\Players_info'
     df.to_csv(f"{pathName}\player_stats.csv",index=True)
 
     return 'Success!'

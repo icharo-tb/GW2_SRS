@@ -1,0 +1,88 @@
+{
+    "players": {
+        "group": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
+        "account": [
+            "Lemos.8360",
+            "Brando.1374",
+            "lPRATESl.6931",
+            "Andarck.5610",
+            "The Optional.1538",
+            "Saiki.5147",
+            "Yum.8039",
+            "skyrim.9602",
+            "Nanacio.1602",
+            "Carvalho.6382"
+        ],
+        "names": [
+            "Paiani",
+            "Xxkakarot",
+            "Headshot Free",
+            "Saiku Goldmane",
+            "Deutschlad",
+            "Isadora Sunspear",
+            "F L O R I \u00c4 N",
+            "Exxcelsiorr",
+            "Nanacia",
+            "Carvalhoooo"
+        ],
+        "profession": [
+            "Scourge",
+            "Specter",
+            "Firebrand",
+            "Renegade",
+            "Scourge",
+            "Druid",
+            "Mechanist",
+            "Mechanist",
+            "Firebrand",
+            "Firebrand"
+        ],
+        "phase_1_dps": [
+            20839.87,
+            26297.25,
+            2650.21,
+            17522.65,
+            22235.98,
+            4086.43,
+            36023.57,
+            29339.29,
+            20514.68,
+            18611.69
+        ],
+        "phase_2_dps": [
+            13824.25,
+            23995.65,
+            3609.08,
+            14295.04,
+            22041.74,
+            3632.51,
+            35294.09,
+            30220.51,
+            20125.91,
+            17686.14
+        ],
+        "phase_3_dps": [
+            21871.59,
+            25639.74,
+            2906.5,
+            11729.82,
+            25958.95,
+            4939.54,
+            41721.66,
+            37518.59,
+            21492.74,
+            18464.22
+        ]
+    }
+}
