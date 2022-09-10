@@ -92,8 +92,4 @@
 **Wing_7**
 - **Adina:** Phase_1,Phase_2, Phase_3, Phase_4
 - **Sabir:** Phase_1, Phase_2, Phase_3
-<<<<<<< HEAD
 - **Qadim_2:** Phase_1,Phase_2, Phase_3, Phase_4, Phase_5, Phase_6
-=======
-- **Qadim_2:** Phase_1,Phase_2, Phase_3, Phase_4, Phase_5, Phase_6
->>>>>>> 4f00d072ec84c083db32ab2cdd0e59ba012fdc44
