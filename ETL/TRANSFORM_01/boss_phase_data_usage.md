@@ -63,33 +63,33 @@
 #### Phases-to-Use:
 
 **Wing_1**
-    - **VG, Gorseval:** Phase_1, Phase_2, Phase_3
-    - **Sabetha:** Phase_1,Phase_2, Phase_3, Phase_4
+- **VG, Gorseval:** Phase_1, Phase_2, Phase_3
+- **Sabetha:** Phase_1,Phase_2, Phase_3, Phase_4
 
 **Wing_2**
-    - **Sloth:** Phase_1,Phase_2, Phase_3, Phase_4, Phase_5, Phase_6
-    - **Matthias:** Ice_phase, Fire_phase, Storm_phase, Abomination_phase
+- **Sloth:** Phase_1,Phase_2, Phase_3, Phase_4, Phase_5, Phase_6
+- **Matthias:** Ice_phase, Fire_phase, Storm_phase, Abomination_phase
 
 **Wing_3**
-    - **KC:** Phase_1, Phase_2, Phase_3
-    - **Xera:** Phase_1, Phase_2
+- **KC:** Phase_1, Phase_2, Phase_3
+- **Xera:** Phase_1, Phase_2
 
 **Wing_4**
-    - **Cairn:** Full_fight (divided by match time)
-    - **Mursaat:** 100%-75%, 75%-50%, 50%-25%, 25%-0%
-    - **Samarog:** Phase_1, Phase_2, Phase_3
-    - **Deimos:** 100%-10%, 10%-0%
+- **Cairn:** Full_fight (divided by match time)
+- **Mursaat:** 100%-75%, 75%-50%, 50%-25%, 25%-0%
+- **Samarog:** Phase_1, Phase_2, Phase_3
+- **Deimos:** 100%-10%, 10%-0%
 
 **Wing_5**
-    - **SH_Deesmina:** Pre-Breakbar_1, Pre-Breakbar_2, Pre-Breakbar_3, Final
-    - **Dhuum:** Main_fight, Dhuum_fight, Ritual
+- **SH_Deesmina:** Pre-Breakbar_1, Pre-Breakbar_2, Pre-Breakbar_3, Final
+- **Dhuum:** Main_fight, Dhuum_fight, Ritual
 
 **Wing_6**
-    - **CA:** All 3 Burn_phases
-    - **Twin_Largos:** Nikare_P1, Kenut_P1, Nikare_P2, Kenut_P2, Nikare_P3, Kenut_P3
-    - **Qadim_1:** Qadim_P1, Qadim_P2, Qadim_P3
+- **CA:** All 3 Burn_phases
+- **Twin_Largos:** Nikare_P1, Kenut_P1, Nikare_P2, Kenut_P2, Nikare_P3, Kenut_P3
+- **Qadim_1:** Qadim_P1, Qadim_P2, Qadim_P3
 
 **Wing_7**
-    - **Adina:** Phase_1,Phase_2, Phase_3, Phase_4
-    - **Sabir:** Phase_1, Phase_2, Phase_3
-    - **Qadim_2:** Phase_1,Phase_2, Phase_3, Phase_4, Phase_5, Phase_6
+- **Adina:** Phase_1,Phase_2, Phase_3, Phase_4
+- **Sabir:** Phase_1, Phase_2, Phase_3
+- **Qadim_2:** Phase_1,Phase_2, Phase_3, Phase_4, Phase_5, Phase_6
