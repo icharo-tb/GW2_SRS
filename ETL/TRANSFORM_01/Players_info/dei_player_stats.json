@@ -1,0 +1,82 @@
+{
+    "players": {
+        "group": [
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            51
+        ],
+        "account": [
+            "Fennec.2961",
+            "Poolstar.9341",
+            "tyrro.2794",
+            "Arcalax.8950",
+            "catalinco.6850",
+            "Anatolian Turk.4057",
+            "Strado.4351",
+            "Raiput.1403",
+            "osanj.8432",
+            "banime.2469",
+            "Saul D'Alessio"
+        ],
+        "names": [
+            "F\u00e6nnec",
+            "Poolguard",
+            "Pintaliit\u00e4j\u00e4",
+            "Sakkokkino",
+            "Plaguearise",
+            "Hey What Was That",
+            "Almost Clean Clear",
+            "Livia Zoldyck",
+            "Khalvex Forgebound",
+            "Lisanna Darkheart",
+            "Saul D'Alessio"
+        ],
+        "profession": [
+            "Tempest",
+            "Firebrand",
+            "Virtuoso",
+            "Mechanist",
+            "Scourge",
+            "Specter",
+            "Firebrand",
+            "Mechanist",
+            "Mechanist",
+            "Specter",
+            "NPC"
+        ],
+        "100 - 10%": [
+            590.45,
+            2641.94,
+            27801.31,
+            9212.68,
+            12260.36,
+            19810.1,
+            20806.83,
+            24718.12,
+            4228.97,
+            27291.61,
+            0.0
+        ],
+        "10 - 0%": [
+            102.45,
+            3685.43,
+            20326.55,
+            7901.48,
+            8646.8,
+            16731.67,
+            9362.9,
+            30807.16,
+            3400.14,
+            23612.26,
+            0.0
+        ]
+    }
+}
