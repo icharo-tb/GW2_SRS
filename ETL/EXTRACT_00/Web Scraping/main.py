@@ -83,9 +83,10 @@ def log_scrape(url):
 pass
 #--------------------------------------------------------
 
-# with open('gw2_urls.txt', 'r') as urls:
+# with open('gw2_urls.txt', 'r') as f:
+#     urls = f.readlines()
 #     for url in urls:
-#         log_scrape(url)
+#         print(log_scrape(url))
 #--------------------------------------------------------
 
 print(log_scrape('https://dps.report/NCGe-20220825-155811_qpeer'))
