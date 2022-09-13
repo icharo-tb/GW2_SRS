@@ -21,23 +21,29 @@
 - [Route](#route)
   - [Extraction](#extract-of-data)
   - [Transform](#transforming-data)
+  - [Load](#loading-data)
 - [Tools Used](#tools-used)
 
 ### Route
 ##### Extract of Data
 - Getting data from ARC Dps tool as .zevtc files (log files).
 - Parsing .zevtc files to csv/json using [Elite Insights](https://github.com/baaron4/GW2-Elite-Insights-Parser "Elite Insights") tool from GitHub user [baaron4](https://github.com/baaron4 "baaron4").
-- Web Scraping data of different bosses from GW2 Wingman.
+- Web Scraping data of different bosses from [GW2 Wingman](https://gw2wingman.nevermindcreations.de/home) website.
 
 ##### Transforming Data
 - Working with Microsoft Excel and [CSVed](https://csved.sjfrancke.nl/ "CSVed") to get usefull and clean .csv files for data management.
 - Use of Jupyter Notebooks, Python and Pandas for data analysis.
+- Use of pandas to read JSON files and sort boss information
 - Use of python libraries to create KPIs: Matplotlib, Seaborn...
+
+##### Loading Data
+- Main connection to MongoDB
+- Secondary connections to MySQL and PostgreSQL
 
 ### Tools used
 
 - [EditorMD](https://pandao.github.io/editor.md/en.html "EditorMD") from [Pandao](https://github.com/pandao)
 - Python
-  - BeautifulSoup, Selenium, requests
-  - Pandas, Jupyter Notebooks
+  - Web Scraping: BeautifulSoup, Selenium, requests
+  - Transformation and analysis: Pandas, Jupyter Notebooks
 - VS Code
