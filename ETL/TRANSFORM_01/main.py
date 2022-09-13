@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import sys
+import pymongo
 
 def store_data(file):
 
@@ -679,9 +680,9 @@ def store_data(file):
                 dhuum_fight_dps.append(round(dhuum_raw/dhuum_fight_time,2))
                 
             # Ritual
-            ritual = data['phases'][12]['dpsStats']
+            ritual = data['phases'][10]['dpsStats']
 
-            ritual_time_raw = data['phases'][12]['duration']
+            ritual_time_raw = data['phases'][10]['duration']
             ritual_time = round(ritual_time_raw/1000,1)
 
             for dps in ritual:
@@ -1099,8 +1100,19 @@ def store_data(file):
     
     df.to_csv(f"{pathName}\{nameTag}_player_stats.csv",index=True)
 
-    return 'Success!'
+    try:
+        client = pymongo.MongoClient('mongodb://localhost:27017/')
+    except Exception as e:
+        print('Connection could not be done' + str(e))
+        sys.exit()
+
+    db = client['GW2_SRS']
+    collection = db['players_info']
+
+    mongo_insert = collection.insert_one(stats_dict)
+
+    return 'Success!' + str(mongo_insert)
 pass
 
-print(store_data(r'C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Deimos\20220901-145057_dei_kill.json'))
+print(store_data(r'C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_5\Dhuum\20220831-204728_dhuum_kill.json'))
 # It should not need relative path, but it can sometimes lead to error if it is not used

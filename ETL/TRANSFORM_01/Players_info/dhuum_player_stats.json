@@ -1,0 +1,88 @@
+{
+    "players": {
+        "group": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
+        "account": [
+            "Tellix.3689",
+            "Necrolia.6218",
+            "Amelia.2079",
+            "DasBannane.6720",
+            "Speedy.5802",
+            "Raven.9085",
+            "Not Diablo.2159",
+            "Townuri.9530",
+            "bullitt.3574",
+            "Anderson.9172"
+        ],
+        "names": [
+            "Mia Tavy",
+            "Necrolie",
+            "Aerith Calaera",
+            "Lahyde",
+            "Cant Do Dps",
+            "Madora Fay",
+            "Dodgen Ist Dmg Loss",
+            "Achaemenid Empire",
+            "Bullitts N Bombs",
+            "Kimara Riftstride"
+        ],
+        "profession": [
+            "Druid",
+            "Chronomancer",
+            "Virtuoso",
+            "Virtuoso",
+            "Daredevil",
+            "Tempest",
+            "Holosmith",
+            "Harbinger",
+            "Mechanist",
+            "Herald"
+        ],
+        "Main_fight_dps": [
+            858.18,
+            1474.15,
+            19324.23,
+            24139.77,
+            20058.86,
+            2948.91,
+            24310.01,
+            17342.91,
+            21953.2,
+            8588.38
+        ],
+        "Dhuum_fight_dps": [
+            919.12,
+            1718.13,
+            22868.54,
+            27898.95,
+            23640.71,
+            3417.85,
+            28442.58,
+            19779.4,
+            25983.2,
+            9666.54
+        ],
+        "Ritual_dps": [
+            1994.72,
+            1902.75,
+            20577.53,
+            33741.74,
+            22743.76,
+            4015.62,
+            30185.45,
+            26418.93,
+            23998.54,
+            14840.51
+        ]
+    }
+}
