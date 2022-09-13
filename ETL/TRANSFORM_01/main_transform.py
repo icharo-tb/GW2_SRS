@@ -1090,19 +1090,25 @@ def store_data(file):
         print('Error' + str(e))
         sys.exit()
     
-    # Random number generator to avoid overwrite
-    ran_num = random.randint(0,1000)
+    # Random id generator to avoid overwriting
+    numbers = '1234567890'
+    letters = 'abcdefghijklmnopqrstuvwxyz'
+
+    chars = numbers + letters
+
+    sample_lines = random.sample(chars,10)
+    id_line = ''.join(sample_lines)
 
     # JSON generator (MongoDB)
     pathName = 'ETL\TRANSFORM_01\Players_info'
 
     jsonString = json.dumps(stats_dict)
-    with open(f"{pathName}\{ran_num}_{nameTag}_player_stats.json", 'w') as f:
+    with open(f"{pathName}\{id_line}_{nameTag}_player_stats.json", 'w') as f:
         f.write(jsonString)
     
     # CSV generator (MySQL, PostgreSQL)
     
-    df.to_csv(f"{pathName}\{ran_num}_{nameTag}_player_stats.csv",index=True)
+    df.to_csv(f"{pathName}\{id_line}_{nameTag}_player_stats.csv",index=True)
 
     try:
         client = pymongo.MongoClient('mongodb://localhost:27017/')
@@ -1118,5 +1124,5 @@ def store_data(file):
     return 'Success!' + str(mongo_insert)
 pass
 
-print(store_data(r'C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_5\Dhuum\20220831-204728_dhuum_kill.json'))
+print(store_data(r'C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_1\Valley_Guardian\20220906-161554_vg_kill.json'))
 # It should not need relative path, but it can sometimes lead to error if it is not used
