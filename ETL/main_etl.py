@@ -10,7 +10,7 @@ def gw2_etl(url):
 
     #----------------EXTRACT-----------------
 
-    def log_scrape(url):
+    def log_scrape():
 
         HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246'}
 
@@ -82,13 +82,16 @@ def gw2_etl(url):
                 pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Qadim_The_Peerless'
         except:
             pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data' 
+        
+        global jsonName
+        jsonName = f'{pathName}\{bossName}.json'
 
         with open(f'{pathName}\{bossName}.json', 'w') as f:
             for line in logData:
+                global jsonFile
                 jsonFile = f.write(line)
-                return jsonFile
-
-        return log_scrape(url)
+        
+        return log_scrape()
     
     #---------------TRANSFORM----------------
 
@@ -97,7 +100,7 @@ def gw2_etl(url):
         with open(jsonFile) as f:
             data = json.load(f)
         
-        sp = jsonFile.split('\\')
+        sp = jsonName.split('\\')
         posSp = sp[-1]
 
         bossTag = posSp.split('_')
@@ -1201,10 +1204,7 @@ def gw2_etl(url):
         db = client['GW2_SRS']
         collection = db['players_info']
 
-        mongo_insert = collection.insert_one(stats_dict)
+        collection.insert_one(stats_dict)
 
-        return store_data(jsonFile) + str(mongo_insert)   
-    return gw2_etl(url)
+        return store_data(jsonFile)
 pass
-
-print(gw2_etl('https://gw2wingman.nevermindcreations.de/logContent/20220828-100053_dhuum_kill'))
