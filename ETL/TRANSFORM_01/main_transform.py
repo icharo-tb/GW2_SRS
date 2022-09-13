@@ -2,6 +2,7 @@ import pandas as pd
 import json
 import sys
 import pymongo
+import random
 
 def store_data(file):
 
@@ -1089,16 +1090,19 @@ def store_data(file):
         print('Error' + str(e))
         sys.exit()
     
+    # Random number generator to avoid overwrite
+    ran_num = random.randint(0,1000)
+
     # JSON generator (MongoDB)
     pathName = 'ETL\TRANSFORM_01\Players_info'
 
     jsonString = json.dumps(stats_dict)
-    with open(f"{pathName}\{nameTag}_player_stats.json", 'w') as f:
+    with open(f"{pathName}\{ran_num}_{nameTag}_player_stats.json", 'w') as f:
         f.write(jsonString)
     
     # CSV generator (MySQL, PostgreSQL)
     
-    df.to_csv(f"{pathName}\{nameTag}_player_stats.csv",index=True)
+    df.to_csv(f"{pathName}\{ran_num}_{nameTag}_player_stats.csv",index=True)
 
     try:
         client = pymongo.MongoClient('mongodb://localhost:27017/')
