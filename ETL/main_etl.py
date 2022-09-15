@@ -10,7 +10,7 @@ def gw2_etl(url):
 
     #----------------EXTRACT-----------------
 
-    def log_scrape():
+    def log_scrape(url):
 
         HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246'}
 
@@ -39,13 +39,13 @@ def gw2_etl(url):
         return jsonFile
 
     global log  
-    log = log_scrape()
+    log = log_scrape(url)
     
     #---------------TRANSFORM----------------
 
-    def store_data():
+    def store_data(log):
 
-        with open(log) as f:
+        with open(log, 'r') as f:
             data = json.load(f)
 
         bossTag = bossName.split('_')
@@ -1123,11 +1123,11 @@ def gw2_etl(url):
         return stats_dict
 
     global json_data
-    json_data = store_data()
+    json_data = store_data(log)
 
         #-----------------LOAD-------------------
 
-    def load_mongo():
+    def load_mongo(json_data):
         try:
             client = pymongo.MongoClient('mongodb://localhost:27017/')
         except Exception as e:
@@ -1139,5 +1139,7 @@ def gw2_etl(url):
 
         return collection.insert_one(json_data)
     
-    return load_mongo()
+    return load_mongo(json_data)
 pass
+
+print(gw2_etl('https://gw2wingman.nevermindcreations.de/logContent/20220830-215923_matt_kill'))
