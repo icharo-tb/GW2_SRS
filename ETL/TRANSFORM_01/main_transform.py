@@ -1110,18 +1110,18 @@ def store_data(file):
     
     df.to_csv(f"{pathName}\{id_line}_{nameTag}_player_stats.csv",index=True)
 
-    try:
-        client = pymongo.MongoClient('mongodb://localhost:27017/')
-    except Exception as e:
-        print('Connection could not be done' + str(e))
-        sys.exit()
+    # try:
+    #     client = pymongo.MongoClient('mongodb://localhost:27017/')
+    # except Exception as e:
+    #     print('Connection could not be done' + str(e))
+    #     sys.exit()
 
-    db = client['GW2_SRS']
-    collection = db['players_info']
+    # db = client['GW2_SRS']
+    # collection = db['players_info']
 
-    mongo_insert = collection.insert_one(stats_dict)
+    # mongo_insert = collection.insert_one(stats_dict)
 
-    return 'Success!' + str(mongo_insert)
+    return 'Success!' #+ str(mongo_insert)
 pass
 
 print(store_data(r'C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_1\Valley_Guardian\20220906-161554_vg_kill.json'))

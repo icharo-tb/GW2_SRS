@@ -27,58 +27,61 @@ def log_scrape(url):
     tag = bossName.split('_')
     bossTag = tag[1]
 
-    try:
-        # Wing_1
-        if bossTag == 'vg':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_1\Valley_Guardian'
-        elif bossTag == 'gors':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_1\Gorseval_The_Multifarious'
-        elif bossTag == 'sab':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_1\Sabetha'
-        # Wing_2
-        elif bossTag == 'sloth':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_2\Slothasor'
-        elif bossTag == 'matt':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_2\Mathias'
-        # Wing_3
-        elif bossTag == 'kc':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_3\Keep_Construct'
-        elif bossTag == 'xera':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_3\Xera'
-        # Wing_4
-        elif bossTag == 'cairn':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Cairn_The_Indomitable'
-        elif bossTag == 'mo':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Mursaat_Overseer'
-        elif bossTag == 'sam':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Samarog'
-        elif bossTag == 'dei':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Deimos'
-        # Wing_5
-        elif bossTag == 'sh':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_5\Soulless_Horror_Deesmina'
-        elif bossTag == 'dhuum':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_5\Dhuum'
-        # Wing_6
-        elif bossTag == 'ca':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_6\Conjured_Amalgamate'
-        elif bossTag == 'twinlargos':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_6\Twin_Largos'
-        elif bossTag == 'qadim':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_6\Qadim'
-        # Wing_7
-        elif bossTag == 'adina':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Cardinal_Adina'
-        elif bossTag == 'sabir':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Cardinal_Sabir'
-        elif bossTag == 'prlqadim' or bossTag == 'qpeer':
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Qadim_The_Peerless'
-    except:
-        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data' 
+    global pathName
+
+
+    # Wing_1
+    if bossTag == 'vg':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_1\Valley_Guardian'
+    elif bossTag == 'gors':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_1\Gorseval_The_Multifarious'
+    elif bossTag == 'sab':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_1\Sabetha'
+    # Wing_2
+    elif bossTag == 'sloth':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_2\Slothasor'
+    elif bossTag == 'matt':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_2\Mathias'
+    # Wing_3
+    elif bossTag == 'kc':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_3\Keep_Construct'
+    elif bossTag == 'xera':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_3\Xera'
+    # Wing_4
+    elif bossTag == 'cairn':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Cairn_The_Indomitable'
+    elif bossTag == 'mo':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Mursaat_Overseer'
+    elif bossTag == 'sam':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Samarog'
+    elif bossTag == 'dei':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Deimos'
+    # Wing_5
+    elif bossTag == 'sh':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_5\Soulless_Horror_Deesmina'
+    elif bossTag == 'dhuum':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_5\Dhuum'
+    # Wing_6
+    elif bossTag == 'ca':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_6\Conjured_Amalgamate'
+    elif bossTag == 'twinlargos' or 'twins':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_6\Twin_Largos'
+    elif bossTag == 'qadim':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_6\Qadim'
+    # Wing_7
+    elif bossTag == 'adina':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Cardinal_Adina'
+    elif bossTag == 'sabir':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Cardinal_Sabir'
+    elif bossTag == 'prlqadim' or bossTag == 'qpeer':
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Qadim_The_Peerless'
+    else:
+        pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data'
 
     with open(f'{pathName}\{bossName}.json', 'w') as f:
         for line in logData:
             jsonFile = f.write(line)
+    
     return jsonFile
 pass
 #--------------------------------------------------------
@@ -89,4 +92,4 @@ pass
 #         print(log_scrape(url))
 #--------------------------------------------------------
 
-print(log_scrape('https://dps.report/NCGe-20220825-155811_qpeer'))
+print(log_scrape('https://dps.report/SBzl-20220908-203455_twins'))

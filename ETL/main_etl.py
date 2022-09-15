@@ -22,6 +22,7 @@ def gw2_etl(url):
 
         logData = re.findall(r'{.*}', dataString)
 
+        global bossName
         try:
             urlLines = url.split('/')
             if len(urlLines) < 5:
@@ -31,87 +32,24 @@ def gw2_etl(url):
         except Exception as e:
             return 'Error' + str(e)
         
-        tag = bossName.split('_')
-        bossTag = tag[1]
-
-        try:
-            # Wing_1
-            if bossTag == 'vg':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_1\Valley_Guardian'
-            elif bossTag == 'gors':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_1\Gorseval_The_Multifarious'
-            elif bossTag == 'sab':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_1\Sabetha'
-            # Wing_2
-            elif bossTag == 'sloth':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_2\Slothasor'
-            elif bossTag == 'matt':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_2\Mathias'
-            # Wing_3
-            elif bossTag == 'kc':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_3\Keep_Construct'
-            elif bossTag == 'xera':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_3\Xera'
-            # Wing_4
-            elif bossTag == 'cairn':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Cairn_The_Indomitable'
-            elif bossTag == 'mo':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Mursaat_Overseer'
-            elif bossTag == 'sam':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Samarog'
-            elif bossTag == 'dei':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_4\Deimos'
-            # Wing_5
-            elif bossTag == 'sh':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_5\Soulless_Horror_Deesmina'
-            elif bossTag == 'dhuum':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_5\Dhuum'
-            # Wing_6
-            elif bossTag == 'ca':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_6\Conjured_Amalgamate'
-            elif bossTag == 'twinlargos':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_6\Twin_Largos'
-            elif bossTag == 'qadim':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_6\Qadim'
-            # Wing_7
-            elif bossTag == 'adina':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Cardinal_Adina'
-            elif bossTag == 'sabir':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Cardinal_Sabir'
-            elif bossTag == 'prlqadim' or bossTag == 'qpeer':
-                pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data\Wing_7\Qadim_The_Peerless'
-        except:
-            pathName = 'ETL\EXTRACT_00\Web Scraping\Boss_data' 
-        
-        global jsonName
-        jsonName = f'{pathName}\{bossName}.json'
-
-        with open(f'{pathName}\{bossName}.json', 'w') as f:
+        with open(f'{bossName}.json', 'w') as f:
             for line in logData:
-                global jsonFile
                 jsonFile = f.write(line)
-        
-        return log_scrape()
+                
+        return jsonFile
+
+    global log  
+    log = log_scrape()
     
     #---------------TRANSFORM----------------
 
-    def store_data(jsonFile):
+    def store_data():
 
-        with open(jsonFile) as f:
+        with open(log) as f:
             data = json.load(f)
-        
-        sp = jsonName.split('\\')
-        posSp = sp[-1]
 
-        bossTag = posSp.split('_')
+        bossTag = bossName.split('_')
         nameTag = bossTag[1]
-
-
-        if len(bossTag) > 2:
-            nameTag = bossTag[1]
-        elif len(bossTag) == 2:
-            tagSplit = nameTag.split('.')
-            nameTag = tagSplit[0]
         
         # Players Data:
         player_group = []
@@ -1182,19 +1120,14 @@ def gw2_etl(url):
             print('Error' + str(e))
             sys.exit()
         
-        # JSON generator (MongoDB)
-        pathName = 'ETL\TRANSFORM_01\Players_info'
+        return stats_dict
 
-        jsonString = json.dumps(stats_dict)
-        with open(f"{pathName}\{nameTag}_player_stats.json", 'w') as f:
-            f.write(jsonString)
-        
-        # CSV generator (MySQL, PostgreSQL)
-        
-        df.to_csv(f"{pathName}\{nameTag}_player_stats.csv",index=True)
+    global json_data
+    json_data = store_data()
 
         #-----------------LOAD-------------------
 
+    def load_mongo():
         try:
             client = pymongo.MongoClient('mongodb://localhost:27017/')
         except Exception as e:
@@ -1204,7 +1137,7 @@ def gw2_etl(url):
         db = client['GW2_SRS']
         collection = db['players_info']
 
-        collection.insert_one(stats_dict)
-
-        return store_data(jsonFile)
+        return collection.insert_one(json_data)
+    
+    return load_mongo()
 pass
