@@ -22,6 +22,10 @@ def store_data(file):
         tagSplit = nameTag.split('.')
         nameTag = tagSplit[0]
     
+    # Target boss
+    target = []
+    target.append(data['targets'][0]['name'])
+    
     # Players Data:
     player_group = []
     player_acc = []
@@ -73,6 +77,7 @@ def store_data(file):
                 player_dps3.append(round(dps3_raw/phase3_time,2))
 
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -123,6 +128,7 @@ def store_data(file):
                 player_dps3.append(round(dps3_raw/phase3_time,2))
             
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -183,6 +189,7 @@ def store_data(file):
                 player_dps4.append(round(dps4_raw/phase4_time,2))
 
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -268,6 +275,7 @@ def store_data(file):
                 player_dps6.append(round(dps6_raw/phase6_time,2))
 
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -331,6 +339,7 @@ def store_data(file):
                 abomination_phase_dps.append(round(dps_abom_raw/abomination_phase_time,2))
 
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -382,6 +391,7 @@ def store_data(file):
                 player_dps3.append(round(dps3_raw/phase3_time,2))
             
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -420,6 +430,7 @@ def store_data(file):
                 player_dps2.append(round(dps2_raw/phase2_time,2))
             
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -447,6 +458,7 @@ def store_data(file):
                 full_fight_dps_list.append(round(full_fight_raw/full_fight_time,2))
             
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -505,6 +517,7 @@ def store_data(file):
                 from25_to0_dps.append(round(dps4_raw/from25_to0_time,2))
             
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -555,6 +568,7 @@ def store_data(file):
                 player_dps3.append(round(dps3_raw/phase3_time,2))
             
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -593,6 +607,7 @@ def store_data(file):
                 from10_to0_dps.append(round(dps2_raw/from10_to0_time,2))
             
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -642,6 +657,7 @@ def store_data(file):
                 pre_breakbar3_dps.append(round(breakbar3_raw/pre_breakbar3_time,2))
 
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -691,6 +707,7 @@ def store_data(file):
                 ritual_dps.append(round(ritual_raw/ritual_time,2))
             
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -741,6 +758,7 @@ def store_data(file):
                 burn3_dps.append(round(burn3_raw/burn3_time,2))
 
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -825,6 +843,7 @@ def store_data(file):
                 kenut3_dps.append(round(kenut3_raw/kenut3_time,2))
             
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -877,6 +896,7 @@ def store_data(file):
                 qadimP3_dps.append(round(qadimp3_raw/qadimP3_time,2))
 
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -938,6 +958,7 @@ def store_data(file):
                 player_dps4.append(round(dps4_raw/phase4_time,2))
 
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -988,6 +1009,7 @@ def store_data(file):
                 player_dps3.append(round(dps3_raw/phase3_time,2))
 
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,
@@ -1071,6 +1093,7 @@ def store_data(file):
                 player_dps6.append(round(dps6_raw/phase6_time,2))
 
             stats_dict = {
+                'boss': target,
                 'players':{
                     'group': player_group,
                     'account': player_acc,

@@ -30,11 +30,10 @@ dataString = data.text.rstrip()
 logData = re.findall(r'{.*}', dataString)
 for line in logData:
     file = line
-print(file)
 
 #dump = json.dumps(logData)
 data = json.loads(file)
-print(data['players'])
+print(data['targets'][0]['name'])
 
 # XPath = /html/head/script[9]/text() -> Saved just in case
 #--------------------------------------------------------
