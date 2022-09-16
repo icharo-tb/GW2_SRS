@@ -754,7 +754,7 @@ def store_data(file):
 
             df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','Burn_1_dps','Burn_2_dps','Burn_3_dps'])
         
-        elif nameTag == 'twinlargos':
+        elif nameTag == 'twinlargos' or nameTag == 'twins':
             nikare1_dps = []
             kenut1_dps = []
 

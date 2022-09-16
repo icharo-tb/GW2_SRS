@@ -32,21 +32,18 @@ def gw2_etl(url):
         except Exception as e:
             return 'Error' + str(e)
         
-        with open(f'{bossName}.json', 'w') as f:
-            for line in logData:
-                jsonFile = f.write(line)
-                
-        return jsonFile
+        global jsonFile
+        for line in logData:
+            jsonFile = line
 
-    global log  
-    log = log_scrape(url)
+        print('Extraction done!')        
+        return jsonFile
     
     #---------------TRANSFORM----------------
 
-    def store_data(log):
+    def store_data(jsonFile):
 
-        with open(log, 'r') as f:
-            data = json.load(f)
+        data = json.loads(jsonFile)
 
         bossTag = bossName.split('_')
         nameTag = bossTag[1]
@@ -612,10 +609,17 @@ def gw2_etl(url):
                     from100_to10_dps.append(round(dps1_raw/from100_to10_time,2))
 
                 # 10-0
-                from10_to0 = data['phases'][17]['dpsStats']
+                try:
+                    from10_to0 = data['phases'][17]['dpsStats']
+                except:
+                    from10_to0 = data['phases'][15]['dpsStats']
 
-                from10_to0_time_raw = data['phases'][17]['duration']
-                from10_to0_time = round(from10_to0_time_raw/1000,1)
+                try:
+                    from10_to0_time_raw = data['phases'][17]['duration']
+                    from10_to0_time = round(from10_to0_time_raw/1000,1)
+                except:
+                    from10_to0_time_raw = data['phases'][15]['duration']
+                    from10_to0_time = round(from10_to0_time_raw/1000,1)
 
                 for dps in from10_to0:
                     dps2_raw = dps[0]
@@ -783,7 +787,7 @@ def gw2_etl(url):
 
                 df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','Burn_1_dps','Burn_2_dps','Burn_3_dps'])
             
-            elif nameTag == 'twinlargos':
+            elif nameTag == 'twinlargos' or nameTag == 'twins':
                 nikare1_dps = []
                 kenut1_dps = []
 
@@ -1120,10 +1124,8 @@ def gw2_etl(url):
             print('Error' + str(e))
             sys.exit()
         
+        print('Transformation done!')
         return stats_dict
-
-    global json_data
-    json_data = store_data(log)
 
         #-----------------LOAD-------------------
 
@@ -1137,9 +1139,8 @@ def gw2_etl(url):
         db = client['GW2_SRS']
         collection = db['players_info']
 
-        return collection.insert_one(json_data)
+        collection.insert_one(json_data)
+        print('Load done!')
     
-    return load_mongo(json_data)
+    return load_mongo(store_data(log_scrape(url)))
 pass
-
-print(gw2_etl('https://gw2wingman.nevermindcreations.de/logContent/20220830-215923_matt_kill'))

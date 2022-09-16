@@ -92,4 +92,4 @@ pass
 #         print(log_scrape(url))
 #--------------------------------------------------------
 
-print(log_scrape('https://dps.report/SBzl-20220908-203455_twins'))
+print(log_scrape('https://gw2wingman.nevermindcreations.de/logContent/20220830-230417_dei_kill'))

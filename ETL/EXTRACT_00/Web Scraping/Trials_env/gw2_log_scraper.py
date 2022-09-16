@@ -11,7 +11,7 @@ import json
 # Setting of connections such as the url and the headers
 # Creation of the requests and the soup to explore the data (Bonus: checking the response code)
 
-URL = 'https://dps.report/HUeg-20220829-210824_gors'
+URL = 'https://gw2wingman.nevermindcreations.de/logContent/20220908-221219_adina_kill'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246'}
 
 response = requests.get(url=URL, headers=HEADERS)
@@ -28,6 +28,12 @@ data = soup.find_all('script')[8]
 dataString = data.text.rstrip()
 
 logData = re.findall(r'{.*}', dataString)
+for line in logData:
+    file = line
+
+#dump = json.dumps(logData)
+data = json.loads(file)
+print(data['players'])
 
 # XPath = /html/head/script[9]/text() -> Saved just in case
 #--------------------------------------------------------
