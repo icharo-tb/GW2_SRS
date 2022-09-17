@@ -1,5 +1,6 @@
 from main_etl import gw2_etl
 import time
+import sys
 
 with open('urls.txt') as f:
 
@@ -14,3 +15,5 @@ with open('urls.txt') as f:
             time.sleep(5)
         except Exception as e:
             print(f"Error: {str(e)}")
+            print('Line affected:', line)
+            sys.exit()

@@ -50,7 +50,10 @@ def gw2_etl(url):
 
         # Target boss
         target = []
-        target.append(data['targets'][0]['name'])
+        if nameTag == 'twinlargos' or nameTag == 'twins':
+            target.append('Twin Largos')
+        else:
+            target.append(data['targets'][0]['name'])
         
         # Players Data:
         player_group = []
