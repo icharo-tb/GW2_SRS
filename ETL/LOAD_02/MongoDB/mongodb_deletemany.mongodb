@@ -1,0 +1,3 @@
+use('GW2_SRS');
+
+db.players_info.deleteMany({})

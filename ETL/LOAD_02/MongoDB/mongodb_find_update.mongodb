@@ -1,0 +1,14 @@
+use('GW2_SRS');
+
+db.players_info.find({})
+
+// db.players_info.updateOne(
+//   {
+//     'boss': 'Tal-Wächter'
+//   },
+//   {
+//     '$set':{
+//       'boss': 'Vale Guardian'
+//     }
+//   }
+//   )

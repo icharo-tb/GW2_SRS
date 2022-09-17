@@ -205,10 +205,16 @@ def gw2_etl(url):
                     player_dps3.append(round(dps3_raw/phase3_time,2))
 
                 # Phase_4
-                phase4_dps = data['phases'][9]['dpsStats']
+                try:
+                    phase4_dps = data['phases'][9]['dpsStats']
 
-                phase4_time_raw = data['phases'][9]['duration']
-                phase4_time = round(phase4_time_raw/1000,1)
+                    phase4_time_raw = data['phases'][9]['duration']
+                    phase4_time = round(phase4_time_raw/1000,1)
+                except:
+                    phase4_dps = data['phases'][8]['dpsStats']
+
+                    phase4_time_raw = data['phases'][8]['duration']
+                    phase4_time = round(phase4_time_raw/1000,1)
 
                 for dps in phase4_dps:
                     dps4_raw = dps[0]
@@ -1095,31 +1101,46 @@ def gw2_etl(url):
                     player_dps3.append(round(dps3_raw/phase3_time,2))
 
                 # Phase_4
-                phase4_dps = data['phases'][9]['dpsStats']
+                try:
+                    phase4_dps = data['phases'][9]['dpsStats']
 
-                
-                phase4_time_raw = data['phases'][9]['duration']
-                phase4_time = round(phase4_time_raw/1000,1)
+                    
+                    phase4_time_raw = data['phases'][9]['duration']
+                    phase4_time = round(phase4_time_raw/1000,1)
+                except:
+                    phase4_dps = data['phases'][8]['dpsStats']
 
                 for dps in phase4_dps:
                     dps4_raw = dps[0]
                     player_dps4.append(round(dps4_raw/phase4_time,2))
 
                 # Phase_5
-                phase5_dps = data['phases'][11]['dpsStats']
+                try:
+                    phase5_dps = data['phases'][11]['dpsStats']
 
-                phase5_time_raw = data['phases'][11]['duration']
-                phase5_time = round(phase5_time_raw/1000,1)
+                    phase5_time_raw = data['phases'][11]['duration']
+                    phase5_time = round(phase5_time_raw/1000,1)
+                except:
+                    phase5_dps = data['phases'][10]['dpsStats']
+
+                    phase5_time_raw = data['phases'][10]['duration']
+                    phase5_time = round(phase5_time_raw/1000,1)
 
                 for dps in phase5_dps:
                     dps5_raw = dps[0]
                     player_dps5.append(round(dps5_raw/phase5_time,2))
 
                 # Phase_6
-                phase6_dps = data['phases'][13]['dpsStats']
+                try:
+                    phase6_dps = data['phases'][13]['dpsStats']
 
-                phase6_time_raw = data['phases'][13]['duration']
-                phase6_time = round(phase6_time_raw/1000,1)
+                    phase6_time_raw = data['phases'][13]['duration']
+                    phase6_time = round(phase6_time_raw/1000,1)
+                except:
+                    phase6_dps = data['phases'][12]['dpsStats']
+
+                    phase6_time_raw = data['phases'][12]['duration']
+                    phase6_time = round(phase6_time_raw/1000,1)
 
                 for dps in phase6_dps:
                     dps6_raw = dps[0]
