@@ -61,6 +61,56 @@ def gw2_etl(url):
         player_names = []
         player_classes = []
 
+        # DPS Data:
+        player_dps1 = []
+        player_dps2 = []
+        player_dps3 = []
+        player_dps4 = []
+        player_dps5 = []
+        player_dps6 = []
+
+        ice_phase_dps = []
+        fire_phase_dps = []
+        storm_phase_dps = []
+        abomination_phase_dps = []
+
+        full_fight_dps_list = []
+
+        from100_to75_dps = []
+        from75_to50_dps = []
+        from50_to25_dps = []
+        from25_to0_dps = []
+
+        from100_to10_dps = []
+        from10_to0_dps = []
+
+        pre_breakbar1_dps = []
+        pre_breakbar2_dps = []
+        pre_breakbar3_dps = []
+
+        main_fight_dps = []
+        dhuum_fight_dps = []
+        ritual_dps = []
+
+        burn1_dps = []
+        burn2_dps = []
+        burn3_dps = []
+
+        nikare1_dps = []
+        kenut1_dps = []
+
+        nikare2_dps = []
+        kenut2_dps = []
+
+        nikare3_dps = []
+        kenut3_dps = []
+
+        qadimP1_dps = []
+        qadimP2_dps = []
+        qadimP3_dps = []
+
+        #---------------
+
         for player in data['players']:
             player_group.append(player['group'])
             player_acc.append(player['acc'])
@@ -70,10 +120,6 @@ def gw2_etl(url):
         try:
             # Wing-1
             if nameTag == 'vg':
-                # Create lists:
-                player_dps1 = []
-                player_dps2 = []
-                player_dps3 = []
 
                 # Phase_1
                 phase1 = data['phases'][1]['dpsStats']
@@ -122,10 +168,6 @@ def gw2_etl(url):
 
             elif nameTag == 'gors':
 
-                player_dps1 = []
-                player_dps2 = []
-                player_dps3 = []
-
                 # Phase_1
                 phase1_dps = data['phases'][1]['dpsStats']
 
@@ -172,10 +214,6 @@ def gw2_etl(url):
                 df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps'])
 
             elif nameTag == 'sab':
-                player_dps1 = []
-                player_dps2 = []
-                player_dps3 = []
-                player_dps4 = []
 
                 # Phase_1
                 phase1_dps = data['phases'][1]['dpsStats']
@@ -241,12 +279,6 @@ def gw2_etl(url):
 
             # Wing-2
             elif nameTag == 'sloth':
-                player_dps1 = []
-                player_dps2 = []
-                player_dps3 = []
-                player_dps4 = []
-                player_dps5 = []
-                player_dps6 = []
 
                 # Phase_1
                 phase1_dps = data['phases'][1]['dpsStats']
@@ -328,10 +360,6 @@ def gw2_etl(url):
                 df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps','phase_4_dps','phase_5_dps','phase_6_dps'])
 
             elif nameTag == 'matt':
-                ice_phase_dps = []
-                fire_phase_dps = []
-                storm_phase_dps = []
-                abomination_phase_dps = []
 
                 # Ice_phase
                 ice_phase = data['phases'][1]['dpsStats']
@@ -391,9 +419,6 @@ def gw2_etl(url):
 
             # Wing-3
             elif nameTag == 'kc':
-                player_dps1 = []
-                player_dps2 = []
-                player_dps3 = []
 
                 # Phase_1
                 phase1_dps = data['phases'][1]['dpsStats']
@@ -441,8 +466,6 @@ def gw2_etl(url):
                 df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps'])
 
             elif nameTag == 'xera':
-                player_dps1 = []
-                player_dps2 = []
 
                     # Phase_1
                 phase1_dps = data['phases'][1]['dpsStats']
@@ -506,10 +529,6 @@ def gw2_etl(url):
                 df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','full_fight_dps'])
 
             elif nameTag == 'mo':
-                from100_to75_dps = []
-                from75_to50_dps = []
-                from50_to25_dps = []
-                from25_to0_dps = []
 
                 # 100-75
                 from100_to75 = data['phases'][1]['dpsStats']
@@ -568,9 +587,6 @@ def gw2_etl(url):
                 df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','100 - 75%','75 - 50%','50 - 25%','25 - 0%'])
 
             elif nameTag == 'sam':
-                player_dps1 = []
-                player_dps2 = []
-                player_dps3 = []
 
                 # Phase_1
                 phase1_dps = data['phases'][1]['dpsStats']
@@ -618,8 +634,6 @@ def gw2_etl(url):
                 df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps'])
 
             elif nameTag == 'dei':
-                from100_to10_dps = []
-                from10_to0_dps = []
 
                 # 100-10
                 from100_to10 = data['phases'][1]['dpsStats']
@@ -664,9 +678,6 @@ def gw2_etl(url):
 
             # Wing-5
             elif nameTag == 'sh':
-                pre_breakbar1_dps = []
-                pre_breakbar2_dps = []
-                pre_breakbar3_dps = []
 
                 # Pre_breakbar1
                 pre_breakbar1 = data['phases'][1]['dpsStats']
@@ -714,9 +725,6 @@ def gw2_etl(url):
                 df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','Pre-breakbar1_dps','Pre-breakbar2_dps','Pre-breakbar3_dps'])
 
             elif nameTag == 'dhuum':
-                main_fight_dps = []
-                dhuum_fight_dps = []
-                ritual_dps = []
 
                 # Main_fight
                 main_fight = data['phases'][2]['dpsStats']
@@ -771,9 +779,6 @@ def gw2_etl(url):
 
             # Wing-6
             elif nameTag == 'ca':
-                burn1_dps = []
-                burn2_dps = []
-                burn3_dps = []
 
                 # Burn1
                 burn1 = data['phases'][2]['dpsStats']
@@ -821,14 +826,6 @@ def gw2_etl(url):
                 df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','Burn_1_dps','Burn_2_dps','Burn_3_dps'])
             
             elif nameTag == 'twinlargos' or nameTag == 'twins':
-                nikare1_dps = []
-                kenut1_dps = []
-
-                nikare2_dps = []
-                kenut2_dps = []
-
-                nikare3_dps = []
-                kenut3_dps = []
 
                 # Nikare1
                 nikare1 = data['phases'][1]['dpsStats']
@@ -909,9 +906,6 @@ def gw2_etl(url):
                 df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','Nikare_1_dps','Kenut_1_dps','Nikare_2_dps','Kenut_2_dps','Nikare_3_dps','Kenut_3_dps'])
 
             elif nameTag == 'qadim':
-                qadimP1_dps = []
-                qadimP2_dps = []
-                qadimP3_dps = []
 
                 # QadimP1
                 qadimP1 = data['phases'][4]['dpsStats']
@@ -960,10 +954,6 @@ def gw2_etl(url):
 
             # Wing-7
             elif nameTag == 'adina':
-                player_dps1 = []
-                player_dps2 = []
-                player_dps3 = []
-                player_dps4 = []
 
                 # Phase_1
                 phase1_dps = data['phases'][1]['dpsStats']
@@ -1022,9 +1012,6 @@ def gw2_etl(url):
                 df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps','phase_4_dps'])
 
             elif nameTag == 'sabir':
-                player_dps1 = []
-                player_dps2 = []
-                player_dps3 = []
 
                 # Phase_1
                 phase1 = data['phases'][1]['dpsStats']
@@ -1072,12 +1059,6 @@ def gw2_etl(url):
                 df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps'])
 
             elif nameTag == 'prlqadim' or nameTag == 'qpeer':
-                player_dps1 = []
-                player_dps2 = []
-                player_dps3 = []
-                player_dps4 = []
-                player_dps5 = []
-                player_dps6 = []
 
                     # Phase_1
                 phase1_dps = data['phases'][1]['dpsStats']
@@ -1140,18 +1121,16 @@ def gw2_etl(url):
                     phase5_time_raw = data['phases'][9]['duration']
                     phase5_time = round(phase5_time_raw/1000,1)
                 except Exception:
-                    pass
+                    try:
+                        phase5_dps = data['phases'][10]['dpsStats']
 
-                try:
-                    phase5_dps = data['phases'][10]['dpsStats']
+                        phase5_time_raw = data['phases'][10]['duration']
+                        phase5_time = round(phase5_time_raw/1000,1)
+                    except:
+                        phase5_dps = data['phases'][11]['dpsStats']
 
-                    phase5_time_raw = data['phases'][10]['duration']
-                    phase5_time = round(phase5_time_raw/1000,1)
-                except Exception:
-                    phase5_dps = data['phases'][11]['dpsStats']
-
-                    phase5_time_raw = data['phases'][11]['duration']
-                    phase5_time = round(phase5_time_raw/1000,1)
+                        phase5_time_raw = data['phases'][11]['duration']
+                        phase5_time = round(phase5_time_raw/1000,1)
 
                 for dps in phase5_dps:
                     dps5_raw = dps[0]
@@ -1164,18 +1143,16 @@ def gw2_etl(url):
                     phase6_time_raw = data['phases'][11]['duration']
                     phase6_time = round(phase6_time_raw/1000,1)
                 except Exception:
-                    pass
-                
-                try:
-                    phase6_dps = data['phases'][12]['dpsStats']
+                    try:
+                        phase6_dps = data['phases'][12]['dpsStats']
 
-                    phase6_time_raw = data['phases'][12]['duration']
-                    phase6_time = round(phase6_time_raw/1000,1)
-                except Exception:
-                    phase6_dps = data['phases'][13]['dpsStats']
+                        phase6_time_raw = data['phases'][12]['duration']
+                        phase6_time = round(phase6_time_raw/1000,1)
+                    except:
+                        phase6_dps = data['phases'][13]['dpsStats']
 
-                    phase6_time_raw = data['phases'][13]['duration']
-                    phase6_time = round(phase6_time_raw/1000,1)
+                        phase6_time_raw = data['phases'][13]['duration']
+                        phase6_time = round(phase6_time_raw/1000,1)
 
                 for dps in phase6_dps:
                     dps6_raw = dps[0]
