@@ -15,7 +15,7 @@ with open('urls.txt') as f:
 
         try:
             print(gw2_etl(rep))
-            print(f"{nl}Counter: {count}{nl}{('-'*10)}")
+            print(f"{nl}Log nº: {count}{nl}{('-'*10)}")
             time.sleep(2.5)
         except Exception as e:
             print(f"Error: {str(e)}")
