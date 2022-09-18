@@ -17,3 +17,5 @@ with open('urls.txt') as f:
             print(f"Error: {str(e)}")
             print('Line affected:', line)
             sys.exit()
+
+print('Finished!')

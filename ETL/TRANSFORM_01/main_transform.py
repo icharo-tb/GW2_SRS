@@ -706,10 +706,16 @@ def store_data(file):
                 dhuum_fight_dps.append(round(dhuum_raw/dhuum_fight_time,2))
                 
             # Ritual
-            ritual = data['phases'][10]['dpsStats']
+            try:
+                ritual = data['phases'][10]['dpsStats']
 
-            ritual_time_raw = data['phases'][10]['duration']
-            ritual_time = round(ritual_time_raw/1000,1)
+                ritual_time_raw = data['phases'][10]['duration']
+                ritual_time = round(ritual_time_raw/1000,1)
+            except:
+                ritual = data['phases'][8]['dpsStats']
+
+                ritual_time_raw = data['phases'][8]['duration']
+                ritual_time = round(ritual_time_raw/1000,1)
 
             for dps in ritual:
                 ritual_raw = dps[0]
