@@ -1100,10 +1100,16 @@ def gw2_etl(url):
                     player_dps2.append(round(dps2_raw/phase2_time,2))
 
                 # Phase_3
-                phase3_dps = data['phases'][6]['dpsStats']
+                try:
+                    phase3_dps = data['phases'][5]['dpsStats']
 
-                phase3_time_raw = data['phases'][6]['duration']
-                phase3_time = round(phase3_time_raw/1000,1)
+                    phase3_time_raw = data['phases'][5]['duration']
+                    phase3_time = round(phase3_time_raw/1000,1)
+                except:
+                    phase3_dps = data['phases'][6]['dpsStats']
+
+                    phase3_time_raw = data['phases'][6]['duration']
+                    phase3_time = round(phase3_time_raw/1000,1)
 
                 for dps in phase3_dps:
                     dps3_raw = dps[0]
@@ -1111,13 +1117,17 @@ def gw2_etl(url):
 
                 # Phase_4
                 try:
+                    phase4_dps = data['phases'][7]['dpsStats']
+
+                    
+                    phase4_time_raw = data['phases'][7]['duration']
+                    phase4_time = round(phase4_time_raw/1000,1)
+                except :
                     phase4_dps = data['phases'][9]['dpsStats']
 
                     
                     phase4_time_raw = data['phases'][9]['duration']
                     phase4_time = round(phase4_time_raw/1000,1)
-                except:
-                    phase4_dps = data['phases'][8]['dpsStats']
 
                 for dps in phase4_dps:
                     dps4_raw = dps[0]
@@ -1125,14 +1135,22 @@ def gw2_etl(url):
 
                 # Phase_5
                 try:
-                    phase5_dps = data['phases'][11]['dpsStats']
+                    phase5_dps = data['phases'][9]['dpsStats']
 
-                    phase5_time_raw = data['phases'][11]['duration']
+                    phase5_time_raw = data['phases'][9]['duration']
                     phase5_time = round(phase5_time_raw/1000,1)
-                except:
+                except Exception:
+                    pass
+
+                try:
                     phase5_dps = data['phases'][10]['dpsStats']
 
                     phase5_time_raw = data['phases'][10]['duration']
+                    phase5_time = round(phase5_time_raw/1000,1)
+                except Exception:
+                    phase5_dps = data['phases'][11]['dpsStats']
+
+                    phase5_time_raw = data['phases'][11]['duration']
                     phase5_time = round(phase5_time_raw/1000,1)
 
                 for dps in phase5_dps:
@@ -1141,14 +1159,22 @@ def gw2_etl(url):
 
                 # Phase_6
                 try:
-                    phase6_dps = data['phases'][13]['dpsStats']
+                    phase6_dps = data['phases'][11]['dpsStats']
 
-                    phase6_time_raw = data['phases'][13]['duration']
+                    phase6_time_raw = data['phases'][11]['duration']
                     phase6_time = round(phase6_time_raw/1000,1)
-                except:
+                except Exception:
+                    pass
+                
+                try:
                     phase6_dps = data['phases'][12]['dpsStats']
 
                     phase6_time_raw = data['phases'][12]['duration']
+                    phase6_time = round(phase6_time_raw/1000,1)
+                except Exception:
+                    phase6_dps = data['phases'][13]['dpsStats']
+
+                    phase6_time_raw = data['phases'][13]['duration']
                     phase6_time = round(phase6_time_raw/1000,1)
 
                 for dps in phase6_dps:
