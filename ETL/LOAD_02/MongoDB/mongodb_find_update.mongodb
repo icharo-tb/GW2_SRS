@@ -1,6 +1,6 @@
 use('GW2_SRS');
 
-db.players_info.find({'boss':'Twin Largos'})
+db.players_info.find({'boss':'Vale Guardian'})
 
 // db.players_info.updateOne(
 //   {
