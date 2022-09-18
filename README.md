@@ -51,3 +51,4 @@
   - Web Scraping: BeautifulSoup, Selenium, requests
   - Transformation and analysis: Pandas, Jupyter Notebooks
 - VS Code
+- MongoDB
