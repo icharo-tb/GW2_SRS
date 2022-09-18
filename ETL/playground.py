@@ -5,6 +5,7 @@ import sys
 with open('urls.txt') as f:
 
     count = 0
+    nl = '\n'
 
     for line in f:
         count += 1
@@ -14,13 +15,11 @@ with open('urls.txt') as f:
 
         try:
             print(gw2_etl(rep))
-            print()
-            print('Count: ', count)
-            print('-'*10)
+            print(f"{nl}Counter: {count}{nl}{('-'*10)}")
             time.sleep(2.5)
         except Exception as e:
             print(f"Error: {str(e)}")
-            print('Line affected:', line)
+            print('Line affected: ', line)
             sys.exit()
 
 print('Finished!')
