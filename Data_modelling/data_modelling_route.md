@@ -12,3 +12,8 @@ This folder will be used to store and explain the modelling of GW2 data as well 
 Thanks to Excalidraw, I designed a small schema to explain how the route can be approached:
 
 ![SQL_schema](sql_schema.png 'SQL_schema')
+
+---
+
+#### Previous problems encountered
+- The initial idea was using MySQL and PostgreSQL, however, MySQL has a password issue I couldn't resolve yet. As for PostgreSQL, it's connection can be viable, nontheless I need to investigate more as it seems that PostgreSQL syntax differs a bit from other SQL tools I used before
