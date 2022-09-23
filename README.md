@@ -18,6 +18,7 @@
   - [Extraction](#extract-of-data)
   - [Transform](#transforming-data)
   - [Load](#loading-data)
+- [Data-Modelling](#data-modelling)
 - [Tools Used](#tools-used)
 
 #### Objectives
@@ -36,13 +37,18 @@
 ##### Transforming Data
 - Working with Microsoft Excel and [CSVed](https://csved.sjfrancke.nl/ "CSVed") to get usefull and clean .csv files for data management.
 - Use of Jupyter Notebooks, Python and Pandas for data analysis.
-- Use of pandas to read JSON files and sort boss information
+- Use of pandas to read JSON files and sort boss information.
 - Use of python libraries to create KPIs: Matplotlib, Seaborn...
 
 ##### Loading Data
-- Main connection to MongoDB
-- Secondary connections to MySQL and PostgreSQL
+- Main connection to MongoDB.
+- Secondary connections to SQLite, MySQL and PostgreSQL.
 -----------------------------------------------------------------------------------
+
+### Data modelling
+- Construction of a data modelling system with SQLite.
+- Data analysis with both databases: MongoDB and SQLite.
+---
 
 ### Tools used
 
