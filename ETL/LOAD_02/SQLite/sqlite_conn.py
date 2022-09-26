@@ -32,3 +32,22 @@ def sqlite_conn(file):
     return 'Done!'
 
 print(sqlite_conn(r'C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\ETL\TRANSFORM_01\Players_info\18_dhuum_player_stats.json'))
+
+#------------------------------------------
+
+import sqlite3
+
+name_lst = ['dudu1','mecha1','scrapper1']
+
+conn = sqlite3.connect(r'C:\Users\DANIEL\OneDrive\Escritorio\BD_Study\SQL\SQLite\SQLite_queries\gw2_srs.db')
+print('Connected!')
+
+cur = conn.cursor()
+print(cur)
+
+for name in name_lst:
+    cur.execute(
+        f'INSERT INTO player_info(name) VALUES("{name}")'
+    )
+    conn.commit()
+    print('Data inserted!')

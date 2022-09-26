@@ -1,10 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-import pandas as pd
 import json
 import sys
 import pymongo
+import sqlite3
 
 def gw2_etl(url):
 
@@ -55,6 +55,20 @@ def gw2_etl(url):
         else:
             target.append(data['targets'][0]['name'])
         
+        #---------------------
+        # Set global variables for data loading
+        global player_group,player_acc,player_names,player_classes, \
+            player_dps1,player_dps2,player_dps3,player_dps4,player_dps5,player_dps6, \
+                ice_phase_dps,fire_phase_dps,storm_phase_dps,abomination_phase_dps, \
+                    full_fight_dps_list, \
+                        from100_to75_dps,from75_to50_dps,from50_to25_dps,from25_to0_dps, \
+                            from100_to10_dps,from10_to0_dps, \
+                                pre_breakbar1_dps,pre_breakbar2_dps,pre_breakbar3_dps, \
+                                    main_fight_dps,dhuum_fight_dps,ritual_dps, \
+                                        burn1_dps,burn2_dps,burn3_dps, \
+                                            nikare1_dps,kenut1_dps,nikare2_dps,kenut2_dps,nikare3_dps,kenut3_dps, \
+                                                qadimP1_dps,qadimP2_dps,qadimP3_dps
+        #---------------------
         # Players Data:
         player_group = []
         player_acc = []
@@ -164,8 +178,6 @@ def gw2_etl(url):
                     }
                 }
 
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps'])
-
             elif nameTag == 'gors':
 
                 # Phase_1
@@ -210,8 +222,6 @@ def gw2_etl(url):
                         'phase_3_dps': player_dps3
                     }
                 }
-
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps'])
 
             elif nameTag == 'sab':
 
@@ -274,8 +284,6 @@ def gw2_etl(url):
                         'phase_4_dps': player_dps4
                     }
                 }
-
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps','phase_4_dps'])
 
             # Wing-2
             elif nameTag == 'sloth':
@@ -357,8 +365,6 @@ def gw2_etl(url):
                     }
                 }
 
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps','phase_4_dps','phase_5_dps','phase_6_dps'])
-
             elif nameTag == 'matt':
 
                 # Ice_phase
@@ -415,8 +421,6 @@ def gw2_etl(url):
                     }
                 }
 
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','ice_phase_dps','fire_phase_dps','storm_phase_dps','abomination_phase_dps'])
-
             # Wing-3
             elif nameTag == 'kc':
 
@@ -463,8 +467,6 @@ def gw2_etl(url):
                     }
                 }
 
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps'])
-
             elif nameTag == 'xera':
 
                     # Phase_1
@@ -499,8 +501,6 @@ def gw2_etl(url):
                     }
                 }
 
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps'])
-
             # Wing-4
             elif nameTag == 'cairn':
                 full_fight_dps_list = []
@@ -525,8 +525,6 @@ def gw2_etl(url):
                         'full_fight_dps': full_fight_dps_list
                     }
                 }
-
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','full_fight_dps'])
 
             elif nameTag == 'mo':
 
@@ -584,8 +582,6 @@ def gw2_etl(url):
                     }
                 }
 
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','100 - 75%','75 - 50%','50 - 25%','25 - 0%'])
-
             elif nameTag == 'sam':
 
                 # Phase_1
@@ -631,8 +627,6 @@ def gw2_etl(url):
                     }
                 }
 
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps'])
-
             elif nameTag == 'dei':
 
                 # 100-10
@@ -673,8 +667,6 @@ def gw2_etl(url):
                         '10 - 0%': from10_to0_dps
                     }
                 }
-
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','100 - 10%','10 - 0%'])
 
             # Wing-5
             elif nameTag == 'sh':
@@ -721,8 +713,6 @@ def gw2_etl(url):
                         'Pre-breakbar3_dps': pre_breakbar3_dps
                     }
                 }
-
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','Pre-breakbar1_dps','Pre-breakbar2_dps','Pre-breakbar3_dps'])
 
             elif nameTag == 'dhuum':
 
@@ -775,8 +765,6 @@ def gw2_etl(url):
                     }
                 }
 
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','Main_fight_dps','Dhuum_fight_dps','Ritual_dps'])
-
             # Wing-6
             elif nameTag == 'ca':
 
@@ -822,8 +810,6 @@ def gw2_etl(url):
                         'Burn_3_dps': burn3_dps
                     }
                 }
-
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','Burn_1_dps','Burn_2_dps','Burn_3_dps'])
             
             elif nameTag == 'twinlargos' or nameTag == 'twins':
 
@@ -903,8 +889,6 @@ def gw2_etl(url):
                     }
                 }
 
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','Nikare_1_dps','Kenut_1_dps','Nikare_2_dps','Kenut_2_dps','Nikare_3_dps','Kenut_3_dps'])
-
             elif nameTag == 'qadim':
 
                 # QadimP1
@@ -948,9 +932,7 @@ def gw2_etl(url):
                         'Qadim_P2_dps': qadimP2_dps,
                         'Qadim_P3_dps': qadimP3_dps
                     }
-                }
-
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','Qadim_P1_dps','Qadim_P2_dps','Qadim_P3_dps'])  
+                } 
 
             # Wing-7
             elif nameTag == 'adina':
@@ -1009,8 +991,6 @@ def gw2_etl(url):
                     }
                 }
 
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps','phase_4_dps'])
-
             elif nameTag == 'sabir':
 
                 # Phase_1
@@ -1055,8 +1035,6 @@ def gw2_etl(url):
                         'phase_3_dps': player_dps3
                     }
                 }
-
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps'])
 
             elif nameTag == 'prlqadim' or nameTag == 'qpeer':
 
@@ -1174,8 +1152,6 @@ def gw2_etl(url):
                     }
                 }
 
-                df = pd.DataFrame(stats_dict['players'], columns=['group','account','names','profession','phase_1_dps','phase_2_dps','phase_3_dps','phase_4_dps','phase_5_dps','phase_6_dps'])
-
         except Exception as e:
             print('Error' + str(e))
             sys.exit()
@@ -1185,7 +1161,36 @@ def gw2_etl(url):
 
         #-----------------LOAD-------------------
 
-    def load_mongo(json_data):
+    def db_load(json_data):
+        print('-'*10)
+
+        print('SQLite conn starting...')
+        # SQLite conn
+        try:
+            conn = sqlite3.connect(r'C:\Users\DANIEL\OneDrive\Escritorio\BD_Study\SQL\SQLite\SQLite_queries\gw2_srs.db')
+            cur = conn.cursor()
+        except Exception as e:
+            print('Connection could not be done' + str(e))
+            sys.exit()
+        
+        for acc in player_acc:
+            cur.execute(
+                f'INSERT INTO player_info(account) VALUES("{acc}")'
+            )
+            conn.commit()
+        print('Accounts inserted!')
+        
+        for name in player_names:
+            cur.execute(
+                f'INSERT INTO player_info(name) VALUES("{name}")'
+            )
+            conn.commit()
+        print('Names inserted!')
+
+        print('-'*10)
+
+        print('MongoDB conn starting...')
+        # MongoDB conn
         try:
             client = pymongo.MongoClient('mongodb://localhost:27017/')
         except Exception as e:
@@ -1196,7 +1201,7 @@ def gw2_etl(url):
         collection = db['players_info']
 
         collection.insert_one(json_data)
-        print('Load done!')
+        print('MongoDB load done!')
     
-    return load_mongo(store_data(log_scrape(url)))
+    return db_load(store_data(log_scrape(url)))
 pass
