@@ -14,8 +14,8 @@ Thanks to Excalidraw, I designed a small schema to explain how the route can be 
 ![SQL_schema](sql_schema.png 'SQL_schema')
 
 #### Data schema:
-**Name + Account table**: 1-to-N relationship
-**DPS table**: N-to-N relationship
+- **Name + Account table**: 1-to-N relationship
+- **DPS table**: N-to-N relationship
 
 #### Queries:
 Logs contains a lot of data, therefore, after the first cleaning, another cleaning is needed for the final data to be analyzed. As an example, let's explore this Deimos logs:
@@ -39,6 +39,7 @@ We must have in mind that, in Deimos, Saul D'Alesio (an NPC) will help us, but i
 We will end up with a csv like this:
 
 ![deimos_csv](dei_csv.png 'dei_csv')
+
 
 We can now use this and create graphs using Pandas, Seaborn, Matplotlib, etc...
 ---
