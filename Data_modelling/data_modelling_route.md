@@ -40,8 +40,8 @@ We will end up with a csv like this:
 
 ![deimos_csv](dei_csv.png 'dei_csv')
 
-
 We can now use this and create graphs using Pandas, Seaborn, Matplotlib, etc...
+
 ---
 
 #### Previous problems encountered
