@@ -2,7 +2,6 @@ https://gw2wingman.nevermindcreations.de/log/20220829-210027_qadim_kill
 https://gw2wingman.nevermindcreations.de/log/20220826-185915_qadim_kill
 https://gw2wingman.nevermindcreations.de/log/20220912-212753_qadim_kill
 https://gw2wingman.nevermindcreations.de/log/20220827-192728_qadim_kill
-https://gw2wingman.nevermindcreations.de/apikey
 https://gw2wingman.nevermindcreations.de/log/20220918-114403_qadim_kill
 https://gw2wingman.nevermindcreations.de/log/z4ZQ-20220918-153248_qadim
 https://gw2wingman.nevermindcreations.de/log/20220916-202108_qadim_kill
@@ -99,8 +98,3 @@ https://gw2wingman.nevermindcreations.de/log/20220824-210823_qadim_kill
 https://gw2wingman.nevermindcreations.de/log/20220824-002149_qadim_kill
 https://gw2wingman.nevermindcreations.de/log/20220822-210547_qadim_kill
 https://gw2wingman.nevermindcreations.de/log/20220822-201140_qadim_kill
-https://gw2wingman.nevermindcreations.dejavascript:void(0)
-https://gw2wingman.nevermindcreations.dejavascript:void(0)
-https://gw2wingman.nevermindcreations.dejavascript:void(0)
-https://gw2wingman.nevermindcreations.dejavascript:void(0)
-https://gw2wingman.nevermindcreations.dejavascript:void(0)

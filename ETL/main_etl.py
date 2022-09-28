@@ -1,3 +1,4 @@
+#----------------IMPORTS-----------------
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -5,6 +6,8 @@ import json
 import sys
 import pymongo
 import sqlite3
+
+#----------------MAIN FUNCTION-----------------
 
 def gw2_etl(url):
 
@@ -46,6 +49,7 @@ def gw2_etl(url):
         data = json.loads(jsonFile)
 
         bossTag = bossName.split('_')
+        global nameTag
         nameTag = bossTag[1]
 
         # Target boss
@@ -55,8 +59,7 @@ def gw2_etl(url):
         else:
             target.append(data['targets'][0]['name'])
         
-        #---------------------
-        # Set global variables for data loading
+        #-----------Set global variables for data loading-----------
         global player_group,player_acc,player_names,player_classes, \
             player_dps1,player_dps2,player_dps3,player_dps4,player_dps5,player_dps6, \
                 ice_phase_dps,fire_phase_dps,storm_phase_dps,abomination_phase_dps, \
@@ -68,14 +71,14 @@ def gw2_etl(url):
                                         burn1_dps,burn2_dps,burn3_dps, \
                                             nikare1_dps,kenut1_dps,nikare2_dps,kenut2_dps,nikare3_dps,kenut3_dps, \
                                                 qadimP1_dps,qadimP2_dps,qadimP3_dps
-        #---------------------
-        # Players Data:
+
+        #-----------Players Data-----------
         player_group = []
         player_acc = []
         player_names = []
         player_classes = []
 
-        # DPS Data:
+        #-----------DPS Data-----------
         player_dps1 = []
         player_dps2 = []
         player_dps3 = []
@@ -123,7 +126,7 @@ def gw2_etl(url):
         qadimP2_dps = []
         qadimP3_dps = []
 
-        #---------------
+        #-----------Data Sorting-----------
 
         for player in data['players']:
             player_group.append(player['group'])
@@ -132,7 +135,7 @@ def gw2_etl(url):
             player_classes.append(player['profession'])
         
         try:
-            # Wing-1
+            #-----------Wing-1-----------
             if nameTag == 'vg':
 
                 # Phase_1
@@ -285,7 +288,7 @@ def gw2_etl(url):
                     }
                 }
 
-            # Wing-2
+            #-----------Wing-2-----------
             elif nameTag == 'sloth':
 
                 # Phase_1
@@ -421,7 +424,7 @@ def gw2_etl(url):
                     }
                 }
 
-            # Wing-3
+            #-----------Wing-3-----------
             elif nameTag == 'kc':
 
                 # Phase_1
@@ -501,7 +504,7 @@ def gw2_etl(url):
                     }
                 }
 
-            # Wing-4
+            #-----------Wing-4-----------
             elif nameTag == 'cairn':
                 full_fight_dps_list = []
 
@@ -643,14 +646,21 @@ def gw2_etl(url):
                 try:
                     from10_to0 = data['phases'][17]['dpsStats']
                 except:
-                    from10_to0 = data['phases'][15]['dpsStats']
+                    try:
+                        from10_to0 = data['phases'][15]['dpsStats']
+                    except:
+                        from10_to0 = data['phases'][12]['dpsStats']
 
                 try:
                     from10_to0_time_raw = data['phases'][17]['duration']
                     from10_to0_time = round(from10_to0_time_raw/1000,1)
                 except:
-                    from10_to0_time_raw = data['phases'][15]['duration']
-                    from10_to0_time = round(from10_to0_time_raw/1000,1)
+                    try:
+                        from10_to0_time_raw = data['phases'][15]['duration']
+                        from10_to0_time = round(from10_to0_time_raw/1000,1)
+                    except:
+                        from10_to0_time_raw = data['phases'][12]['duration']
+                        from10_to0_time = round(from10_to0_time_raw/1000,1)
 
                 for dps in from10_to0:
                     dps2_raw = dps[0]
@@ -668,7 +678,7 @@ def gw2_etl(url):
                     }
                 }
 
-            # Wing-5
+            #-----------Wing-5-----------
             elif nameTag == 'sh':
 
                 # Pre_breakbar1
@@ -765,7 +775,7 @@ def gw2_etl(url):
                     }
                 }
 
-            # Wing-6
+            #-----------Wing-6-----------
             elif nameTag == 'ca':
 
                 # Burn1
@@ -934,7 +944,7 @@ def gw2_etl(url):
                     }
                 } 
 
-            # Wing-7
+            #-----------Wing-7-----------
             elif nameTag == 'adina':
 
                 # Phase_1
@@ -1164,8 +1174,9 @@ def gw2_etl(url):
     def db_load(json_data):
         print('-'*10)
 
+        #-----------SQLite conn-----------
         print('SQLite conn starting...')
-        # SQLite conn
+
         try:
             conn = sqlite3.connect(r'C:\Users\DANIEL\OneDrive\Escritorio\BD_Study\SQL\SQLite\SQLite_queries\gw2_srs.db')
             cur = conn.cursor()
@@ -1173,24 +1184,231 @@ def gw2_etl(url):
             print('Connection could not be done' + str(e))
             sys.exit()
         
-        for acc in player_acc:
-            cur.execute(
-                f'INSERT INTO player_info(account) VALUES("{acc}")'
-            )
-            conn.commit()
-        print('Accounts inserted!')
+        #-----------DPS data insert-----------
+        try:
+            if nameTag == 'vg':
+                boss_id = 1
+
+                for (dps1,dps2,dps3) in zip(player_dps1,player_dps2,player_dps3):
+                    cur.execute(
+                        f"INSERT INTO vg_dps(phase1_dps,phase2_dps,phase3_dps) VALUES({dps1},{dps2},{dps3})"
+                    )
+                print('DPS data inserted')
+            elif nameTag == 'gors':
+                boss_id = 2
+                
+                for (dps1,dps2,dps3) in zip(player_dps1,player_dps2,player_dps3):
+                    cur.execute(
+                        f"INSERT INTO gors_dps(phase1_dps,phase2_dps,phase3_dps) VALUES({dps1},{dps2},{dps3})"
+                    )
+            elif nameTag == 'sab':
+                boss_id = 3
+                
+                for (dps1,dps2,dps3,dps4) in zip(player_dps1,player_dps2,player_dps3,player_dps4):
+                    cur.execute(
+                        f"INSERT INTO sab_dps(phase1_dps,phase2_dps,phase3_dps,phase4_dps) VALUES({dps1},{dps2},{dps3},{dps4})"
+                    )
+            elif nameTag == 'sloth':
+                boss_id = 4
+
+                for (dps1,dps2,dps3,dps4,dps5,dps6) in zip(player_dps1,player_dps2,player_dps3,player_dps4,player_dps5,player_dps6):
+                    cur.execute(
+                        f"INSERT INTO sloth_dps(phase1_dps,phase2_dps,phase3_dps,phase4_dps,phase5_dps,phase6_dps) VALUES({dps1},{dps2},{dps3},{dps4},{dps5},{dps6})"
+                    )
+            elif nameTag == 'matt':
+                boss_id = 5
+
+                for (dps1,dps2,dps3,dps4) in zip(ice_phase_dps,fire_phase_dps,storm_phase_dps,abomination_phase_dps):
+                    cur.execute(
+                        f"INSERT INTO matt_dps(ice_dps,fire_dps,storm_dps,abomination_dps) VALUES({dps1},{dps2},{dps3},{dps4})"
+                    )
+            elif nameTag == 'kc':
+                boss_id = 6
+
+                for (dps1,dps2,dps3) in zip(player_dps1,player_dps2,player_dps3):
+                    cur.execute(
+                        f"INSERT INTO kc_dps(phase1_dps,phase2_dps,phase3_dps) VALUES({dps1},{dps2},{dps3})"
+                    )
+            elif nameTag == 'xera':
+                boss_id = 7
+
+                for (dps1,dps2) in zip(player_dps1,player_dps2):
+                    cur.execute(
+                        f"INSERT INTO xera_dps(phase1_dps,phase2_dps) VALUES({dps1},{dps2})"
+                    )
+            elif nameTag == 'cairn':
+                boss_id = 8
+
+                for dps1 in full_fight_dps_list:
+                    cur.execute(
+                        f"INSERT INTO cairn_dps(full_fight_dps) VALUES({dps1})"
+                    )
+            elif nameTag == 'mo':
+                boss_id = 9
+
+                for (dps1,dps2,dps3,dps4) in zip(from100_to75_dps,from75_to50_dps,from50_to25_dps,from25_to0_dps):
+                    cur.execute(
+                        f"INSERT INTO mo_dps(_100to75,_75to50,_50to25,_25to0) VALUES({dps1},{dps2},{dps3},{dps4})"
+                    )
+            elif nameTag == 'sam':
+                boss_id = 10
+
+                for (dps1,dps2,dps3) in zip(player_dps1,player_dps2,player_dps3):
+                    cur.execute(
+                        f"INSERT INTO sam_dps(phase1_dps,phase2_dps,phase3_dps) VALUES({dps1},{dps2},{dps3})"
+                    )
+            elif nameTag == 'dei':
+                boss_id = 11
+
+                for (dps1,dps2) in zip(from100_to10_dps,from10_to0_dps):
+                    cur.execute(
+                        f"INSERT INTO dei_dps(_100to10,_10to0) VALUES({dps1},{dps2})"
+                    )
+            elif nameTag == 'sh':
+                boss_id = 12
+
+                for (dps1,dps2,dps3) in zip(pre_breakbar1_dps,pre_breakbar2_dps,pre_breakbar3_dps):
+                    cur.execute(
+                        f"INSERT INTO sh_dps(prebreakbar1_dps,prebreakbar2_dps,prebreakbar3_dps) VALUES({dps1},{dps2},{dps3})"
+                    )
+            elif nameTag == 'dhuum':
+                boss_id = 13
+
+                for (dps1,dps2,dps3) in zip(main_fight_dps,dhuum_fight_dps,ritual_dps):
+                    cur.execute(
+                        f"INSERT INTO dhuum_dps(main_fight_dps,dhuum_fight_dps,ritual_dps) VALUES({dps1},{dps2},{dps3})"
+                    )
+            elif nameTag == 'ca':
+                boss_id = 14
+
+                for (dps1,dps2,dps3) in zip(burn1_dps,burn2_dps,burn3_dps):
+                    cur.execute(
+                        f"INSERT INTO ca_dps(burn1_dps,burn2_dps,burn3_dps) VALUES({dps1},{dps2},{dps3})"
+                    )
+            elif nameTag == 'twinlargos' or nameTag == 'twins':
+                boss_id = 15
+
+                for (dps1,dps2,dps3,dps4,dps5,dps6) in zip(nikare1_dps,kenut1_dps,nikare2_dps,kenut2_dps,nikare3_dps,kenut3_dps):
+                    cur.execute(
+                        f"INSERT INTO twinlargos_dps(nikare1_dps,kenut1_dps,nikare2_dps,kenut2_dps,nikare3_dps,kenut3_dps) VALUES({dps1},{dps2},{dps3},{dps4},{dps5},{dps6})"
+                    )
+            elif nameTag == 'qadim':
+                boss_id = 16
+
+                for (dps1,dps2,dps3) in zip(qadimP1_dps,qadimP2_dps,qadimP3_dps):
+                    cur.execute(
+                        f"INSERT INTO qadim1_dps(qadim_p1_dps,qadim_p2_dps,qadim_p3_dps) VALUES({dps1},{dps2},{dps3})"
+                    )
+            elif nameTag == 'adina':
+                boss_id = 17
+
+                for (dps1,dps2,dps3,dps4) in zip(player_dps1,player_dps2,player_dps3,player_dps4):
+                    cur.execute(
+                        f"INSERT INTO adina_dps(phase1_dps,phase2_dps,phase3_dps,phase4_dps) VALUES({dps1},{dps2},{dps3},{dps4})"
+                    )
+            elif nameTag == 'sabir':
+                boss_id = 18
+
+                for (dps1,dps2,dps3) in zip(player_dps1,player_dps2,player_dps3):
+                    cur.execute(
+                        f"INSERT INTO sabir_dps(phase1_dps,phase2_dps,phase3_dps) VALUES({dps1},{dps2},{dps3})"
+                    )
+            elif nameTag == 'prlqadim' or nameTag == 'qpeer':
+                boss_id = 19
+
+                for (dps1,dps2,dps3,dps4,dps5,dps6) in zip(player_dps1,player_dps2,player_dps3,player_dps4,player_dps5,player_dps6):
+                    cur.execute(
+                        f"INSERT INTO prlqadim_dps(phase1_dps,phase2_dps,phase3_dps,phase4_dps,phase5_dps,phase6_dps) VALUES({dps1},{dps2},{dps3},{dps4},{dps5},{dps6})"
+                    )
+        except Exception as e:
+            print(f"Failed to insert dps data: {str(e)}")
         
-        for name in player_names:
+        #-----------Players name, profession and account data insert-----------
+        for (name,acc,profession) in zip(player_names,player_acc,player_classes):
+
+            if profession == 'Guardian':
+                class_id = 1
+            elif profession == 'Dragonhunter':
+                class_id = 2
+            elif profession == 'Firebrand':
+                class_id = 3
+            elif profession == 'Willbender':
+                class_id = 4
+            elif profession == 'Revenant':
+                class_id = 5
+            elif profession == 'Herald':
+                class_id = 6
+            elif profession == 'Renegade':
+                class_id = 7
+            elif profession == 'Vindicator':
+                class_id = 8
+            elif profession == 'Warrior':
+                class_id = 9
+            elif profession == 'Berserker':
+                class_id = 10
+            elif profession == 'Spellbreaker':
+                class_id = 11
+            elif profession == 'Bladesworn':
+                class_id = 12
+            elif profession == 'Engineer':
+                class_id = 13
+            elif profession == 'Scrapper':
+                class_id = 14
+            elif profession == 'Holosmith':
+                class_id = 15
+            elif profession == 'Mechanist':
+                class_id = 16
+            elif profession == 'Ranger':
+                class_id = 17
+            elif profession == 'Druid':
+                class_id = 18
+            elif profession == 'Soulbeast':
+                class_id = 19
+            elif profession == 'Untamed':
+                class_id = 20
+            elif profession == 'Thief':
+                class_id = 21
+            elif profession == 'Daredevil':
+                class_id = 22
+            elif profession == 'Deadeye':
+                class_id = 23
+            elif profession == 'Specter':
+                class_id = 24
+            elif profession == 'Elementalist':
+                class_id = 25
+            elif profession == 'Tempest':
+                class_id = 26
+            elif profession == 'Weaver':
+                class_id = 27
+            elif profession == 'Catalyst':
+                class_id = 28
+            elif profession == 'Mesmer':
+                class_id = 29
+            elif profession == 'Chronomancer':
+                class_id = 30
+            elif profession == 'Mirage':
+                class_id = 31
+            elif profession == 'Virtuoso':
+                class_id = 32
+            elif profession == 'Necromancer':
+                class_id = 33
+            elif profession == 'Reaper':
+                class_id = 34
+            elif profession == 'Scourge':
+                class_id = 35
+            elif profession == 'Harbinger':
+                class_id = 36
             cur.execute(
-                f'INSERT INTO player_info(name) VALUES("{name}")'
+                f'INSERT INTO player_info(account,name,boss_id,profession_id) VALUES("{acc}","{name}",{boss_id},{class_id})'
             )
             conn.commit()
-        print('Names inserted!')
+        print('Player data inserted!')
 
         print('-'*10)
 
+        #-----------MongoDB conn-----------
         print('MongoDB conn starting...')
-        # MongoDB conn
+
         try:
             client = pymongo.MongoClient('mongodb://localhost:27017/')
         except Exception as e:

@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-URL = 'https://gw2wingman.nevermindcreations.de/content/raid/q1'
+URL = 'https://gw2wingman.nevermindcreations.de/content/raid/dei'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246'}
 
 response = requests.get(URL,HEADERS)

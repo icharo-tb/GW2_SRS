@@ -23,3 +23,7 @@ with open('urls.txt') as f:
             sys.exit()
 
 print('Finished!')
+
+#--------------------------------------------
+from main_etl import gw2_etl
+print(gw2_etl('https://gw2wingman.nevermindcreations.de/logContent/20220926-010942_vg_kill'))
