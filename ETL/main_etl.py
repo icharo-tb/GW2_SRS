@@ -1164,7 +1164,7 @@ def gw2_etl(url):
 
         except Exception as e:
             print('Error' + str(e))
-            sys.exit()
+            pass
         
         print('Transformation done!')
         return stats_dict
