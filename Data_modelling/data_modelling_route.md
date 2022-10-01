@@ -11,7 +11,7 @@ This folder will be used to store and explain the modelling of GW2 data as well 
 
 Thanks to Excalidraw, I designed a small schema to explain how the route can be approached:
 
-![SQL_schema](sql_schema.png 'SQL_schema')
+![SQL_schema](Data_modelling\pic_files\sql_schema.png 'SQL_schema')
 
 #### Data schema:
 - **Name + Account table**: 1-to-N relationship
@@ -38,7 +38,7 @@ We must have in mind that, in Deimos, Saul D'Alesio (an NPC) will help us, but i
 
 We will end up with a csv like this:
 
-![deimos_csv](dei_csv.png 'dei_csv')
+![deimos_csv](Data_modelling\pic_files\dei_csv.png 'dei_csv')
 
 We can now use this and create graphs using Pandas, Seaborn, Matplotlib, etc...
 
