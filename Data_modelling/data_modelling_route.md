@@ -11,7 +11,7 @@ This folder will be used to store and explain the modelling of GW2 data as well 
 
 Thanks to Excalidraw, I designed a small schema to explain how the route can be approached:
 
-![SQL_schema](C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Data_modelling\pic_files\sql_schema.png 'SQL_schema')
+![SQL_schema](sql_schema.png 'SQL_schema')
 
 #### Data schema:
 - **Name + Account table**: 1-to-N relationship
