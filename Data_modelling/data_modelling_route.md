@@ -38,7 +38,7 @@ We must have in mind that, in Deimos, Saul D'Alesio (an NPC) will help us, but i
 
 We will end up with a csv like this:
 
-![deimos_csv](Data_modelling\pic_files\dei_csv.png 'dei_csv')
+![deimos_csv](dei_csv.png 'dei_csv')
 
 We can now use this and create graphs using Pandas, Seaborn, Matplotlib, etc...
 
