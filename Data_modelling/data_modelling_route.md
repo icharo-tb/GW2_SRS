@@ -42,6 +42,26 @@ We will end up with a csv like this:
 
 We can now use this and create graphs using Pandas, Seaborn, Matplotlib, etc...
 
+#### Updated queries
+Using IDs is normally the way developers make sure they connected the PK(Primary Key) of a customer or client in a table *clients*, to a FK(Foreign Key) in another table. If we ended up doing that on this specific ETL we will end up getting an error, and this is how I managed to work it out:
+
+- We must have something in consideration; since all the information is coming from an ETL source, it cannot really apply a unique ID until it is loaded into the SQL table having the AUTO-INCREMENT and UNIQUE constrains.
+- Therefore, this means I created several tables:
+  + A table for players, accounts, professions and unique IDs
+  + Two tables, one for bosses and it's unique IDs and one for professions with the same idea. The objective is not repeating data that could already be stored in a table, therefore, we can refer this tables as FKs.
+  + Multiple DPS tables referring to every boss
+
+Is here when I started to have problems. The DPS tables stored data based on an ID as well, but if *JohnDoe.9100* had ID 30 on the players table and his damage in Vale Guardian actual corresponds to ID 2 it wouldn't work at all, there was no connection and therefore it leads to error.
+
+The solution was not what I would have done if I had other options in mind, however, it worked fine. I created a FK for every dps table that contained the user account, this way we could just refer the FK to the players table and get the connection done. I thought on doing it with the boss number, but it could also resulted in some problems.
+
+This choice was mainly done because we use ID as a unique value that represents something, and actually, in a game, your account name is already a unique value that identifies the player and it's also **immutable**.
+
+![foreign key](fk_shot.png 'foreign_key')
+
+We end up with a table like this one:
+
+![adina_table](adina_ex.png 'adina')
 ---
 
 #### Previous problems encountered
