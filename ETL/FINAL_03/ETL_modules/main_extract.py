@@ -23,10 +23,11 @@ def extract(url):
 
 class bossName:
 
-    def __init__(self, url) -> None:
+    def __init__(self, url):
         self.url = url
 
-    def getBossname(url):
+    def getBossname(self):
+        url = self.url
         urlLines = url.split('/')
         if len(urlLines) < 5:
             bossName = urlLines[3]
