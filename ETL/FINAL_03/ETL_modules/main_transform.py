@@ -1,5 +1,6 @@
 #----------------IMPORTS-----------------
 import json
+from main_extract import bossName
 
 #----------------MAIN FUNCTION-----------------
 
