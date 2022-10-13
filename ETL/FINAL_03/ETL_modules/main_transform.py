@@ -1,13 +1,13 @@
 #----------------IMPORTS-----------------
 import json
-from main_extract import bossName
+from main_extract import Boss
 
 #----------------MAIN FUNCTION-----------------
 
 def transform(jsonFile):
     data = json.loads(jsonFile)
 
-    bossTag = bossName.split('_')
+    bossTag = Boss.split('_')
     global nameTag
     nameTag = bossTag[1]
 
@@ -223,7 +223,7 @@ def transform(jsonFile):
 
                 phase4_time_raw = data['phases'][9]['duration']
                 phase4_time = round(phase4_time_raw/1000,1)
-            except:
+            except IndexError:
                 phase4_dps = data['phases'][8]['dpsStats']
 
                 phase4_time_raw = data['phases'][8]['duration']
@@ -604,20 +604,20 @@ def transform(jsonFile):
             # 10-0
             try:
                 from10_to0 = data['phases'][17]['dpsStats']
-            except:
+            except IndexError:
                 try:
                     from10_to0 = data['phases'][15]['dpsStats']
-                except:
+                except IndexError:
                     from10_to0 = data['phases'][12]['dpsStats']
 
             try:
                 from10_to0_time_raw = data['phases'][17]['duration']
                 from10_to0_time = round(from10_to0_time_raw/1000,1)
-            except:
+            except IndexError:
                 try:
                     from10_to0_time_raw = data['phases'][15]['duration']
                     from10_to0_time = round(from10_to0_time_raw/1000,1)
-                except:
+                except IndexError:
                     from10_to0_time_raw = data['phases'][12]['duration']
                     from10_to0_time = round(from10_to0_time_raw/1000,1)
 
@@ -711,7 +711,7 @@ def transform(jsonFile):
 
                 ritual_time_raw = data['phases'][10]['duration']
                 ritual_time = round(ritual_time_raw/1000,1)
-            except:
+            except IndexError:
                 ritual = data['phases'][8]['dpsStats']
 
                 ritual_time_raw = data['phases'][8]['duration']
@@ -1033,7 +1033,7 @@ def transform(jsonFile):
 
                 phase3_time_raw = data['phases'][5]['duration']
                 phase3_time = round(phase3_time_raw/1000,1)
-            except:
+            except IndexError:
                 phase3_dps = data['phases'][6]['dpsStats']
 
                 phase3_time_raw = data['phases'][6]['duration']
@@ -1050,7 +1050,7 @@ def transform(jsonFile):
                 
                 phase4_time_raw = data['phases'][7]['duration']
                 phase4_time = round(phase4_time_raw/1000,1)
-            except :
+            except IndexError:
                 phase4_dps = data['phases'][9]['dpsStats']
 
                 
@@ -1067,13 +1067,13 @@ def transform(jsonFile):
 
                 phase5_time_raw = data['phases'][9]['duration']
                 phase5_time = round(phase5_time_raw/1000,1)
-            except Exception:
+            except IndexError:
                 try:
                     phase5_dps = data['phases'][10]['dpsStats']
 
                     phase5_time_raw = data['phases'][10]['duration']
                     phase5_time = round(phase5_time_raw/1000,1)
-                except:
+                except IndexError:
                     phase5_dps = data['phases'][11]['dpsStats']
 
                     phase5_time_raw = data['phases'][11]['duration']
@@ -1089,13 +1089,13 @@ def transform(jsonFile):
 
                 phase6_time_raw = data['phases'][11]['duration']
                 phase6_time = round(phase6_time_raw/1000,1)
-            except Exception:
+            except IndexError:
                 try:
                     phase6_dps = data['phases'][12]['dpsStats']
 
                     phase6_time_raw = data['phases'][12]['duration']
                     phase6_time = round(phase6_time_raw/1000,1)
-                except:
+                except IndexError:
                     phase6_dps = data['phases'][13]['dpsStats']
 
                     phase6_time_raw = data['phases'][13]['duration']
