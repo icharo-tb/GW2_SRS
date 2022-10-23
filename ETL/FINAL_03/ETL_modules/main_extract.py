@@ -21,7 +21,7 @@ def extract(url):
         
     return jsonFile
 
-class boss:
+class Boss:
 
     def __init__(self, url: str) -> str:
         self.url = url
@@ -42,14 +42,14 @@ class boss:
         
 #-------------BOSS-CLASS---------------
 
-print(type(boss('https://gw2wingman.nevermindcreations.de/log/20221008-212527_matt_kill')))
+print(type(Boss('https://gw2wingman.nevermindcreations.de/log/20221008-212527_matt_kill')))
 
-bossName = boss('https://gw2wingman.nevermindcreations.de/log/20221008-212527_matt_kill').getBossName()
+bossName = Boss('https://gw2wingman.nevermindcreations.de/log/20221008-212527_matt_kill').getBossName()
 print(type(bossName))
 print(bossName) 
 # When we create the actual object and get its bossName method, we should store it in a variable so we can use it later on
 
-bossTag = boss('https://gw2wingman.nevermindcreations.de/log/20221008-212527_matt_kill').getBossTag(bossName)
+bossTag = Boss('https://gw2wingman.nevermindcreations.de/log/20221008-212527_matt_kill').getBossTag(bossName)
 print(type(bossTag))
 print(bossTag)
 # Here we call getBossTag method and pass our previous bossName variable as an argument
