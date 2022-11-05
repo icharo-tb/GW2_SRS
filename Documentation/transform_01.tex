@@ -61,6 +61,8 @@
     \newpage
 
     \section*{\large 2.2 In-depth data explanation}
+
+    \subsection*{\normalsize 2.2.1 JSON format}
     In order to understand the data, I had to read and investigate the JSON files lots of times.
     Due to the JSON files size, I decided to use a JSON Viewer\footnote{http://jsonviewer.stack.hu/} 
     to help me with this task.\\
@@ -108,11 +110,79 @@
     \end{lstlisting}
     
     \begin{lstlisting}[language=Python, caption={\textbf{Zipped data for SQLite query}},captionpos=!b]
-        for (name,acc,profession) in zip \\
+        for (name,acc,profession) in zip \
         (player_names,player_acc,player_classes):
     \end{lstlisting}
 
     It was important using a zipped For loop since the query need to be executed for every player.
     This is indeed not efficient if we look into the repetition of the same query for a simple operation
     but since there are only 10 players per boss fight, it ended up being rather useful.
+
+    \newpage
+
+    \subsection*{\normalsize 2.2.2 DPS data}
+    Finding each boss DPS data was indeed a quite difficult task. In order to get deeper in this topic
+    I must explain a few concepts from Guild Wars 2 game itself.
+
+    Guild Wars 2 is an MMO having different classes or profession that the player can create, however, in
+    raid, strikes and fractals, we must have in mind that classes have two kind of damage: Condition damage
+    and Power damage. This is important to understand since the DPS on each boss, and for each player, is divided
+    between Condition and Power as well as it has a combination of both.
+
+    Every class in the game can deal both Power and Condition, but some classes are more suitable to deal Power
+    damage and some other classes are more suitable to deal Condition damage.
+
+    Once explained this, we can get a bit deeper into the data. As I said before, the DPS data has three values
+    per phase:
+    \begin{itemize}
+        \item Power + Condition
+        \item Condition
+        \item Power
+    \end{itemize} 
+
+    There are more data stored in the JSON, but what I needed is essentially this. I used the combined one, and
+    you may wonder why not use the specific damage for each class. This not only would be extremely inefficient in
+    the long run, but also, damage is also affected but extra aspects and boons added by other classes, so even if
+    you are a Power class, you could get a buff from a Thief class making your attacks deal Poison damage which is 
+    considered a Condition. Therefore, using the combined one is rather a better option.
+
+    Another important fact to now is that, each boss has different phases. It's true that some bosses share same phases
+    and same index, but this does not represent the majority of the bosses. Therefore, each boss needs its own index
+    founder. It looks like this in the actual code:
+
+    \begin{lstlisting}[language=Python]
+    if nameTag == 'vg':
+
+            # Phase_1
+            phase1 = data['phases'][1]['dpsStats']
+
+            phase1_time_raw = data['phases'][1]['duration']
+            phase1_time = round(phase1_time_raw/1000,1)
+
+            for dps in phase1:
+                dps1_raw = dps[0]
+                player_dps1.append(round(dps1_raw/phase1_time,2))
+
+            # Phase_2
+            phase2 = data['phases'][6]['dpsStats']
+
+            phase2_time_raw = data['phases'][6]['duration']
+            phase2_time = round(phase2_time_raw/1000,1)
+
+            for dps in phase2:
+                dps2_raw = dps[0]
+                player_dps2.append(round(dps2_raw/phase2_time,2))
+
+            # Phase_3
+            phase3 = data['phases'][12]['dpsStats']
+
+            phase3_time_raw = data['phases'][12]['duration']
+            phase3_time = round(phase3_time_raw/1000,1)
+
+            for dps in phase3:
+                dps3_raw = dps[0]
+                player_dps3.append(round(dps3_raw/phase3_time,2))
+    \end{lstlisting}
+
+    We are applying several things here.
 \end{document}
