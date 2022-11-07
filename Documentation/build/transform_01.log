@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.13)  28 OCT 2022 12:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.13)  7 NOV 2022 12:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -238,7 +238,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 \l__pdf_internal_box=\box57
-) (c:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\transform_01.aux)
+) (C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\transform_01.aux)
 \openout1 = `transform_01.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -260,7 +260,7 @@ LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 Package hyperref Info: Link coloring OFF on input line 21.
- (c:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\transform_01.out) (c:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\transform_01.out)
+ (C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\transform_01.out) (C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\transform_01.out)
 \@outlinefile=\write4
 \openout4 = `transform_01.out'.
 
@@ -344,52 +344,68 @@ File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
- [4]
-Overfull \hbox (25.94928pt too wide) in paragraph at lines 159--160
-[][][][][][][][][][][][][][][][][][] 
- []
-
-[5]
-Overfull \hbox (68.2492pt too wide) in paragraph at lines 164--166
-[][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (25.94928pt too wide) in paragraph at lines 169--170
+ [4] [5]
+Overfull \hbox (25.94928pt too wide) in paragraph at lines 161--162
 [][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (68.2492pt too wide) in paragraph at lines 174--176
+Overfull \hbox (68.2492pt too wide) in paragraph at lines 166--168
 [][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (32.99927pt too wide) in paragraph at lines 179--180
+Overfull \hbox (25.94928pt too wide) in paragraph at lines 171--172
 [][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (68.2492pt too wide) in paragraph at lines 184--185
+Overfull \hbox (68.2492pt too wide) in paragraph at lines 176--178
 [][][][][][][][][][][][][][] 
  []
 
-[6] (c:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\transform_01.aux)
+
+Overfull \hbox (32.99927pt too wide) in paragraph at lines 181--182
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (68.2492pt too wide) in paragraph at lines 186--187
+[][][][][][][][][][][][][][] 
+ []
+
+[6]
+<Images/GitHub-logo.png, id=113, 3854.4pt x 2168.1pt>
+File: Images/GitHub-logo.png Graphic file (type png)
+<use Images/GitHub-logo.png>
+Package pdftex.def Info: Images/GitHub-logo.png  used on input line 211.
+(pdftex.def)             Requested size: 58.49762pt x 32.884pt.
+<Images/LinkedIn_Logo.png, id=115, 2569.6pt x 697.60625pt>
+File: Images/LinkedIn_Logo.png Graphic file (type png)
+<use Images/LinkedIn_Logo.png>
+Package pdftex.def Info: Images/LinkedIn_Logo.png  used on input line 214.
+(pdftex.def)             Requested size: 58.49762pt x 15.8711pt.
+<Images/GitLab_logo.png, id=117, 2569.6pt x 986.68625pt>
+File: Images/GitLab_logo.png Graphic file (type png)
+<use Images/GitLab_logo.png>
+Package pdftex.def Info: Images/GitLab_logo.png  used on input line 217.
+(pdftex.def)             Requested size: 58.49762pt x 22.44789pt.
+ [7 <./Images/GitHub-logo.png> <./Images/LinkedIn_Logo.png> <./Images/GitLab_logo.png>] (C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\transform_01.aux)
 Package rerunfilecheck Info: File `transform_01.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12160 strings out of 478338
- 195365 string characters out of 2836227
- 682001 words of memory out of 3000000
- 30387 multiletter control sequences out of 15000+600000
+ 12183 strings out of 478338
+ 195935 string characters out of 2836227
+ 691001 words of memory out of 3000000
+ 30405 multiletter control sequences out of 15000+600000
  476325 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,77p,407b,1931s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,10n,77p,407b,1326s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\DANIEL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on c:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\transform_01.pdf (6 pages, 482907 bytes).
+Output written on C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\transform_01.pdf (7 pages, 658801 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 72 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

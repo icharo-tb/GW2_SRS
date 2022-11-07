@@ -146,6 +146,8 @@
     you are a Power class, you could get a buff from a Thief class making your attacks deal Poison damage which is 
     considered a Condition. Therefore, using the combined one is rather a better option.
 
+    \newpage
+
     Another important fact to now is that, each boss has different phases. It's true that some bosses share same phases
     and same index, but this does not represent the majority of the bosses. Therefore, each boss needs its own index
     founder. It looks like this in the actual code:
@@ -184,5 +186,35 @@
                 player_dps3.append(round(dps3_raw/phase3_time,2))
     \end{lstlisting}
 
-    We are applying several things here.
+    \newpage
+
+    We are applying several things here. For instance, every boss has between 3 and 6 phases where you can actually damage it,
+    this doesn't mean that there are no extra phases, but the damage there is really not that important or substantial to have
+    it in mind for an analysis. Therefore, I picked the main phases and made a set of operations over it:
+
+    \begin{itemize}
+        \item I applied a For loop on every phase, so it saves the damage dealt for every player.
+        \item This information is appended to an empty list.
+        \item Finally, but really important, all the damage is divided by the time phase.
+    \end{itemize}
+
+    \bigskip
+
+    If we look at the JSON file, it's easy to see that all phase timestamps are written like a single int number (i.e: 190s = 190000),
+    this was actually problematic when trying to divide the phase dmg numbers. So the best option I found to deal with this problem
+    was dividing it by 1000 so it shows time in seconds and therefore division could be executed better. To end with this data, I just
+    applied a \textbf{round} operation.
+
+    \begin{figure}[b]
+        \centering
+        \begin{subfigure}[b]{0.15\linewidth}
+            \href{https://github.com/icharo-tb}{\includegraphics[width=\linewidth]{Images/GitHub-logo.png}}
+        \end{subfigure}
+        \begin{subfigure}[b]{0.15\linewidth}
+            \href{https://www.linkedin.com/in/danielopezpajares/}{\includegraphics[width=\linewidth]{Images/LinkedIn_Logo.png}}
+        \end{subfigure}
+        \begin{subfigure}[b]{0.15\linewidth}
+            \href{https://gitlab.com/daniel.lopez.pajares.2021}{\includegraphics[width=\linewidth]{Images/GitLab_logo.png}}
+        \end{subfigure}
+    \end{figure}
 \end{document}
