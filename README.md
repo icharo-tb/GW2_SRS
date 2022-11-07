@@ -13,7 +13,7 @@
 
 
 
-<img align="left" width="40" height="40" src="Assets/World_Completion.png" alt="PoI (Points of Interest)">
+<img align="left" width="50" height="50" src="Assets/World_Completion.png" alt="PoI (Points of Interest)">
 
 # PoI (Points of Interest)
 
