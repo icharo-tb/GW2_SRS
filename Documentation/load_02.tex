@@ -1,0 +1,120 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{comment}
+\usepackage[hidelinks]{hyperref}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{float}
+
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+
+\title{%
+    \vspace*{-5mm}\Huge GW2-SRS LOAD \\
+    \vspace*{2mm}\Large powered by \LaTeX}
+
+\author{\vspace*{-5mm}\large Daniel Lopez: \textbf{Load algorithm}}
+
+\begin{document}
+
+    \maketitle
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=1 \textwidth]{Images/Nuevo_logo_GW2.png}
+    \end{figure}
+
+    \newpage
+
+    \section*{3.0 LOAD}
+
+    \section*{\large 3.1 Introduction}
+    The last part concerning the ETL process is loading the results into a database. 
+    In this case I decided going for MongoDB and SQLite.
+    The reason behind this decision was storing big JSON files in a suitable database like MongoDB, while
+    maintaining an space for structured tables on SQLite that I built with queries.\\
+
+    Now the key part here, is that at first I was saving entire JSONs on MongoDB, and while this is the
+    purpose of a No-SQL database, I preferred just uploading the dictionaries I created manually within the
+    ETL code. As for SQLite, there are two main queries, one for dps data and one for users.
+
+    \section*{\large 3.2 SQLite Queries}
+    In order to have every boss classified, I created a table for each boss, so the data loading was a matter
+    of inserting the data within the ETL, therefore I needed a connection with the database.\\
+
+    I used Python and sqlite3\footnote{sqlite3 is a Python library used to work with SQLite database} to set 
+    up the connection and execute the queries. The main connection can be set up using the following:
+
+    \begin{lstlisting}[language=Python, caption=SQLite Connection]
+        conn = sqlite3.connect("Your_database_path")
+        cur = conn.cursor()
+    \end{lstlisting}
+
+    \bigskip
+
+    From this line, we can easily execute any query inside the database by calling the cursor:
+
+    \begin{lstlisting}[language=Python, caption=Query example]
+        cur.execute(
+            f"INSERT INTO vg_dps(phase1_dps,phase2_dps,phase3_dps,FK_player_id) \
+            VALUES({dps1},{dps2},{dps3},'{acc}')"
+        )
+    \end{lstlisting}
+
+    \newpage
+
+    \section*{3.3 MongoDB Connection}
+    As for MongoDB, the connection is quite simple as well. I chose to use PyMongo library and 
+    a MongoDB Atlas Cluster to help me out. I used the local cluster, but this process could also
+    be made on the cloud cluster as well. The connection would look like the following:
+
+    \begin{lstlisting}[language=Python, caption=MongoDB Connection]
+        client = pymongo.MongoClient('mongodb://localhost:27017/')
+    \end{lstlisting}
+
+    \begin{lstlisting}[language=Python, caption=MongoDB data load]
+        db = client['GW2_SRS']
+        collection = db['players_info']
+
+        collection.insert_one(json_data)
+        print('MongoDB load done!')
+    \end{lstlisting}
+
+    \begin{figure}[b]
+        \centering
+        \begin{subfigure}[b]{0.15\linewidth}
+            \href{https://github.com/icharo-tb}{\includegraphics[width=\linewidth]{Images/GitHub-logo.png}}
+        \end{subfigure}
+        \begin{subfigure}[b]{0.15\linewidth}
+            \href{https://www.linkedin.com/in/danielopezpajares/}{\includegraphics[width=\linewidth]{Images/LinkedIn_Logo.png}}
+        \end{subfigure}
+        \begin{subfigure}[b]{0.15\linewidth}
+            \href{https://gitlab.com/daniel.lopez.pajares.2021}{\includegraphics[width=\linewidth]{Images/GitLab_logo.png}}
+        \end{subfigure}
+    \end{figure}
+\end{document}
