@@ -1,14 +1,20 @@
 <div align="center">
-  <h1>GW2-SRS</h1>
+  <h1>
+  <img align='center' width='30' height='30' src='Assets/purple-icon.png'>
+  GW2-SRS
+  <img align='center' width='30' height='30' src='Assets/purple-icon.png'>
+  </h1>
+  <h3>
+  Guild Wars 2 - System for Raid Study
+  </h3>
 </div>
 
-
-### Guild Wars 2 - System for Raid Study (with applied big data techniques)
------------------------------------------------------------------------------------
 [![gw2](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b6cc678-b1b3-4c10-9c25-e278bd301dd5/d8u83ma-186a112b-4859-4613-91b6-dffed9d8ca7a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNiNmNjNjc4LWIxYjMtNGMxMC05YzI1LWUyNzhiZDMwMWRkNVwvZDh1ODNtYS0xODZhMTEyYi00ODU5LTQ2MTMtOTFiNi1kZmZlZDlkOGNhN2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uL8HBogU4dH7WKAibcZ7QuMN-r4-X1LVeIzpe99jJ2M "gw2")](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b6cc678-b1b3-4c10-9c25-e278bd301dd5/d8u83ma-186a112b-4859-4613-91b6-dffed9d8ca7a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNiNmNjNjc4LWIxYjMtNGMxMC05YzI1LWUyNzhiZDMwMWRkNVwvZDh1ODNtYS0xODZhMTEyYi00ODU5LTQ2MTMtOTFiNi1kZmZlZDlkOGNhN2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uL8HBogU4dH7WKAibcZ7QuMN-r4-X1LVeIzpe99jJ2M "gw2")
 
 
------------------------------------------------------------------------------------
+
+<img align="left" width="40" height="40" src="Assets/World_Completion.png" alt="PoI (Points of Interest)">
+
 # PoI (Points of Interest)
 
 
@@ -19,6 +25,7 @@
   - [Transform](#transforming-data)
   - [Load](#loading-data)
 - [Data-Modelling](#data-modelling)
+- [Documentation](#documentation)
 - [Tools Used](#tools-used)
 
 #### Objectives
@@ -26,35 +33,43 @@
 - Extracting data from [GW2 Wingman](https://gw2wingman.nevermindcreations.de/home) webpage developed by [Johannes Pfau](https://scholar.google.de/citations?user=bzNu0ncAAAAJ&hl=de).
 - Understanding of results by analyzing fails and kills on each boss.
 - Apply Big Data techniques and learn throughout the whole process.
------------------------------------------------------------------------------------
+---
 
 ### Route
-##### Extract of Data
+#### Extract of Data
 - Getting data from ARC Dps tool as .zevtc files (log files).
 - Parsing .zevtc files to csv/json using [Elite Insights](https://github.com/baaron4/GW2-Elite-Insights-Parser "Elite Insights") tool from GitHub user [baaron4](https://github.com/baaron4 "baaron4").
 - Web Scraping data of different bosses from [GW2 Wingman](https://gw2wingman.nevermindcreations.de/home) website.
 
-##### Transforming Data
+#### Transforming Data
 - Working with Microsoft Excel and [CSVed](https://csved.sjfrancke.nl/ "CSVed") to get usefull and clean .csv files for data management.
 - Use of Jupyter Notebooks, Python and Pandas for data analysis.
 - Use of pandas to read JSON files and sort boss information.
 - Use of python libraries to create KPIs: Matplotlib, Seaborn...
 
-##### Loading Data
+#### Loading Data
 - Main connection to MongoDB.
 - Secondary connections to SQLite, MySQL and PostgreSQL.
------------------------------------------------------------------------------------
+---
 
 ### Data modelling
-- Construction of a data modelling system with SQLite.
+- Construction of a **data modelling** system within SQLite.
 - Data analysis with both databases: MongoDB and SQLite.
+- **Graphs** and **KPIs** development.
+---
+
+### Documentation
+- Gather all the **information** about the project.
+- Written in **LaTeX** as it deploys a clean PDF file.
 ---
 
 ### Tools used
 
 - [EditorMD](https://pandao.github.io/editor.md/en.html "EditorMD") from [Pandao](https://github.com/pandao)
 - Python
-  - Web Scraping: BeautifulSoup, Selenium, requests
-  - Transformation and analysis: Pandas, Jupyter Notebooks
+  - **Web Scraping**: BeautifulSoup, Selenium, requests
+  - **Transformation and analysis**: Pandas, Jupyter Notebooks
+  - **Load**: sqlite3, PyMongo
 - VS Code
-- MongoDB
+- MongoDB, SQLite
+- LaTeX
