@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.13)  7 NOV 2022 17:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.13)  8 NOV 2022 10:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -367,7 +367,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,10n,77p,407b,1326s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\DANIEL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\transform_01.pdf (7 pages, 666638 bytes).
+Output written on C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\transform_01.pdf (7 pages, 666655 bytes).
 PDF statistics:
  187 PDF objects out of 1000 (max. 8388607)
  78 named destinations out of 1000 (max. 500000)

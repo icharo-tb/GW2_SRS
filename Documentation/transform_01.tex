@@ -152,7 +152,7 @@
     Finding each boss DPS data was indeed a quite difficult task. In order to get deeper in this topic
     I must explain a few concepts from Guild Wars 2 game itself.
 
-    Guild Wars 2 is an MMO having different classes or profession that the player can create, however, in
+    Guild Wars 2 is an MMO, and have different classes or profession that the player can create, however, in
     raid, strikes and fractals, we must have in mind that classes have two kind of damage: Condition damage
     and Power damage. This is important to understand since the DPS on each boss, and for each player, is divided
     between Condition and Power as well as it has a combination of both.
@@ -168,17 +168,17 @@
         \item Power
     \end{itemize} 
 
-    There are more data stored in the JSON, but what I needed is essentially this. I used the combined one, and
-    you may wonder why not use the specific damage for each class. This not only would be extremely inefficient in
+    There is more data stored in the JSON, but what I needed is essentially this. I used the combined one, and
+    you may wonder why not use the specific damage for each class. This not only could be extremely inefficient in
     the long run, but also, damage is also affected but extra aspects and boons added by other classes, so even if
     you are a Power class, you could get a buff from a Thief class making your attacks deal Poison damage which is 
     considered a Condition. Therefore, using the combined one is rather a better option.
 
     \newpage
 
-    Another important fact to now is that, each boss has different phases. It's true that some bosses share same phases
+    Another important fact to know is that, each boss has different phases. It's true that some bosses share same phases
     and same index, but this does not represent the majority of the bosses. Therefore, each boss needs its own index
-    founder. It looks like this in the actual code:
+    finder. It looks like this in the actual code:
 
     \begin{lstlisting}[language=Python]
     if nameTag == 'vg':

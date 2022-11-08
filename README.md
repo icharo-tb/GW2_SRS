@@ -24,7 +24,7 @@
   - [Extraction](#extract-of-data)
   - [Transform](#transforming-data)
   - [Load](#loading-data)
-- [Data-Modelling](#data-modelling)
+- [Data Modelling](#data-modelling)
 - [Documentation](#documentation)
 - [Tools Used](#tools-used)
 
