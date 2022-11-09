@@ -1,7 +1,7 @@
 from main_etl import gw2_etl
 import time
 
-with open(r'C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\ETL\urls.txt') as f:
+with open(r'C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\ETL\FINAL_03\ETL_single_function\urls.txt') as f:
 
     count = 0
     nl = '\n'

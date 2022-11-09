@@ -11,13 +11,13 @@ from bs4 import BeautifulSoup
         # In order for the EXTRACT algorithm to work properly, for each href link, we will add the https from Wingman web
         # We will set a newline for every link, so lines do not appear together as a single line
 
-URL = 'https://gw2wingman.nevermindcreations.de/content/raid/xera'
+URL = 'https://gw2wingman.nevermindcreations.de/content/raid/sabir'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246'}
 
 response = requests.get(URL,HEADERS)
 soup = BeautifulSoup(response.content,'html.parser')
 
-fh = open(r'C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\ETL\EXTRACT_00\Web Scraping\Trials_env\urls.txt', 'a')
+fh = open(r'C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\ETL\FINAL_03\ETL_single_function\urls.txt', 'a')
 
 for link in soup.find_all('a'):
     url_str = 'https://gw2wingman.nevermindcreations.de'
