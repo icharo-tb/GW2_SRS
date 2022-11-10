@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.13)  10 NOV 2022 21:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.13)  10 NOV 2022 21:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/DANIEL/workspace/gw2_srs/GW2_SRS/Documentation/load_02.tex
-(c:/Users/DANIEL/workspace/gw2_srs/GW2_SRS/Documentation/load_02.tex
+**c:/Users/DANIEL/workspace/gw2_srs/GW2_SRS/Documentation/data_modelling.tex
+(c:/Users/DANIEL/workspace/gw2_srs/GW2_SRS/Documentation/data_modelling.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-07-04> (C:\Users\DANIEL\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -209,7 +209,22 @@ Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
- (C:\Users\DANIEL\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor.ltx)
+ (C:\Users\DANIEL\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+ (C:\Users\DANIEL\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen157
+\ar@mcellbox=\box55
+\extrarowheight=\dimen158
+\NC@list=\toks20
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box56
+)
+\everycr=\toks21
+\minrowclearance=\skip52
+\rownum=\count283
+) (C:\Users\DANIEL\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -219,50 +234,57 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\DANIEL\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen159
+\WF@size=\dimen160
+\c@WF@wrappedlines=\count284
+\WF@box=\box57
+\WF@everypar=\toks22
+Package: wrapfig 2003/01/31  v 3.6
 ) (C:\Users\DANIEL\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count283
-\l__pdf_internal_box=\box55
-) (C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\load_02.aux)
-\openout1 = `load_02.aux'.
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box58
+) (C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\data_modelling.aux)
+\openout1 = `data_modelling.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-Package hyperref Info: Link coloring OFF on input line 43.
- (C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\load_02.out) (C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\load_02.out)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+Package hyperref Info: Link coloring OFF on input line 47.
+ (C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\data_modelling.out) (C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\data_modelling.out)
 \@outlinefile=\write4
-\openout4 = `load_02.out'.
+\openout4 = `data_modelling.out'.
 
-\c@lstlisting=\count284
+\c@lstlisting=\count286
  (C:\Users\DANIEL\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
-\scratchdimen=\dimen157
-\scratchbox=\box56
-\nofMPsegments=\count286
-\nofMParguments=\count287
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count288
-\MPscratchDim=\dimen158
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count287
+\scratchdimen=\dimen161
+\scratchbox=\box59
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen162
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks24
 ) (C:\Users\DANIEL\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -271,79 +293,162 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 46.
+(Font)              <17.28> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 46.
+(Font)              <12> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 46.
+(Font)              <14.4> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 46.
+(Font)              <7> on input line 50.
 <Images/Nuevo_logo_GW2.png, id=3, 702.625pt x 488.82625pt>
 File: Images/Nuevo_logo_GW2.png Graphic file (type png)
 <use Images/Nuevo_logo_GW2.png>
-Package pdftex.def Info: Images/Nuevo_logo_GW2.png  used on input line 49.
+Package pdftex.def Info: Images/Nuevo_logo_GW2.png  used on input line 53.
 (pdftex.def)             Requested size: 390.0pt x 271.33907pt.
  [1
 
 {C:/Users/DANIEL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images/Nuevo_logo_GW2.png>]
-Overfull \hbox (5.05156pt too wide) in paragraph at lines 57--61
-\OT1/cmr/m/n/12 The last part con-cern-ing the ETL pro-cess is load-ing the re-sults into a database.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--61
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--69
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 91--94
 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 70.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 70.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 70.
-(C:\Users\DANIEL\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 73.
- [2]
-<Images/GitHub-logo.png, id=40, 3854.4pt x 2168.1pt>
-File: Images/GitHub-logo.png Graphic file (type png)
-<use Images/GitHub-logo.png>
-Package pdftex.def Info: Images/GitHub-logo.png  used on input line 111.
-(pdftex.def)             Requested size: 58.49762pt x 32.884pt.
-<Images/LinkedIn_Logo.png, id=42, 2569.6pt x 697.60625pt>
-File: Images/LinkedIn_Logo.png Graphic file (type png)
-<use Images/LinkedIn_Logo.png>
-Package pdftex.def Info: Images/LinkedIn_Logo.png  used on input line 114.
-(pdftex.def)             Requested size: 58.49762pt x 15.8711pt.
-<Images/GitLab_logo.png, id=44, 2569.6pt x 986.68625pt>
-File: Images/GitLab_logo.png Graphic file (type png)
-<use Images/GitLab_logo.png>
-Package pdftex.def Info: Images/GitLab_logo.png  used on input line 117.
-(pdftex.def)             Requested size: 58.49762pt x 22.44789pt.
- [3 <./Images/GitHub-logo.png> <./Images/LinkedIn_Logo.png> <./Images/GitLab_logo.png>] (C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\load_02.aux)
-Package rerunfilecheck Info: File `load_02.out' has not changed.
+<../Data_modelling/Assets/vg_graph.png, id=24, 468.3096pt x 298.4751pt>
+File: ../Data_modelling/Assets/vg_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/vg_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/vg_graph.png  used on input line 120.
+(pdftex.def)             Requested size: 187.32051pt x 119.38792pt.
+<../Data_modelling/Assets/gors_graph.png, id=25, 453.8556pt x 298.4751pt>
+File: ../Data_modelling/Assets/gors_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/gors_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/gors_graph.png  used on input line 125.
+(pdftex.def)             Requested size: 181.53902pt x 119.38792pt.
+[3 <../Data_modelling/Assets/vg_graph.png> <../Data_modelling/Assets/gors_graph.png>]
+<../Data_modelling/Assets/sab_graph.png, id=37, 475.5366pt x 298.4751pt>
+File: ../Data_modelling/Assets/sab_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/sab_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/sab_graph.png  used on input line 138.
+(pdftex.def)             Requested size: 190.21126pt x 119.38792pt.
+<../Data_modelling/Assets/sloth_graph.png, id=38, 453.8556pt x 298.4751pt>
+File: ../Data_modelling/Assets/sloth_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/sloth_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/sloth_graph.png  used on input line 143.
+(pdftex.def)             Requested size: 181.53902pt x 119.38792pt.
+<../Data_modelling/Assets/matt_graph.png, id=39, 453.8556pt x 298.4751pt>
+File: ../Data_modelling/Assets/matt_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/matt_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/matt_graph.png  used on input line 149.
+(pdftex.def)             Requested size: 181.53902pt x 119.38792pt.
+<../Data_modelling/Assets/kc_graph.png, id=40, 462.528pt x 298.4751pt>
+File: ../Data_modelling/Assets/kc_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/kc_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/kc_graph.png  used on input line 154.
+(pdftex.def)             Requested size: 185.0079pt x 119.38792pt.
+<../Data_modelling/Assets/xera_graph.png, id=41, 453.8556pt x 298.4751pt>
+File: ../Data_modelling/Assets/xera_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/xera_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/xera_graph.png  used on input line 160.
+(pdftex.def)             Requested size: 181.53902pt x 119.38792pt.
+<../Data_modelling/Assets/cairn_graph.png, id=42, 453.8556pt x 298.4751pt>
+File: ../Data_modelling/Assets/cairn_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/cairn_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/cairn_graph.png  used on input line 165.
+(pdftex.def)             Requested size: 181.53902pt x 119.38792pt.
+<../Data_modelling/Assets/mo_graph.png, id=43, 453.8556pt x 298.4751pt>
+File: ../Data_modelling/Assets/mo_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/mo_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/mo_graph.png  used on input line 171.
+(pdftex.def)             Requested size: 181.53902pt x 119.38792pt.
+<../Data_modelling/Assets/sam_graph.png, id=44, 482.7636pt x 298.4751pt>
+File: ../Data_modelling/Assets/sam_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/sam_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/sam_graph.png  used on input line 176.
+(pdftex.def)             Requested size: 193.102pt x 119.38792pt.
+ [4 <../Data_modelling/Assets/sab_graph.png> <../Data_modelling/Assets/sloth_graph.png> <../Data_modelling/Assets/matt_graph.png> <../Data_modelling/Assets/kc_graph.png> <../Data_modelling/Assets/xera_graph.png> <../Data_modelling/Assets/cairn_graph.png> <../Data_modelling/Assets/mo_graph.png> <../Data_modelling/Assets/sam_graph.png>]
+<../Data_modelling/Assets/dei_graph.png, id=58, 473.3685pt x 298.4751pt>
+File: ../Data_modelling/Assets/dei_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/dei_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/dei_graph.png  used on input line 189.
+(pdftex.def)             Requested size: 189.34404pt x 119.38792pt.
+<../Data_modelling/Assets/sh_graph.png, id=59, 453.8556pt x 298.4751pt>
+File: ../Data_modelling/Assets/sh_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/sh_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/sh_graph.png  used on input line 194.
+(pdftex.def)             Requested size: 181.53902pt x 119.38792pt.
+<../Data_modelling/Assets/dhuum_graph.png, id=60, 453.8556pt x 298.4751pt>
+File: ../Data_modelling/Assets/dhuum_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/dhuum_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/dhuum_graph.png  used on input line 200.
+(pdftex.def)             Requested size: 181.53902pt x 119.38792pt.
+<../Data_modelling/Assets/ca_graph.png, id=61, 453.8556pt x 298.4751pt>
+File: ../Data_modelling/Assets/ca_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/ca_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/ca_graph.png  used on input line 205.
+(pdftex.def)             Requested size: 181.53902pt x 119.38792pt.
+<../Data_modelling/Assets/twins_graph.png, id=62, 462.528pt x 298.4751pt>
+File: ../Data_modelling/Assets/twins_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/twins_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/twins_graph.png  used on input line 211.
+(pdftex.def)             Requested size: 185.0079pt x 119.38792pt.
+<../Data_modelling/Assets/q1_graph.png, id=63, 453.8556pt x 298.4751pt>
+File: ../Data_modelling/Assets/q1_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/q1_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/q1_graph.png  used on input line 216.
+(pdftex.def)             Requested size: 181.53902pt x 119.38792pt.
+<../Data_modelling/Assets/adina_graph.png, id=64, 462.528pt x 298.4751pt>
+File: ../Data_modelling/Assets/adina_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/adina_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/adina_graph.png  used on input line 222.
+(pdftex.def)             Requested size: 185.0079pt x 119.38792pt.
+<../Data_modelling/Assets/sabir_graph.png, id=65, 453.8556pt x 298.4751pt>
+File: ../Data_modelling/Assets/sabir_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/sabir_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/sabir_graph.png  used on input line 227.
+(pdftex.def)             Requested size: 181.53902pt x 119.38792pt.
+ [5 <../Data_modelling/Assets/dei_graph.png> <../Data_modelling/Assets/sh_graph.png> <../Data_modelling/Assets/dhuum_graph.png> <../Data_modelling/Assets/ca_graph.png> <../Data_modelling/Assets/twins_graph.png> <../Data_modelling/Assets/q1_graph.png> <../Data_modelling/Assets/adina_graph.png> <../Data_modelling/Assets/sabir_graph.png>]
+<../Data_modelling/Assets/prlqadim_graph.png, id=79, 453.8556pt x 298.4751pt>
+File: ../Data_modelling/Assets/prlqadim_graph.png Graphic file (type png)
+<use ../Data_modelling/Assets/prlqadim_graph.png>
+Package pdftex.def Info: ../Data_modelling/Assets/prlqadim_graph.png  used on input line 236.
+(pdftex.def)             Requested size: 181.53902pt x 119.38792pt.
+
+Underfull \hbox (badness 1742) in paragraph at lines 240--244
+[][]\OT1/cmr/m/n/12 All this graphs rep-re-sent the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--253
+
+ []
+
+[6 <../Data_modelling/Assets/prlqadim_graph.png>] (C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\data_modelling.aux)
+Package rerunfilecheck Info: File `data_modelling.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11947 strings out of 478338
- 191841 string characters out of 2836227
- 720201 words of memory out of 3000000
- 30224 multiletter control sequences out of 15000+600000
- 475371 words of font info for 49 fonts, out of 8000000 for 9000
+ 11851 strings out of 478338
+ 196924 string characters out of 2836227
+ 489705 words of memory out of 3000000
+ 30123 multiletter control sequences out of 15000+600000
+ 474502 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,356b,1324s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\load_02.pdf (3 pages, 541366 bytes).
+ 72i,9n,77p,363b,528s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\DANIEL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/DANIEL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\Documentation\build\data_modelling.pdf (6 pages, 883509 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
