@@ -61,6 +61,7 @@
 ### Documentation
 - Gather all the **information** about the project.
 - Written in **LaTeX** as it deploys a clean PDF file.
+- You can find the complete documentation file [here](https://github.com/icharo-tb/GW2_SRS/blob/main/Documentation/build/complete_doc.pdf).
 ---
 
 ### Tools used
