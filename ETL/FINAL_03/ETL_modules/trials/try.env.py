@@ -110,3 +110,21 @@ print(do.players[1]['acc'])
 ps = players(data).findp()
 
 print(ps)
+
+
+#-----------LOAD-----------
+
+professions_dict = {
+    "Guardian": 1,"Dragonhunter": 2,"Firebrand": 3,"Willbender": 4,
+    "Revenant": 5,"Herald": 6,"Renegade": 7,"Vindicator": 8,
+    "Warrior": 9,"Berserker": 10,"Spellbreaker": 11,"Bladesworn": 12,
+    "Engineer": 13,"Scrapper": 14,"Holosmith": 15,"Mechanist": 16,
+    "Ranger": 17,"Druid": 18,"Soulbeast": 19,"Untamed": 20,
+    "Thief": 21,"Daredevil": 22,"Deadeye": 23,"Specter": 24,
+    "Elementalist": 25,"Tempest": 26,"Weaver": 27,"Catalyst": 28,
+    "Mesmer": 29,"Chronomancer": 30,"Mirage": 31,"Virtuoso": 32,
+    "Necromancer": 33,"Reaper": 34,"Scourge": 35,"Harbinger": 36
+}
+
+my_val = 'Tempest'
+print(professions_dict[my_val])
