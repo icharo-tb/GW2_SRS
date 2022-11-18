@@ -7,9 +7,7 @@ from main_extract import Boss
 def transform(jsonFile):
     data = json.loads(jsonFile)
 
-    bossTag = Boss.split('_')
-    global nameTag
-    nameTag = bossTag[1]
+    nameTag = Boss.getBossTag()
 
     # Target boss
     target = []
@@ -17,19 +15,6 @@ def transform(jsonFile):
         target.append('Twin Largos')
     else:
         target.append(data['targets'][0]['name'])
-    
-    #-----------Set global variables for data loading-----------
-    global stats_dict, player_group,player_acc,player_names,player_classes, \
-        player_dps1,player_dps2,player_dps3,player_dps4,player_dps5,player_dps6, \
-            ice_phase_dps,fire_phase_dps,storm_phase_dps,abomination_phase_dps, \
-                full_fight_dps_list, \
-                    from100_to75_dps,from75_to50_dps,from50_to25_dps,from25_to0_dps, \
-                        from100_to10_dps,from10_to0_dps, \
-                            pre_breakbar1_dps,pre_breakbar2_dps,pre_breakbar3_dps, \
-                                main_fight_dps,dhuum_fight_dps,ritual_dps, \
-                                    burn1_dps,burn2_dps,burn3_dps, \
-                                        nikare1_dps,kenut1_dps,nikare2_dps,kenut2_dps,nikare3_dps,kenut3_dps, \
-                                            qadimP1_dps,qadimP2_dps,qadimP3_dps
 
     #-----------Players Data-----------
     player_group = []
@@ -93,6 +78,8 @@ def transform(jsonFile):
         player_names.append(player['name'])
         player_classes.append(player['profession'])
     
+    #-----------DPS Sorting-----------
+
     try:
         #-----------Wing-1-----------
         if nameTag == 'vg':
@@ -465,7 +452,6 @@ def transform(jsonFile):
 
         #-----------Wing-4-----------
         elif nameTag == 'cairn':
-            full_fight_dps_list = []
 
             # Full_fight
             full_fight_dps = data['phases'][0]['dpsStats']

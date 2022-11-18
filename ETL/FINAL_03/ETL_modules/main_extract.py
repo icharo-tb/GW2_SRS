@@ -27,8 +27,7 @@ class Boss:
         self.url = url
 
     def getBossName(self) -> str:
-        url = self.url
-        urlLines = url.split('/')
+        urlLines = self.url.split('/')
         if len(urlLines) < 5:
             bossName = urlLines[3]
         elif len(urlLines) == 5:
@@ -40,7 +39,7 @@ class Boss:
         nameTag = bossTag[1]
         return nameTag
         
-#-------------BOSS-CLASS---------------
+#-------------BOSS-CLASS-TRIALS---------------
 
 print(type(Boss('https://gw2wingman.nevermindcreations.de/log/20221008-212527_matt_kill')))
 
