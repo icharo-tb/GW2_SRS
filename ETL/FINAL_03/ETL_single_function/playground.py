@@ -24,7 +24,11 @@ with open(r'C:\Users\DANIEL\workspace\gw2_srs\GW2_SRS\ETL\FINAL_03\ETL_single_fu
 print('Finished!')
 
 #--------------------------------------------
+import sys
+sys.path.append('/home/icharo-tb/workspace/GW2_SRS/ETL/FINAL_03/ETL_single_function')
 from main_etl import gw2_etl
+
+print(gw2_etl('https://gw2wingman.nevermindcreations.de/logContent/20230214-211444_vg_kill'))
 
 dps_list = ['https://dps.report/3AOX-20220928-224933_sh','https://dps.report/Q4Pq-20220928-232112_dhuum','https://dps.report/OeXM-20220928-234635_ca','https://dps.report/kixH-20220929-000549_twins','https://dps.report/1fuJ-20220929-003141_qadim','https://dps.report/QSTK-20220926-224701_adina','https://dps.report/Hvth-20220926-231357_sabir','https://dps.report/7UO2-20220927-000023_qpeer']
 

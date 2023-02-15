@@ -1178,7 +1178,7 @@ def gw2_etl(url):
         print('SQLite conn starting...')
 
         try:
-            conn = sqlite3.connect(r'C:\Users\DANIEL\OneDrive\Escritorio\BD_Study\SQL\SQLite\SQLite_queries\gw2_srs.db')
+            conn = sqlite3.connect('/home/icharo-tb/Documents/BD_Study/SQL/SQLite/SQLite_queries/gw2_srs.db')
             cur = conn.cursor()
         except Exception as e:
             print('Connection could not be done' + str(e))
@@ -1344,7 +1344,7 @@ def gw2_etl(url):
                 f'INSERT INTO player_info(account,name,boss_id,profession_id) VALUES("{acc}","{name}",{boss_id},{class_id})'
             )
             conn.commit()
-            
+
         print('Player data inserted!')
 
         print('-'*10)
