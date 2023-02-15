@@ -1326,82 +1326,25 @@ def gw2_etl(url):
         #-----------Players name, profession and account data insert-----------
         for (name,acc,profession) in zip(player_names,player_acc,player_classes):
 
-            if profession == 'Guardian':
-                class_id = 1
-            elif profession == 'Dragonhunter':
-                class_id = 2
-            elif profession == 'Firebrand':
-                class_id = 3
-            elif profession == 'Willbender':
-                class_id = 4
-            elif profession == 'Revenant':
-                class_id = 5
-            elif profession == 'Herald':
-                class_id = 6
-            elif profession == 'Renegade':
-                class_id = 7
-            elif profession == 'Vindicator':
-                class_id = 8
-            elif profession == 'Warrior':
-                class_id = 9
-            elif profession == 'Berserker':
-                class_id = 10
-            elif profession == 'Spellbreaker':
-                class_id = 11
-            elif profession == 'Bladesworn':
-                class_id = 12
-            elif profession == 'Engineer':
-                class_id = 13
-            elif profession == 'Scrapper':
-                class_id = 14
-            elif profession == 'Holosmith':
-                class_id = 15
-            elif profession == 'Mechanist':
-                class_id = 16
-            elif profession == 'Ranger':
-                class_id = 17
-            elif profession == 'Druid':
-                class_id = 18
-            elif profession == 'Soulbeast':
-                class_id = 19
-            elif profession == 'Untamed':
-                class_id = 20
-            elif profession == 'Thief':
-                class_id = 21
-            elif profession == 'Daredevil':
-                class_id = 22
-            elif profession == 'Deadeye':
-                class_id = 23
-            elif profession == 'Specter':
-                class_id = 24
-            elif profession == 'Elementalist':
-                class_id = 25
-            elif profession == 'Tempest':
-                class_id = 26
-            elif profession == 'Weaver':
-                class_id = 27
-            elif profession == 'Catalyst':
-                class_id = 28
-            elif profession == 'Mesmer':
-                class_id = 29
-            elif profession == 'Chronomancer':
-                class_id = 30
-            elif profession == 'Mirage':
-                class_id = 31
-            elif profession == 'Virtuoso':
-                class_id = 32
-            elif profession == 'Necromancer':
-                class_id = 33
-            elif profession == 'Reaper':
-                class_id = 34
-            elif profession == 'Scourge':
-                class_id = 35
-            elif profession == 'Harbinger':
-                class_id = 36
+            professions_dict = {
+            "Guardian": 1,"Dragonhunter": 2,"Firebrand": 3,"Willbender": 4,
+            "Revenant": 5,"Herald": 6,"Renegade": 7,"Vindicator": 8,
+            "Warrior": 9,"Berserker": 10,"Spellbreaker": 11,"Bladesworn": 12,
+            "Engineer": 13,"Scrapper": 14,"Holosmith": 15,"Mechanist": 16,
+            "Ranger": 17,"Druid": 18,"Soulbeast": 19,"Untamed": 20,
+            "Thief": 21,"Daredevil": 22,"Deadeye": 23,"Specter": 24,
+            "Elementalist": 25,"Tempest": 26,"Weaver": 27,"Catalyst": 28,
+            "Mesmer": 29,"Chronomancer": 30,"Mirage": 31,"Virtuoso": 32,
+            "Necromancer": 33,"Reaper": 34,"Scourge": 35,"Harbinger": 36
+            }
+
+            class_id = professions_dict[profession]
+            
             cur.execute(
                 f'INSERT INTO player_info(account,name,boss_id,profession_id) VALUES("{acc}","{name}",{boss_id},{class_id})'
             )
             conn.commit()
+            
         print('Player data inserted!')
 
         print('-'*10)

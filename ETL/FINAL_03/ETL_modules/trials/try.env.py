@@ -127,4 +127,9 @@ professions_dict = {
 }
 
 my_val = 'Tempest'
+vals = ['Elementalist', 'Guardian', 'Renegade']
+
+for x in vals:
+    print(f'{professions_dict[x]} : {x}')
+    
 print(professions_dict[my_val])
